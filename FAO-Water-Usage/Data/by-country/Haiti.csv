@@ -1,0 +1,427 @@
+,Variable Name,Variable Id,Year,Value,Symbol
+0,Total area of the country (excl. coastal water),4100,1962,2775.0,X
+1,Total area of the country (excl. coastal water),4100,1967,2775.0,X
+2,Total area of the country (excl. coastal water),4100,1972,2775.0,X
+3,Total area of the country (excl. coastal water),4100,1977,2775.0,X
+4,Total area of the country (excl. coastal water),4100,1982,2775.0,X
+5,Total area of the country (excl. coastal water),4100,1987,2775.0,X
+6,Total area of the country (excl. coastal water),4100,1992,2775.0,X
+7,Total area of the country (excl. coastal water),4100,1997,2775.0,X
+8,Total area of the country (excl. coastal water),4100,2002,2775.0,X
+9,Total area of the country (excl. coastal water),4100,2007,2775.0,X
+10,Total area of the country (excl. coastal water),4100,2012,2775.0,X
+11,Total area of the country (excl. coastal water),4100,2017,2775.0,E
+12,Total area of the country (excl. coastal water),4100,2018,2775.0,E
+13,Cultivated area (arable land + permanent crops),4103,1962,1165.0,X
+14,Cultivated area (arable land + permanent crops),4103,1967,1190.0,X
+15,Cultivated area (arable land + permanent crops),4103,1972,1084.0,X
+16,Cultivated area (arable land + permanent crops),4103,1977,1085.0,X
+17,Cultivated area (arable land + permanent crops),4103,1982,1100.0,X
+18,Cultivated area (arable land + permanent crops),4103,1987,1100.0,X
+19,Cultivated area (arable land + permanent crops),4103,1992,1080.0,X
+20,Cultivated area (arable land + permanent crops),4103,1997,1200.0,X
+21,Cultivated area (arable land + permanent crops),4103,2002,1180.0,X
+22,Cultivated area (arable land + permanent crops),4103,2007,1330.0,X
+23,Cultivated area (arable land + permanent crops),4103,2012,1280.0,X
+24,Cultivated area (arable land + permanent crops),4103,2017,1350.0,X
+25,Cultivated area (arable land + permanent crops),4103,2018,1350.0,X
+26,Total population,4104,1962,4019.173,X
+27,Total population,4104,1967,4425.303,X
+28,Total population,4104,1972,4837.332,X
+29,Total population,4104,1977,5294.619,X
+30,Total population,4104,1982,5910.227,X
+31,Total population,4104,1987,6618.744,X
+32,Total population,4104,1992,7319.493,X
+33,Total population,4104,1997,8030.726,X
+34,Total population,4104,2002,8754.15,X
+35,Total population,4104,2007,9495.328,X
+36,Total population,4104,2012,10250.93,X
+37,Total population,4104,2017,10982.366,X
+38,Total population,4104,2018,11123.178,X
+39,Rural population,4105,1962,3364.314,X
+40,Rural population,4105,1967,3626.244,X
+41,Rural population,4105,1972,3885.514,X
+42,Rural population,4105,1977,4248.634,X
+43,Rural population,4105,1982,4728.75,X
+44,Rural population,4105,1987,4984.45,X
+45,Rural population,4105,1992,5111.787,X
+46,Rural population,4105,1997,5370.79,X
+47,Rural population,4105,2002,5394.951,X
+48,Rural population,4105,2007,5296.958,X
+49,Rural population,4105,2012,5198.418,X
+50,Rural population,4105,2017,5013.421,X
+51,Rural population,4105,2018,4969.937,X
+52,Urban population,4106,1962,658.279,X
+53,Urban population,4106,1967,819.286,X
+54,Urban population,4106,1972,991.046,X
+55,Urban population,4106,1977,1092.785,X
+56,Urban population,4106,1982,1226.517,X
+57,Urban population,4106,1987,1686.118,X
+58,Urban population,4106,1992,2275.188,X
+59,Urban population,4106,1997,2741.161,X
+60,Urban population,4106,2002,3439.782,X
+61,Urban population,4106,2007,4259.931,X
+62,Urban population,4106,2012,5090.792,X
+63,Urban population,4106,2017,5967.808,X
+64,Urban population,4106,2018,6143.008,X
+65,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.5828,I
+66,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.598,I
+67,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.6026,I
+68,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.6026,I
+69,Gross Domestic Product (GDP),4112,1962,274520013.0,X
+70,Gross Domestic Product (GDP),4112,1967,351260006.0,X
+71,Gross Domestic Product (GDP),4112,1972,493342053.0,X
+72,Gross Domestic Product (GDP),4112,1977,1255904962.0,X
+73,Gross Domestic Product (GDP),4112,1982,1955074018.0,X
+74,Gross Domestic Product (GDP),4112,1987,2597747243.0,X
+75,Gross Domestic Product (GDP),4112,1992,2111495494.0,X
+76,Gross Domestic Product (GDP),4112,1997,3242691825.0,X
+77,Gross Domestic Product (GDP),4112,2002,3214579360.0,X
+78,Gross Domestic Product (GDP),4112,2007,6174268544.0,X
+79,Gross Domestic Product (GDP),4112,2012,7817562675.0,X
+80,Gross Domestic Product (GDP),4112,2017,8521132072.0,X
+81,GDP per capita,4458,1972,101.165997,X
+82,GDP per capita,4458,1977,235.125715,X
+83,GDP per capita,4458,1982,328.29326,X
+84,GDP per capita,4458,1987,389.43419,X
+85,GDP per capita,4458,1992,285.840347,X
+86,GDP per capita,4458,1997,399.742531,X
+87,GDP per capita,4458,2002,363.85699,X
+88,GDP per capita,4458,2007,646.054228,X
+89,GDP per capita,4458,2012,759.782595,X
+90,GDP per capita,4458,2017,775.972532,X
+91,GDP per capita,4458,2018,835.716025,X
+92,"Agriculture, value added (% GDP)",4113,1972,42.134366,X
+93,"Agriculture, value added (% GDP)",4113,1977,35.665761,X
+94,"Agriculture, value added (% GDP)",4113,1982,32.481533,X
+95,"Agriculture, value added (% GDP)",4113,1987,33.512011,X
+96,"Agriculture, value added (% GDP)",4113,1992,34.120319,X
+97,"Agriculture, value added (% GDP)",4113,1997,20.814888,X
+98,"Agriculture, value added (% GDP)",4113,2002,20.959711,X
+99,"Agriculture, value added (% GDP)",4113,2007,21.851396,X
+100,"Agriculture, value added (% GDP)",4113,2012,17.57622,X
+101,"Agriculture, value added (% GDP)",4113,2017,18.266091,X
+102,"Agriculture, value added (% GDP)",4113,2018,18.128958,X
+103,Number of people undernourished (3-year average),4473,1992,4400.0,X
+104,Number of people undernourished (3-year average),4473,1997,4900.0,X
+105,Number of people undernourished (3-year average),4473,2002,4600.0,X
+106,Number of people undernourished (3-year average),4473,2007,5100.0,X
+107,Number of people undernourished (3-year average),4473,2010,4800.0,X
+108,Number of people undernourished (3-year average),4473,2018,5300.0,X
+109,Prevalence of undernourishment (3-year average),4474,1992,61.1,X
+110,Prevalence of undernourishment (3-year average),4474,1997,61.4,X
+111,Prevalence of undernourishment (3-year average),4474,2002,53.2,X
+112,Prevalence of undernourishment (3-year average),4474,2007,54.2,X
+113,Prevalence of undernourishment (3-year average),4474,2009,51.4,X
+114,Total population with access to safe drinking-water (JMP),4114,1992,62.8,X
+115,Total population with access to safe drinking-water (JMP),4114,1997,61.7,X
+116,Total population with access to safe drinking-water (JMP),4114,2002,60.8,X
+117,Total population with access to safe drinking-water (JMP),4114,2007,60.2,X
+118,Total population with access to safe drinking-water (JMP),4114,2012,58.5,X
+119,Total population with access to safe drinking-water (JMP),4114,2017,57.7,I
+120,Total population with access to safe drinking-water (JMP),4114,2018,57.7,I
+121,Long-term average annual precipitation in volume,4150,1962,39.96,E
+122,Long-term average annual precipitation in volume,4150,1967,39.96,E
+123,Long-term average annual precipitation in volume,4150,1972,39.96,E
+124,Long-term average annual precipitation in volume,4150,1977,39.96,E
+125,Long-term average annual precipitation in volume,4150,1982,39.96,E
+126,Long-term average annual precipitation in volume,4150,1987,39.96,E
+127,Long-term average annual precipitation in volume,4150,1992,39.96,E
+128,Long-term average annual precipitation in volume,4150,1997,39.96,E
+129,Long-term average annual precipitation in volume,4150,2002,39.96,E
+130,Long-term average annual precipitation in volume,4150,2007,39.96,E
+131,Long-term average annual precipitation in volume,4150,2012,39.96,E
+132,Long-term average annual precipitation in volume,4150,2017,39.96,E
+133,Long-term average annual precipitation in volume,4150,2018,39.96,E
+134,Interannual variability (WRI),4541,2017,2.4,I
+135,Interannual variability (WRI),4541,2018,2.4,I
+136,Seasonal variability (WRI),4542,2017,1.9,I
+137,Seasonal variability (WRI),4542,2018,1.9,I
+138,Flood occurrence (WRI),4543,2017,3.9,I
+139,Flood occurrence (WRI),4543,2018,3.9,I
+140,Surface water: entering the country (total),4159,1962,1.015,
+141,Surface water: entering the country (total),4159,1967,1.015,
+142,Surface water: entering the country (total),4159,1972,1.015,
+143,Surface water: entering the country (total),4159,1977,1.015,
+144,Surface water: entering the country (total),4159,1982,1.015,
+145,Surface water: entering the country (total),4159,1987,1.015,
+146,Surface water: entering the country (total),4159,1992,1.015,
+147,Surface water: entering the country (total),4159,1997,1.015,
+148,Surface water: entering the country (total),4159,2002,1.015,
+149,Surface water: entering the country (total),4159,2007,1.015,
+150,Surface water: entering the country (total),4159,2012,1.015,
+151,Surface water: entering the country (total),4159,2017,1.015,
+152,Surface water: leaving the country to other countries (total),4171,1962,0.0,
+153,Surface water: leaving the country to other countries (total),4171,1967,0.0,
+154,Surface water: leaving the country to other countries (total),4171,1972,0.0,
+155,Surface water: leaving the country to other countries (total),4171,1977,0.0,
+156,Surface water: leaving the country to other countries (total),4171,1982,0.0,
+157,Surface water: leaving the country to other countries (total),4171,1987,0.0,
+158,Surface water: leaving the country to other countries (total),4171,1992,0.0,
+159,Surface water: leaving the country to other countries (total),4171,1997,0.0,
+160,Surface water: leaving the country to other countries (total),4171,2002,0.0,
+161,Surface water: leaving the country to other countries (total),4171,2007,0.0,
+162,Surface water: leaving the country to other countries (total),4171,2012,0.0,
+163,Surface water: leaving the country to other countries (total),4171,2017,0.0,
+164,Groundwater: entering the country (total),4177,1962,0.0,
+165,Groundwater: entering the country (total),4177,1967,0.0,
+166,Groundwater: entering the country (total),4177,1972,0.0,
+167,Groundwater: entering the country (total),4177,1977,0.0,
+168,Groundwater: entering the country (total),4177,1982,0.0,
+169,Groundwater: entering the country (total),4177,1987,0.0,
+170,Groundwater: entering the country (total),4177,1992,0.0,
+171,Groundwater: entering the country (total),4177,1997,0.0,
+172,Groundwater: entering the country (total),4177,2002,0.0,
+173,Groundwater: entering the country (total),4177,2007,0.0,
+174,Groundwater: entering the country (total),4177,2012,0.0,
+175,Groundwater: entering the country (total),4177,2017,0.0,
+176,Groundwater: leaving the country to other countries (total),4178,1962,0.0,
+177,Groundwater: leaving the country to other countries (total),4178,1967,0.0,
+178,Groundwater: leaving the country to other countries (total),4178,1972,0.0,
+179,Groundwater: leaving the country to other countries (total),4178,1977,0.0,
+180,Groundwater: leaving the country to other countries (total),4178,1982,0.0,
+181,Groundwater: leaving the country to other countries (total),4178,1987,0.0,
+182,Groundwater: leaving the country to other countries (total),4178,1992,0.0,
+183,Groundwater: leaving the country to other countries (total),4178,1997,0.0,
+184,Groundwater: leaving the country to other countries (total),4178,2002,0.0,
+185,Groundwater: leaving the country to other countries (total),4178,2007,0.0,
+186,Groundwater: leaving the country to other countries (total),4178,2012,0.0,
+187,Groundwater: leaving the country to other countries (total),4178,2017,0.0,
+188,Dependency ratio,4192,1962,7.2386250178,E
+189,Dependency ratio,4192,1967,7.2386250178,E
+190,Dependency ratio,4192,1972,7.2386250178,E
+191,Dependency ratio,4192,1977,7.2386250178,E
+192,Dependency ratio,4192,1982,7.2386250178,E
+193,Dependency ratio,4192,1987,7.2386250178,E
+194,Dependency ratio,4192,1992,7.2386250178,E
+195,Dependency ratio,4192,1997,7.2386250178,E
+196,Dependency ratio,4192,2002,7.2386250178,E
+197,Dependency ratio,4192,2007,7.2386250178,E
+198,Dependency ratio,4192,2012,7.2386250178,E
+199,Dependency ratio,4192,2017,7.2386250178,E
+200,Dependency ratio,4192,2018,7.2386250178,E
+201,Total internal renewable water resources (IRWR),4157,1962,13.007,E
+202,Total internal renewable water resources (IRWR),4157,1967,13.007,E
+203,Total internal renewable water resources (IRWR),4157,1972,13.007,E
+204,Total internal renewable water resources (IRWR),4157,1977,13.007,E
+205,Total internal renewable water resources (IRWR),4157,1982,13.007,E
+206,Total internal renewable water resources (IRWR),4157,1987,13.007,E
+207,Total internal renewable water resources (IRWR),4157,1992,13.007,E
+208,Total internal renewable water resources (IRWR),4157,1997,13.007,E
+209,Total internal renewable water resources (IRWR),4157,2002,13.007,E
+210,Total internal renewable water resources (IRWR),4157,2007,13.007,E
+211,Total internal renewable water resources (IRWR),4157,2012,13.007,E
+212,Total internal renewable water resources (IRWR),4157,2017,13.007,E
+213,Total internal renewable water resources (IRWR),4157,2018,13.007,E
+214,Total internal renewable water resources per capita,4158,1962,3236.237902673,E
+215,Total internal renewable water resources per capita,4158,1967,2939.2337654619,E
+216,Total internal renewable water resources per capita,4158,1972,2688.8789109368,E
+217,Total internal renewable water resources per capita,4158,1977,2456.6451334836,E
+218,Total internal renewable water resources per capita,4158,1982,2200.7614935941,E
+219,Total internal renewable water resources per capita,4158,1987,1965.1764745698,E
+220,Total internal renewable water resources per capita,4158,1992,1777.0356498736,E
+221,Total internal renewable water resources per capita,4158,1997,1619.6543126985,E
+222,Total internal renewable water resources per capita,4158,2002,1485.8095874528,E
+223,Total internal renewable water resources per capita,4158,2007,1369.8315634805,E
+224,Total internal renewable water resources per capita,4158,2012,1268.860483878,E
+225,Total internal renewable water resources per capita,4158,2017,1184.3531712565,E
+226,Total internal renewable water resources per capita,4158,2018,1169.3600515968,E
+227,Total renewable surface water,4185,1962,11.865,E
+228,Total renewable surface water,4185,1967,11.865,E
+229,Total renewable surface water,4185,1972,11.865,E
+230,Total renewable surface water,4185,1977,11.865,E
+231,Total renewable surface water,4185,1982,11.865,E
+232,Total renewable surface water,4185,1987,11.865,E
+233,Total renewable surface water,4185,1992,11.865,E
+234,Total renewable surface water,4185,1997,11.865,E
+235,Total renewable surface water,4185,2002,11.865,E
+236,Total renewable surface water,4185,2007,11.865,E
+237,Total renewable surface water,4185,2012,11.865,E
+238,Total renewable surface water,4185,2017,11.865,E
+239,Total renewable surface water,4185,2018,11.865,E
+240,Total renewable groundwater,4187,1962,2.157,E
+241,Total renewable groundwater,4187,1967,2.157,E
+242,Total renewable groundwater,4187,1972,2.157,E
+243,Total renewable groundwater,4187,1977,2.157,E
+244,Total renewable groundwater,4187,1982,2.157,E
+245,Total renewable groundwater,4187,1987,2.157,E
+246,Total renewable groundwater,4187,1992,2.157,E
+247,Total renewable groundwater,4187,1997,2.157,E
+248,Total renewable groundwater,4187,2002,2.157,E
+249,Total renewable groundwater,4187,2007,2.157,E
+250,Total renewable groundwater,4187,2012,2.157,E
+251,Total renewable groundwater,4187,2017,2.157,E
+252,Total renewable groundwater,4187,2018,2.157,E
+253,Water resources: total external renewable,4182,1962,1.015,E
+254,Water resources: total external renewable,4182,1967,1.015,E
+255,Water resources: total external renewable,4182,1972,1.015,E
+256,Water resources: total external renewable,4182,1977,1.015,E
+257,Water resources: total external renewable,4182,1982,1.015,E
+258,Water resources: total external renewable,4182,1987,1.015,E
+259,Water resources: total external renewable,4182,1992,1.015,E
+260,Water resources: total external renewable,4182,1997,1.015,E
+261,Water resources: total external renewable,4182,2002,1.015,E
+262,Water resources: total external renewable,4182,2007,1.015,E
+263,Water resources: total external renewable,4182,2012,1.015,E
+264,Water resources: total external renewable,4182,2017,1.015,E
+265,Water resources: total external renewable,4182,2018,1.015,E
+266,Total renewable water resources,4188,1962,14.022,E
+267,Total renewable water resources,4188,1967,14.022,E
+268,Total renewable water resources,4188,1972,14.022,E
+269,Total renewable water resources,4188,1977,14.022,E
+270,Total renewable water resources,4188,1982,14.022,E
+271,Total renewable water resources,4188,1987,14.022,E
+272,Total renewable water resources,4188,1992,14.022,E
+273,Total renewable water resources,4188,1997,14.022,E
+274,Total renewable water resources,4188,2002,14.022,E
+275,Total renewable water resources,4188,2007,14.022,E
+276,Total renewable water resources,4188,2012,14.022,E
+277,Total renewable water resources,4188,2017,14.022,E
+278,Total renewable water resources,4188,2018,14.022,E
+279,Total renewable water resources per capita,4190,1962,3488.7774176429,E
+280,Total renewable water resources per capita,4190,1967,3168.5965910131,E
+281,Total renewable water resources per capita,4190,1972,2898.7053193785,E
+282,Total renewable water resources per capita,4190,1977,2648.3492013306,E
+283,Total renewable water resources per capita,4190,1982,2372.4977060949,E
+284,Total renewable water resources per capita,4190,1987,2118.5288326607,E
+285,Total renewable water resources per capita,4190,1992,1915.7064567177,E
+286,Total renewable water resources per capita,4190,1997,1746.0438819604,E
+287,Total renewable water resources per capita,4190,2002,1601.7545963914,E
+288,Total renewable water resources per capita,4190,2007,1476.7262384196,E
+289,Total renewable water resources per capita,4190,2012,1367.8758902851,E
+290,Total renewable water resources per capita,4190,2017,1276.774057612,E
+291,Total renewable water resources per capita,4190,2018,1260.6109512947,E
+292,Total agricultural water managed area,4317,1992,91.5,E
+293,Total agricultural water managed area,4317,1997,91.5,E
+294,Total agricultural water managed area,4317,2002,91.5,E
+295,Total agricultural water managed area,4317,2007,91.5,E
+296,Total agricultural water managed area,4317,2012,91.5,E
+297,Total agricultural water managed area,4317,2017,91.5,E
+298,Total agricultural water managed area,4317,2018,91.5,E
+299,Area equipped for irrigation: total,4313,1992,91.5,E
+300,Area equipped for irrigation: total,4313,1997,91.5,E
+301,Area equipped for irrigation: total,4313,2002,91.5,E
+302,Area equipped for irrigation: total,4313,2007,91.5,E
+303,Area equipped for irrigation: total,4313,2012,91.5,E
+304,Area equipped for irrigation: total,4313,2017,91.5,E
+305,Area equipped for irrigation: total,4313,2018,91.5,E
+306,% of agricultural GVA produced by irrigated agriculture,4555,1992,12.1398479702,E
+307,% of agricultural GVA produced by irrigated agriculture,4555,1997,11.5142471522,E
+308,% of agricultural GVA produced by irrigated agriculture,4555,2002,12.2198270668,E
+309,% of agricultural GVA produced by irrigated agriculture,4555,2007,11.3889347991,E
+310,% of agricultural GVA produced by irrigated agriculture,4555,2012,16.5502195859,E
+311,% of agricultural GVA produced by irrigated agriculture,4555,2017,15.7635267275,E
+312,% of agricultural GVA produced by irrigated agriculture,4555,2018,15.7635267275,E
+313,Ratio between rainfed and irrigated yields,4557,1962,2.12,E
+314,Ratio between rainfed and irrigated yields,4557,1967,2.12,E
+315,Ratio between rainfed and irrigated yields,4557,1972,2.12,E
+316,Ratio between rainfed and irrigated yields,4557,1977,2.12,E
+317,Ratio between rainfed and irrigated yields,4557,1982,2.12,E
+318,Ratio between rainfed and irrigated yields,4557,1987,2.12,E
+319,Ratio between rainfed and irrigated yields,4557,1992,2.12,E
+320,Ratio between rainfed and irrigated yields,4557,1997,2.12,E
+321,Ratio between rainfed and irrigated yields,4557,2002,2.12,E
+322,Ratio between rainfed and irrigated yields,4557,2007,2.12,I
+323,Ratio between rainfed and irrigated yields,4557,2012,2.12,E
+324,Ratio between rainfed and irrigated yields,4557,2017,2.12,I
+325,Ratio between rainfed and irrigated yields,4557,2018,2.12,I
+326,Agricultural water withdrawal as % of total renewable water resources,4273,1992,7.0296676651,E
+327,Agricultural water withdrawal as % of total renewable water resources,4273,1997,8.3776514457,I
+328,Agricultural water withdrawal as % of total renewable water resources,4273,2002,8.4795321637,I
+329,Agricultural water withdrawal as % of total renewable water resources,4273,2007,8.5814128818,I
+330,Agricultural water withdrawal as % of total renewable water resources,4273,2012,8.622165169,I
+331,Agricultural water withdrawal as % of total renewable water resources,4273,2017,8.622165169,I
+332,Agricultural water withdrawal as % of total renewable water resources,4273,2018,8.622165169,I
+333,Agricultural water withdrawal,4250,1992,0.9857,I
+334,Agricultural water withdrawal,4250,1997,1.1747142857,I
+335,Agricultural water withdrawal,4250,2002,1.189,I
+336,Agricultural water withdrawal,4250,2007,1.2032857143,I
+337,Agricultural water withdrawal,4250,2012,1.209,I
+338,Agricultural water withdrawal,4250,2017,1.209,I
+339,Agricultural water withdrawal,4250,2018,1.209,I
+340,Irrigation water requirement,4260,2012,0.348,I
+341,Irrigation water requirement,4260,2017,0.348,I
+342,Irrigation water requirement,4260,2018,0.348,I
+343,Irrigation water withdrawal,4475,2012,1.209,I
+344,Irrigation water withdrawal,4475,2017,1.209,I
+345,Irrigation water withdrawal,4475,2018,1.209,I
+346,Municipal water withdrawal,4251,1992,0.065175,I
+347,Municipal water withdrawal,4251,1997,0.1222857143,I
+348,Municipal water withdrawal,4251,2002,0.1505,I
+349,Municipal water withdrawal,4251,2007,0.1787142857,I
+350,Municipal water withdrawal,4251,2012,0.19,I
+351,Municipal water withdrawal,4251,2017,0.19,I
+352,Municipal water withdrawal,4251,2018,0.19,I
+353,Industrial water withdrawal,4252,1992,0.0052,I
+354,Industrial water withdrawal,4252,1997,0.0112285714,I
+355,Industrial water withdrawal,4252,2002,0.0278,I
+356,Industrial water withdrawal,4252,2007,0.0443714286,I
+357,Industrial water withdrawal,4252,2012,0.051,I
+358,Industrial water withdrawal,4252,2017,0.051,I
+359,Industrial water withdrawal,4252,2018,0.051,I
+360,Total water withdrawal,4253,1992,1.056075,I
+361,Total water withdrawal,4253,1997,1.3082285714,I
+362,Total water withdrawal,4253,2002,1.3673,I
+363,Total water withdrawal,4253,2007,1.4263714286,I
+364,Total water withdrawal,4253,2012,1.45,I
+365,Total water withdrawal,4253,2017,1.45,I
+366,Total water withdrawal,4253,2018,1.45,I
+367,Total freshwater withdrawal,4263,1992,1.056075,I
+368,Total freshwater withdrawal,4263,1997,1.3082285714,I
+369,Total freshwater withdrawal,4263,2002,1.3673,I
+370,Total freshwater withdrawal,4263,2007,1.4263714286,I
+371,Total freshwater withdrawal,4263,2012,1.45,I
+372,Total freshwater withdrawal,4263,2017,1.45,I
+373,Total freshwater withdrawal,4263,2018,1.45,I
+387,SDG 6.4.2. Water Stress,4550,1992,9.7477847517,E
+388,SDG 6.4.2. Water Stress,4550,1997,12.0752129539,E
+389,SDG 6.4.2. Water Stress,4550,2002,12.6204541259,E
+390,SDG 6.4.2. Water Stress,4550,2007,13.1656952979,E
+391,SDG 6.4.2. Water Stress,4550,2012,13.3837917667,E
+392,SDG 6.4.2. Water Stress,4550,2017,13.3837917667,E
+393,SDG 6.4.2. Water Stress,4550,2018,13.3837917667,E
+394,SDG 6.4.1. Water Use Efficiency,4551,1992,4.3669250644,I
+395,SDG 6.4.1. Water Use Efficiency,4551,1997,3.8832291504,I
+396,SDG 6.4.1. Water Use Efficiency,4551,2002,4.0213565009,I
+397,SDG 6.4.1. Water Use Efficiency,4551,2007,3.9784768691,I
+398,SDG 6.4.1. Water Use Efficiency,4551,2011,4.1791815785,I
+399,SDG 6.4.1. Water Use Efficiency,4551,2017,4.8938857936,I
+400,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,4552,1992,0.2848785156,E
+401,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,4552,1997,0.1353784718,E
+402,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,4552,2002,0.1493593332,E
+403,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,4552,2007,0.1493741418,E
+404,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,4552,2011,0.2007543375,E
+405,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,4552,2017,0.2042398556,E
+406,SDG 6.4.1. Industrial Water Use Efficiency,4553,1992,284.1083846764,E
+407,SDG 6.4.1. Industrial Water Use Efficiency,4553,1997,182.9499848663,E
+408,SDG 6.4.1. Industrial Water Use Efficiency,4553,2002,80.5768049521,E
+409,SDG 6.4.1. Industrial Water Use Efficiency,4553,2007,57.039579093,E
+410,SDG 6.4.1. Industrial Water Use Efficiency,4553,2011,47.7167878241,E
+411,SDG 6.4.1. Industrial Water Use Efficiency,4553,2017,51.5187443226,E
+412,SDG 6.4.1. Services Water Use Efficiency,4554,1992,43.7841508893,E
+413,SDG 6.4.1. Services Water Use Efficiency,4554,1997,23.443894023,E
+414,SDG 6.4.1. Services Water Use Efficiency,4554,2002,20.4702811882,E
+415,SDG 6.4.1. Services Water Use Efficiency,4554,2007,16.5857941529,E
+416,SDG 6.4.1. Services Water Use Efficiency,4554,2011,17.8081321886,E
+417,SDG 6.4.1. Services Water Use Efficiency,4554,2017,22.2197497624,E
+418,Harvested irrigated temporary crop area: Rice,4346,2012,57.5,I
+419,Harvested irrigated temporary crop area: Rice,4346,2017,57.5,I
+420,Harvested irrigated temporary crop area: Rice,4346,2018,57.5,I
+421,Harvested irrigated temporary crop area: Maize,4348,2012,12.8,I
+422,Harvested irrigated temporary crop area: Maize,4348,2017,12.8,I
+423,Harvested irrigated temporary crop area: Maize,4348,2018,12.8,I
+424,Harvested irrigated temporary crop area: Sugarcane,4357,2012,10.0,I
+425,Harvested irrigated temporary crop area: Sugarcane,4357,2017,10.0,I
+426,Harvested irrigated temporary crop area: Sugarcane,4357,2018,10.0,I
+427,Harvested irrigated temporary crop area: Leguminous crops,4359,2012,5.0,I
+428,Harvested irrigated temporary crop area: Leguminous crops,4359,2017,5.0,I
+429,Harvested irrigated temporary crop area: Leguminous crops,4359,2018,5.0,I
+430,Harvested irrigated temporary crop area: Vegetables,4360,2012,14.0,I
+431,Harvested irrigated temporary crop area: Vegetables,4360,2017,14.0,I
+432,Harvested irrigated temporary crop area: Vegetables,4360,2018,14.0,I
+433,Harvested irrigated permanent crop area: Citrus,4362,2012,8.0,I
+434,Harvested irrigated permanent crop area: Citrus,4362,2017,8.0,I
+435,Harvested irrigated permanent crop area: Citrus,4362,2018,8.0,I
+436,Harvested irrigated temporary crop area: Cotton,4367,2012,1.0,I
+437,Harvested irrigated temporary crop area: Cotton,4367,2017,1.0,I
+438,Harvested irrigated temporary crop area: Cotton,4367,2018,1.0,I

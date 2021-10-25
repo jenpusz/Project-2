@@ -1,0 +1,193 @@
+information: https://www.fao.org/aquastat/statistics/popups/itemDefn.html?id=xxxx
+
+4100: Total area of the country (excl. coastal water)
+4101: Arable land area
+4102: Permanent crops area
+4103: Cultivated area (arable land + permanent crops)
+4104: Total population
+4105: Rural population
+4106: Urban population
+4107: Population density
+4111: Human Development Index (HDI) [highest = 1]
+4112: Gross Domestic Product (GDP)
+4113: Agriculture, value added (% GDP)
+4114: Total population with access to safe drinking-water (JMP)
+4115: Rural population with access to safe drinking-water (JMP)
+4116: Urban population with access to safe drinking-water (JMP)
+4150: Long-term average annual precipitation in volume
+4151: Long-term average annual precipitation in depth
+4154: Groundwater produced internally
+4155: Surface water produced internally
+4156: Overlap between surface water and groundwater
+4157: Total internal renewable water resources (IRWR)
+4158: Total internal renewable water resources per capita
+4159: Surface water: entering the country (total)
+4160: Surface water: inflow not submitted to treaties
+4161: Surface water: inflow submitted to treaties
+4162: Surface water: inflow secured through treaties
+4164: Surface water: accounted inflow
+4165: Surface water: total flow of border rivers
+4168: Surface water: accounted flow of border rivers
+4171: Surface water: leaving the country to other countries (total)
+4172: Surface water: outflow to other countries not submitted to treaties
+4173: Surface water: outflow to other countries submitted to treaties
+4174: Surface water: outflow to other countries secured through treaties
+4176: Surface water: total external renewable
+4177: Groundwater: entering the country (total)
+4178: Groundwater: leaving the country to other countries (total)
+4182: Water resources: total external renewable
+4185: Total renewable surface water
+4187: Total renewable groundwater
+4188: Total renewable water resources
+4190: Total renewable water resources per capita
+4192: Dependency ratio
+4193: Exploitable: regular renewable surface water
+4194: Exploitable: irregular renewable surface water
+4195: Exploitable: regular renewable groundwater
+4196: Total exploitable water resources
+4197: Total dam capacity
+4250: Agricultural water withdrawal
+4251: Municipal water withdrawal
+4252: Industrial water withdrawal
+4253: Total water withdrawal
+4254: Agricultural water withdrawal as % of total water withdrawal
+4255: Municipal water withdrawal as % of total withdrawal
+4256: Industrial water withdrawal as % of total water withdrawal
+4257: Total water withdrawal per capita
+4260: Irrigation water requirement
+4261: Fresh surface water withdrawal
+4262: Fresh groundwater withdrawal
+4263: Total freshwater withdrawal
+4264: Desalinated water produced
+4265: Direct use of treated municipal wastewater
+4269: Produced municipal wastewater
+4270: Treated municipal wastewater
+4273: Agricultural water withdrawal as % of total renewable water resources
+4275: MDG 7.5. Freshwater withdrawal as % of total renewable water resources
+4300: Total cultivated area drained
+4303: Area equipped for irrigation drained
+4304: Non-irrigated cultivated area drained
+4305: % of total cultivated area drained
+4307: Irrigation potential
+4308: Area equipped for full control irrigation: surface irrigation
+4309: Area equipped for full control irrigation: sprinkler irrigation
+4310: Area equipped for full control irrigation: localized irrigation
+4311: Area equipped for full control irrigation: total
+4312: Area equipped for irrigation: equipped lowland areas
+4313: Area equipped for irrigation: total
+4314: Flood recession cropping area non-equipped
+4315: Cultivated wetlands and inland valley bottoms non-equipped
+4316: Area equipped for irrigation: spate irrigation
+4317: Total agricultural water managed area
+4318: Area equipped for irrigation: actually irrigated
+4319: % of agricultural water managed area equipped for irrigation
+4320: Area equipped for irrigation by groundwater
+4321: Area equipped for irrigation by surface water
+4322: Area equipped for irrigation by mixed surface water and groundwater
+4323: % of area equipped for irrigation by groundwater
+4324: % of area equipped for irrigation by surface water
+4325: % of area equipped for irrigation by mixed surface water and groundwater
+4326: Area equipped for power irrigation (surface water or groundwater)
+4327: % of area equipped for irrigation power irrigated
+4328: % of the area equipped for irrigation actually irrigated
+4329: % of total grain production irrigated
+4330: % of irrigation potential equipped for irrigation
+4331: % of the cultivated area equipped for irrigation
+4345: Harvested irrigated temporary crop area: Wheat
+4346: Harvested irrigated temporary crop area: Rice
+4347: Harvested irrigated temporary crop area: Barley
+4348: Harvested irrigated temporary crop area: Maize
+4349: Harvested irrigated temporary crop area: Millet
+4350: Harvested irrigated temporary crop area: Sorghum
+4351: Harvested irrigated temporary crop area: Other cereals
+4352: Harvested irrigated temporary crop area: Potatoes
+4353: Harvested irrigated temporary crop area: Sweet potatoes
+4354: Harvested irrigated temporary crop area: Cassava
+4355: Harvested irrigated temporary crop area: Other roots and tubers
+4356: Harvested irrigated permanent crop area: Plantains
+4357: Harvested irrigated temporary crop area: Sugarcane
+4358: Harvested irrigated temporary crop area: Sugar beet
+4359: Harvested irrigated temporary crop area: Leguminous crops
+4360: Harvested irrigated temporary crop area: Vegetables
+4361: Harvested irrigated permanent crop area: Bananas
+4362: Harvested irrigated permanent crop area: Citrus
+4363: Harvested irrigated permanent crop area: Cocoa beans
+4364: Harvested irrigated permanent crop area: Coffee
+4365: Harvested irrigated permanent crop area: Tea
+4366: Harvested irrigated temporary crop area: Tobacco
+4367: Harvested irrigated temporary crop area: Cotton
+4368: Harvested irrigated permanent crop area: Rubber
+4369: Harvested irrigated temporary crop area: Fodder
+4370: Harvested irrigated permanent crop area: Oil palm
+4371: Harvested irrigated temporary crop area: Soybeans
+4372: Harvested irrigated temporary crop area: Groundnuts
+4373: Harvested irrigated temporary crop area: Sunflower
+4374: Harvested irrigated temporary crop area: Sesame
+4375: Harvested irrigated permanent crop area: Coconuts
+4376: Harvested irrigated temporary crop area: Flowers
+4377: Harvested irrigated temporary crop area: Other crops
+4378: Harvested irrigated permanent crop area: Other crops
+4379: Total harvested irrigated crop area (full control irrigation)
+4400: Area salinized by irrigation
+4401: Area waterlogged by irrigation
+4403: Population affected by water related disease
+4445: % of area equipped for irrigation salinized
+4446: % of area equipped for irrigation drained
+4451: Direct use of agricultural drainage water
+4452: Groundwater: accounted inflow
+4453: Groundwater: accounted outflow to other countries
+4458: GDP per capita
+4461: Area equipped for full control irrigation: actually irrigated
+4463: % of area equipped for full control irrigation actually irrigated
+4464: Irrigated cropping intensity
+4465: Area equipped for irrigation by direct use of treated municipal wastewater
+4466: % of area equipped for irrigation by direct use of  treated municipal wastewater
+4469: Permanent meadows and pastures irrigated
+4470: % of total country area cultivated
+4471: Dam capacity per capita
+4472: National Rainfall Index (NRI)
+4473: Number of people undernourished (3-year average)
+4474: Prevalence of undernourishment (3-year average)
+4475: Irrigation water withdrawal
+4490: Direct use of treated municipal wastewater for irrigation purposes
+4491: Not treated municipal wastewater
+4493: Collected municipal wastewater
+4509: Exploitable: total renewable surface water
+4510: Treated municipal wastewater discharged (secondary water)
+4512: Direct use of not treated municipal wastewater for irrigation purposes
+4513: Area equipped for irrigation by direct use of non-treated municipal wastewater
+4514: % of area equipped for irrigation by direct use of non-treated municipal wastewater
+4515: Number of municipal wastewater treatment facilities
+4516: Capacity of the municipal wastewater treatment facilities
+4517: Not treated municipal wastewater discharged (secondary water)
+4520: Harvested irrigated temporary crop area: Total
+4521: Harvested irrigated permanent crop area: Total
+4522: Harvested irrigated permanent crop area: Grass and Fodder
+4523: Harvested irrigated permanent crop area: Grapes
+4524: Harvested irrigated permanent crop area: Other fruits
+4525: Harvested irrigated permanent crop area: Olives
+4527: % of area equipped for irrigation by direct use of agricultural drainage water
+4533: Area equipped for irrigation by direct use of treated municipal wastewater
+4534: Area equipped for irrigation by direct use of not treated municipal wastewater
+4535: Direct use of treated municipal wastewater
+4536: Overlap: between surface water and groundwater
+4537: Gender Inequality Index (GII) [equality = 0; inequality = 1)
+4540: % of area equipped for irrigation by desalinated water
+4541: Interannual variability (WRI)
+4542: Seasonal variability (WRI)
+4543: Flood occurrence (WRI)
+4544: % of the area equipped for irrigation managed by women
+4545: % of the agricultural holdings with irrigation managed by women
+4546: Industry, value added to GDP
+4547: Services, value added to GDP
+4548: Agriculture, value added to GDP
+4549: Environmental Flow Requirements
+4550: SDG 6.4.2. Water Stress
+4551: SDG 6.4.1. Water Use Efficiency
+4552: SDG 6.4.1. Irrigated Agriculture Water Use Efficiency
+4553: SDG 6.4.1. Industrial Water Use Efficiency
+4554: SDG 6.4.1. Services Water Use Efficiency
+4555: % of agricultural GVA produced by irrigated agriculture
+4556: % of cultivated land irrigated [harvested crop]
+4557: Ratio between rainfed and irrigated yields
+4558: GDP Deflator (2015)

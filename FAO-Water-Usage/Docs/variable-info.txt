@@ -1,0 +1,435 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+Variable Info - https://www.fao.org/aquastat/statistics/popups/itemDefn.html?id={xxxx}
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4100
+Total area of the country (excl. coastal waters): The total area of the country, including area under inland water bodies. Possible variations in the data may be due to updating and revisions of the country data and not necessarily to any change of area.
+Calculation Criteria: [Total area of the country (excl. coastal water)]=[Land area]+[InlandWater]
+Unit: 1000 ha
+
+VarId: 4103
+Cultivated area (arable land + permanent crops): The sum of the arable land area and the area under permanent crops.
+Unit: 1000 ha
+
+VarId: 4104
+Total population: Usually refers to the present-in-area (de facto) population which includes all persons physically present within the present geographical boundaries of countries at the mid-point of the reference period.
+Unit: 1000 inhab
+
+VarId: 4105
+Rural population: Usually the rural population is obtained by subtracting the urban population from the total population. In practice, the criteria adopted for distinguishing between urban and rural areas vary among countries. However, these criteria can be roughly divided into three major groups: classification of localities of a certain size as urban; classification of administrative centres of minor civil divisions as urban; and classification of centres of minor civil divisions on a chosen criterion which may include type of local government, number of inhabitants or proportion of population engaged in agriculture. Thus, the urban and rural population estimates in this domain are based on the varying national definitions of urban areas.
+Unit: 1000 inhab
+
+VarId: 4106
+Urban population: Population residing in urban areas. Usually the urban areas and hence the urban population are defined according to national census definitions which can be roughly divided into three major groups: classification of localities of a certain size as urban; classification of administrative centres of minor civil divisions as urban; and classification of centres of minor civil divisions on a chosen criterion which may include type of local government, number of inhabitants or proportion of population engaged in agriculture, as urban.
+Unit: 1000 inhab
+
+VarId: 4111
+Human Development Index (HDI) [highest = 1]: This is a summary measure of human development. It measures the average achievements in a country in three basic dimensions of human development: (1) a long and healthy life, as measured by life expectancy at birth; (2) knowledge, as measured by the adult literacy rate (with two-thirds weight) and the combined primary, secondary and tertiary gross enrolment ratio (with one-third weight); (3) a decent standard of living, as measured by GDP per capita (Purchasing Power Parity or PPP US$).
+Unit: -
+
+VarId: 4537
+Gender Inequality Index (GII) [equality = 0; inequality = 1): The Gender Inequality Index (GII) is built on the same framework as the Human Development Index (HDI) — to better expose differences in the distribution of achievements between women and men. It measures the human development costs of gender inequality, thus the higher the GII value the more disparities between females and males. The GII values vary tremendously across countries, they range from 0.021 to 0.733. Countries with high gender inequality also experience more unequal distribution of human development.
+Unit: -
+
+VarId: 4112
+Gross Domestic Product (GDP): GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current United States dollars (US$). Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.
+Unit: current US$
+
+VarId: 4458
+GDP per capita: Gross domestic product divided by population.
+Unit: current US$/inhab
+
+VarId: 4113
+Agriculture, value added (% GDP): Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3.  Note:  This value is not specific to crop production, so care should be taken to ensure proper implementation.
+Unit: %
+
+VarId: 4548
+Agriculture, value added to GDP: Gross value added by agriculture (excluding river and marine fisheries and forestry), in ISIC rev. 4 “agriculture” corresponds to ISIC A (Divisions 01-03: crops and animal production, forestry, and fishing). For the purpose of SDG 6.4.1 in agriculture, fresh water fishing, marine fishing, and forestry should be excluded, but all nurseries and aquaculture are included. The Gross value added by agriculture (GVAa) is calculated by adding up all agricultural outputs and subtracting intermediate inputs; but without making deductions for depreciation of fixed assets or depletion and degradation of natural resources.
+Unit: current US$
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4473
+Number of people undernourished (3-year average): Number of people in a condition of undernourishment. The number of persons undernourished is obtained by multiplying estimates of the proportion of undernourished for each country (see term "Prevalence of undernourishment") by estimates of the total population. Undernourishment refers to the condition of people whose dietary energy consumption is continuously below a minimum dietary energy requirement for maintaining a healthy life and carrying out a light physical activity. The indicator is calculated on 3-year averages. Year shown in results page refers to last year of the 3-year period.
+Unit: 1000 inhab
+
+VarId: 4474
+Prevalence of undernourishment (3-year average): This indicator expresses the probability that a randomly selected individual from the population consumes an amount of calories that is insufficient to cover her/his energy requirement for an active and healthy life. 
+The indicator is computed by comparing a probability distribution of habitual daily Dietary Energy Consumption with a threshold level called the Minimum Dietary Energy Requirement. Both are based on the notion of an average individual in the reference population.  The indicator is calculated on 3-year averages. Year shown in the results page is the last year of the 3-year period.
+This is the traditional FAO hunger indicator, adopted as official Millennium Development Goal indicator for Goal 1, Target 1.9.
+More details on the methodology for computing the Prevalence of undernourishment are in Annex 2 of the State of Food Insecurity in the World 2013 Report (SOFI 2013). http://www.fao.org/docrep/018/i3434e/i3434e.pdf.
+Unit: %
+
+VarId: 4114
+Total population with access to improved drinking-water source (JMP): Percentage of the total population using improved water sources. An “improved” source is one that is likely to provide "safe" water, such as a household connection, a borehole, etc. Current information does not allow yet to establish a relationship between access to safe water and access to improved sources, but WHO and UNICEF are examining this relationship.
+Safe drinking water is water that contains no biological or chemical pathogen at a level of concentration that is directly harmful to health. This includes treated, untreated, uncontaminated surface water, such as protected boreholes, springs and sanitary wells. The waters of rivers and lakes can only be considered healthy if water quality is regularly monitored and considered acceptable by public health officials. Reasonable access to water means a water supply in the water. housing or within 15 minutes walk of it.
+Unit: %
+
+VarId: 4403
+Population affected by water related disease: Three types of water-related diseases exist: (i) water-borne diseases are those diseases that arise from infected water and are transmitted when the water is used for drinking or cooking (for example cholera, typhoid); (ii) water-based diseases are those in which water provides the habitant for host organisms of parasites ingested (for example shistomasomiasis or bilharzia); (iii) water-related insect vector diseases are those in which insect vectors rely on water as habitat but transmission is not through direct contact with water (for example malaria, onchocerciasis or river blindness, elephantiasis).
+Unit: 1000 inhabitants
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4150
+Long-term average annual precipitation in volume: Long-term average (over space and time) of annual endogenous precipitation (produced in the country) in volume.
+Calculation Criteria: [Long-term average annual precipitation in volume] = [Total area of the country]*[Long-term average annual precipitation in depth]/100000
+Unit: 10^9 m3/year
+
+VarId: 4541
+Interannual variability (WRI): A normalized indicator of the variation in water supply between years. Interannual variability is calculated as the standard deviation of annual total blue water divided by the mean of total blue water from 1950 to 2010. The indicator was created by the World Resources Institute (WRI) and ranges from 0-5, where 0 is lowest and 5 is highest. Values represent the "All-sector" indicator, and have been rounded to the nearest tenth by AQUASTAT. In WRI's analysis, 'water supply' refers to 'total blue water', which approximates naturalized river discharge (water that is consumed upstream is not removed). This was a one-time exercise and will be updated by WRI when new data is made available.
+Unit: -
+
+VarId: 4542
+Seasonal variability (WRI): A normalized indicator of the variation in water supply between months of the year. Seasonal variability is calculated as the standard deviation of monthly total blue water divided by the mean of total blue water calculated using the monthly mean. The indicator was created by the World Resources Institute (WRI) and ranges from 0-5, where 0 is lowest and 5 is highest. Values represent the "All-sector" indicator, and have been rounded to the nearest tenth by AQUASTAT. In WRI's analysis, 'water supply' refers to 'total blue water', which approximates naturalized river discharge (water that is consumed upstream is not removed). This was a one-time exercise and will be updated by WRI when new data is made available.
+Unit: -
+
+VarId: 4543
+Flood occurrence (WRI): A normalized indicator of the number of floods recorded from 1985 to 2011, using the total number of floods observed in that period. The indicator was created by the World Resources Institute (WRI) and ranges from 0-5, where 0 is lowest and 5 is highest. Values represent the "All-sector" indicator, and have been rounded to the nearest tenth by AQUASTAT. This was a one-time exercise and will be updated by WRI when new data is made available.
+Unit: -
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4159
+Surface water: entering the country (total): Long-term average quantity of water annually entering the country through transboundary flow (rivers, canals, pipes). An example is available in this sheet: http://www.fao.org/nr/water/aquastat/data/wrs/readPdf.html?f=AFG-WRS_eng.pdf.
+Unit: 10^9 m3/yr
+
+VarId: 4171
+Surface water: leaving the country to other countries (total): Average quantity of water annually leaving the country. It refers to water leaving to other countries, NOT the water that is flowing to the sea for countries located next to the sea. Border rivers that never enter the country are not included. An example of the calculation rules is available in this sheet: http://www.fao.org/nr/water/aquastat/data/wrs/readPdf.html?f=AFG-WRS_eng.pdf.
+Unit: 10^9 m3/year
+
+VarId: 4177
+Groundwater: entering the country (total): Average annual quantity of groundwater entering the country.
+Unit: 10^9 m3/yr
+
+VarId: 4178
+Groundwater: leaving the country to other countries (total): Average annual quantity of groundwater leaving the country, without treaties. It refers to water leaving to other countries, NOT the water that is flowing to the sea for countries located next to the sea.
+Unit: 10^9 m3/year
+
+VarId: 4192
+Dependency ratio: Indicator expressing the percent of total renewable water resources originating outside the country. This indicator may theoretically vary between 0% and 100%. A country with a dependency ratio equal to 0% does not receive any water from neighbouring countries. A country with a dependency ratio equal to 100% receives all its renewable water from upstream countries, without producing any of its own. This indicator does not consider the possible allocation of water to downstream countries. An example of the calculation rules is available in this sheet: http://www.fao.org/nr/water/aquastat/data/wrs/readPdf.html?f=AFG-WRS_eng.pdf.
+Calculation Criteria: [100 * ([Surface water: inflow not submitted to treaties] + [Surface water: inflow secured through treaties] + [Surface water: accounted flow of border rivers] + [Surface water: accounted part of border lakes] + [Groundwater: entering the country]) / ([Surface water: inflow not submitted to treaties] + [Surface water: inflow secured through treaties] + [Surface water: accounted flow of border rivers] + [Surface water: accounted part of border lakes] + [Groundwater: entering the country] + [Water resources: total internal renewable])
+Unit: %
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4157
+Total internal renewable water resources (IRWR): Internal Renewable Water Resources (IRWR): Long-term average annual flow of rivers and recharge of aquifers generated from endogenous precipitation. Double counting of surface water and groundwater resources is avoided by deducting the overlap from the sum of the surface water and groundwater resources.
+Calculation Criteria: [Total internal renewable water resources (IRWR)] = [Groundwater produced internally]+[Surface water produced internally]-[Overlap between surface water and groundwater]
+Unit: 10^9 m3/yr
+
+VarId: 4158
+Total internal renewable water resources per capita: Total annual internal renewable water resources per inhabitant.
+Calculation Criteria: [Total internal renewable water resources per capita] = [Total internal renewable water resources (IRWR)]*1000000/[Total population]
+Unit: m3/inhab/yr
+
+VarId: 4185
+Total renewable surface water: This is the sum of the internal renewable surface water resources and the total external renewable surface water resources. An example of the calculation rules is available in this sheet: http://www.fao.org/nr/water/aquastat/data/wrs/readPdf.html?f=AFG-WRS_eng.pdf.
+Calculation Criteria: [Total renewable surface water] = [Surface water: total external renewable]+[Surface water produced internally]
+Unit: 10^9 m3/yr
+
+VarId: 4187
+Total renewable groundwater: This is the sum of the internal renewable groundwater resources and the total external renewable groundwater resources. An example of the calculation rules is available in this sheet: http://www.fao.org/nr/water/aquastat/data/wrs/readPdf.html?f=AFG-WRS_eng.pdf.
+Calculation Criteria: [Total renewable groundwater] = [Groundwater produced internally]+[Groundwater: accounted inflow]
+Unit: 10^9 m3/yr
+
+VarId: 4196
+Total exploitable water resources: Exploitable water resources (also called manageable water resources or water development potential) are considered to be available for development, taking into consideration factors such as: the economic and environmental feasibility of storing floodwater behind dams, extracting groundwater, the physical possibility of storing water that naturally flows out to the sea, and minimum flow requirements (navigation, environmental services, aquatic life, etc). Methods to assess exploitable water resources vary from country to country.
+Calculation Criteria: [Total exploitable water resources] = [Exploitable: total renewable surface water]+[Exploitable: regular renewable groundwater]
+Unit: 10^9 m3/yr
+
+VarId: 4182
+Water resources: total external renewable: External Renewable Water Resources: That part of the country's long-term average annual renewable water resources that are not generated in the country. It includes inflows from upstream countries (groundwater and surface water), and part of the water of border lakes and/or rivers. ERWR take into account the quantity of flow reserved by upstream (incoming flow) and/or downstream (outflow) countries through formal or informal agreements or treaties. Therefore, it may vary with time. In extreme cases, it may be negative when the flow reserved to downstream countries is more than the incoming flow. The rules applied for computing ERWR are given in this template as an example: http://www.fao.org/nr/water/aquastat/data/wrs/readPdf.html?f=SEN-WRS_eng.pdf.
+Calculation Criteria: [Water resources: total external renewable] = [Surface water: total external renewable]+[Groundwater: accounted inflow]
+Unit: 10^9 m3/yr
+
+VarId: 4188
+Total renewable water resources: Total Renewable Water Resources (TRWR): The sum of internal renewable water resources (IRWR) and external renewable water resources (ERWR). It corresponds to the maximum theoretical yearly amount of water available for a country at a given moment.
+Calculation Criteria: [Total renewable water resources] = [Total renewable surface water]+[Total renewable groundwater]-[Overlap between surface water and groundwater]
+Unit: 10^9 m3/yr
+
+VarId: 4190
+Total renewable water resources per capita: Total annual renewable water resources per inhabitant
+Calculation Criteria: [Total renewable water resources per capita] = [Total renewable water resources]*1000000/[Total population]
+Unit: m3/inhab/yr
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4317
+Total agricultural water managed area: Sum of total area equipped for irrigation and areas with other forms of agricultural water management (non-equipped flood recession cropping area and non-equipped cultivated wetlands and inland valley bottoms)
+Calculation Criteria: [Total agricultural water managed area] =  [Area equipped for irrigation: total]+[Flood recession cropping area non-equipped]+[Cultivated wetlands and inland valley bottoms non-equipped]
+Unit: 1000 ha
+
+VarId: 4313
+Area equipped for irrigation: total: Area equipped to provide water (via irrigation) to crops. It includes areas equipped for full/partial control irrigation, equipped lowland areas, and areas equipped for spate irrigation.
+Calculation Criteria: [Area equipped for irrigation: total] = [Area equipped for full control irrigation: total]+[Area equipped for irrigation: equipped lowland areas]+[Area equipped for irrigation: spate irrigation]
+Unit: 1000 ha
+
+VarId: 4555
+% of agricultural GVA produced by irrigated agriculture: Part of the gross value added by agriculture originating from the irrigated agriculture, as opposed to rainfed agriculture. In countries where rainfed agriculture dominates the agricultural sector, a large proportion of agricultural GVA in national accounts comes from values produced by rainfed agriculture. As the rainfed system does not entail direct water abstraction, the value added from this system needs to be deducted from the total agricultural GVA in order to obtain a realistic figure of WUE in agriculture.
+Calculation Criteria: [% of agricultural GVA produced by irrigated agriculture] = 1/(1+((1-([% of arable land irrigated]/100))/(([% of arable land irrigated]/100)*[Ratio between irrigated and rainfed yields])))
+Unit: %
+
+VarId: 4557
+Ratio between irrigated and rainfed yields: This ratio assess the improvement of productivity allowed by irrigation. FAO provides ratio by country for almost 100 countries estimated using the rainfed and irrigated yields from the FAO perspective studies Agriculture Towards 2030-2050 as well as a generic default ratio calculated as the average of the available national ratios.
+Unit: -
+
+VarId: 4273
+Agricultural water withdrawal as % of total renewable water resources: Water withdrawn for irrigation in a given year, expressed in percent of the total renewable water resources (TRWR). This parameter is an indication of the pressure on the renewable water resources caused by irrigation.
+Note: While freshwater withdrawal as % of total renewable water resources refers to withdrawal of surface water and groundwater, agricultural water withdrawal also includes non-conventional sources of water (such as direct use of wastewater and agricultural drainage water, desalinated water). That's why in some countries agricultural water withdrawal as % of total renewable water resources can be higher than freshwater withdrawal as % of total renewable water resources.
+Calculation Criteria: [Agricultural water withdrawal as % of total renewable water resources] = 100*[Agricultural water withdrawal]/[Total renewable water resources]
+Unit: %
+
+VarId: 4250
+Agricultural water withdrawal: Annual quantity of self-supplied water withdrawn for irrigation, livestock and aquaculture purposes. It can include water from renewable freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. Water for the dairy and meat industries and industrial processing of harvested agricultural products is included under industrial water withdrawal.
+Unit: 10^9 m3/year
+
+VarId: 4260
+Irrigation water requirement: The quantity of water exclusive of precipitation and soil moisture (i.e. quantity of irrigation water) required for normal crop production. It consists of water to ensure that the crop receives its full crop water requirement (i.e. irrigation consumptive water use, as well as extra water for flooding of paddy fields to facilitate land preparation and protect the plant and for leaching salt when necessary to allow for plant growth). It is usually expressed in water depth (millimetres) or water volume (m3) and may be stated in monthly, seasonal or annual terms, or for a crop period. It corresponds to net irrigation water requirement. More information can be found on http://www.fao.org/nr/water/aquastat/water_use/index.stm.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4475
+Irrigation water withdrawal: Annual quantity of water withdrawn for irrigation purposes. In the AQUASTAT database water withdrawal for irrigation is part of agricultural water withdrawal, together with water withdrawal for livestock (watering and cleaning) and water withdrawal for aquaculture. It can include water from renewable freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. The amount of water withdrawn for irrigation by far exceeds the consumptive use of irrigation because of water lost in its distribution from its source to the crops. The term "water requirement ratio" (sometimes also called "irrigation efficiency") is used to indicate the ratio between the net irrigation water requirements or crop water requirements, which is the volume of water needed to compensate for the deficit between potential evapotranspiration and effective precipitation over the growing period of the crop, and the amount of water withdrawn for irrigation including the losses. In the specific case of paddy rice irrigation, additional water is needed for flooding to facilitate land preparation and for plant protection. In that case, irrigation water requirements are the sum of rainfall deficit and the water needed to flood paddy fields. At scheme level, water requirement ratio values can vary from less than 20 percent to more than 80 percent.
+Unit: 10^9 m3/yr
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4251
+Municipal water withdrawal: Annual quantity of water withdrawn primarily for the direct use by the population. It can include water from renewable freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. It is usually computed as the total water withdrawn by the public distribution network. It can include that part of the industries and urban agriculture, which is connected to the municipal network. The ratio between the net consumption and the water withdrawn can vary from 5 to 15% in urban areas and from 10 to 50% in rural areas.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4252
+Industrial water withdrawal: Annual quantity of self-supplied water withdrawn for industrial uses. It can include water from renewable freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. This sector refers to self-supplied industries not connected to the public distribution network. The ratio between net consumption and withdrawal is estimated at less than 5%. It includes water for the cooling of thermoelectric and nuclear power plants, but it does not include hydropower. Water withdrawn by industries that are connected to the public supply network is generally included in municipal water withdrawal.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4253
+Total water withdrawal: Annual quantity of water withdrawn for agricultural, industrial and municipal purposes. It can include water from renewable freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. It does not include in-stream uses, which are characterized by a very low net consumption rate, such as recreation, navigation, hydropower, inland capture fisheries, etc.
+Calculation Criteria: [Total water withdrawal] = [Municipal water withdrawal]+[Industrial water withdrawal]+[Agricultural water withdrawal]
+Unit: 10^9 m3/yr
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4261
+Fresh surface water withdrawal: Annual gross amount of water extracted from rivers, lakes and reservoirs.
+Unit: 10^9 m3/yr
+
+VarId: 4262
+Fresh groundwater withdrawal: Annual gross amount of water extracted from aquifers. It can include withdrawal of renewable groundwater, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater.
+Unit: 10^9 m3/yr
+
+VarId: 4263
+Total freshwater withdrawal: This is the sum of surface water withdrawal, that is extracted from extracted from rivers, lakes and reservoirs, and groundwater withdrawal extracted from aquifers.
+Calculation Criteria: [Total freshwater withdrawal] = [Total water withdrawal]-[Desalinated water produced]-[Direct use of treated municipal wastewater]-[Direct use of agricultural drainage water]
+Unit: 10^9 m3/yr
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4264
+Desalinated water produced: Water produced annually by desalination of brackish or salt water. It is estimated annually on the basis of the total capacity of water desalination installations.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4265
+Direct use of treated municipal wastewater: Treated municipal wastewater (primary, secondary, tertiary effluents) directly used, i.e. with no or little prior dilution with freshwater during most of the year.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4269
+Produced municipal wastewater: Annual volume of domestic, commercial and industrial effluents, and storm water runoff, generated within urban areas.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4493
+Collected municipal wastewater: Municipal wastewater collected by municipal wastewater sewers or other formal collection systems. This category considers the following collection systems:
+Independent: Wastewater collected by individual private systems in place to evacuate and collect domestic and other wastewater in case where an urban collection system is not available. This includes the collection of wastewater by pit latrines and septic tanks. This also includes the transport of wastewater to treatment plants by means of trucks.
+Collective: Wastewater collected from dwellings, commercial or industrial facilities by planned municipal sewer systems.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4491
+Not treated municipal wastewater: Not collected municipal wastewater discharged and/or collected municipal wastewater discharged without any prior treatment. It is then considered secondary water. Municipal wastewater collected by not maintained independent collection systems, like soak pits or septic tanks, are considered as not treated municipal wastewater. Effluents from non-functional wastewater treatment plants are also included here.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4270
+Treated municipal wastewater: Treated wastewater (primary, secondary and tertiary) annually produced by municipal wastewater treatment facilities in the country.
+Primary treatment: municipal wastewater effectively treated by a physical and/or chemical process involving settlement of suspended solids, or other process in which the BOD5 of the incoming wastewater is reduced by at least 20% and the total suspended solids of the incoming wastewater are reduced by at least 50% before discharge. Treatment processes can include: sedimentation tank, septic tank, skimming, chemical enhanced primary treatment.
+Secondary treatment: municipal wastewater effectively treated by a process generally involving biological treatment with a secondary settlement or other process, resulting in a BOD removal of at least 70% and a COD removal of at least 75% before discharge. Treatment processes can include: aerated lagoon, activated sludge, up-flow anaerobic sludge blanket, trickling filters, rotating biological contactors, oxidation ditch, settling basin digester. For the purpose of this database natural biological treatment processes are also considered under secondary treatment as the constituents of the effluents from this type of treatment is similar to the conventional secondary treatment. Natural biological treatment refers to the process other than conventional wastewater treatment (primary, secondary, tertiary). This treatment makes use of natural bio-chemical processes to treat wastewater and can include: waste stabilization pond, constructed wetlands, overland treatment, nutrient film techniques, soil aquifer treatment, high-rate algal pond, floating aquatic macrophyte systems.
+Tertiary treatment: municipal wastewater effectively treated by a process in addition to secondary treatment of nitrogen and/or phosphorous and/or any other specific pollutant affecting the quality or a specific use of water: microbiological pollution, colour, etc. This treatment is meant to remove at least 95% for BOD and 85% for COD and/or a nitrogen removal of at least 70% and/or a phosphorus removal of at least 80% and/or a microbiological removal. Treatment process can include: membrane filtration (micro-; nano-; ultra- and reverse osmosis), infiltration / percolation, activated carbon, disinfection (chlorination, ozone, UV)
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4510
+Treated municipal wastewater discharged: Treated municipal wastewater directly discharged to water bodies (inland or coastal) without any specific use. It then is considered secondary water.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4517
+Not treated municipal wastewater discharged: Municipal wastewater discharged directly to water bodies (inland or coastal) without any prior treatment.
+Unit: km^3/year or 10^9m^3/year
+
+VarId: 4512
+Direct use of not treated municipal wastewater for irrigation purposes: Municipal wastewater applied artificially (irrigation) and directly (i.e. with no or little prior dilution with fresh water during most of the year) on land to assist the growth of crops and fruit trees. Municipal wastewater applied artificially and directly for landscaping and forestry also falls under this category.
+Unit: km^3/year or 10^9m^3/year
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4549
+Environmental Flow Requirements: Quantity and timing of freshwater flows required to sustain freshwater ecosystems & the human livelihoods and well-being that depend on them
+Unit: 10^9 m3/year
+
+VarId: 4550
+Water Stress: Freshwater withdrawal as a proportion of available freshwater resources. It is the ratio between total freshwater withdrawn by all major sectors and total renewable freshwater resources, after taking into account environmental flow requirements.
+Calculation Criteria: [SDG 6.4.2. Water Stress] = 100*[Total freshwater withdrawal]/([Total renewable water resources]-[Environmental Flow Requirements])
+Unit: %
+
+VarId: 4551
+Water Use Efficiency: Value added per unit of water used expressed in USD/m3
+Calculation Criteria: [Water Use Efficiency] = ([Irrigated Agriculture Water Use Efficiency]*[Agricultural water withdrawal as % of total water withdrawal]/100)+([Industrial Water Use Efficiency]*[Industrial water withdrawal as % of total water withdrawal]/100)+([Services Water Use Efficiency]*[Municipal water withdrawal as % of total withdrawal]/100)
+Unit: US$/m3
+
+VarId: 4552
+Irrigated Agriculture Water Use Efficiency: Agricultural value added per unit of water used for the agriculture sector, expressed in USD/m3 with agriculture including livestock, aquaculture and irrigated crops.
+Calculation Criteria: [Irrigated Agriculture Water Use Efficiency] = ((([Agriculture, value added to GDP]/[GDP Deflator (2015)]*100)*[% of agricultural GVA produced by irrigated agriculture]/100)/[Agricultural water withdrawal])/10000000
+Unit: US$/m3
+
+VarId: 4553
+Industrial Water Use Efficiency: MIMEC value added per unit of water used for the MIMEC sector, expressed in USD/m3 with MIMEC including mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F).
+Calculation Criteria: [Industrial Water Use Efficiency] = (([Industry, value added to GDP]/[GDP Deflator (2015)]*100)/[Industrial water withdrawal])/1000000000
+Unit: US$/m3
+
+VarId: 4554
+Services Water Use Efficiency: Services sector value added (ISIC E and ISIC G-T based on rev. 4) divided by water used for distribution by the water collection, treatment and supply industry (ISIC 36), expressed in USD/m3 with services including all the service sectors.
+Calculation Criteria: [Services Water Use Efficiency] = (([Services, value added to GDP]/[GDP Deflator (2015)]*100)/[Municipal water withdrawal])/1000000000
+Unit: US$/m3
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4400
+Area salinized by irrigation: Irrigated area affected by salinization, including formerly irrigated land abandoned because of declining productivity caused by salinization. It does not include naturally saline areas. In general, each country has its own definition of an area salinized.
+Unit: 1000 ha
+
+VarId: 4401
+Area waterlogged by irrigation: Part of the land that is waterlogged because of irrigation. Waterlogging is the state of land in which the water table is located at or near the surface resulting in a decline of crop yields. Irrigation can contribute to the raising of the level of the aquifers. The non-saturated area of soils can become too small and the soils are over-saturated with water. If recharge to groundwater is greater than natural drainage, there is a need for additional drainage to avoid waterlogging.
+Unit: 1000 hectares
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+VarId: 4345
+Temporary - Wheat: Total harvested irrigated area for the crop, cultivated in the full control irrigation area . If double irrigated cropping (same area cultivated and irrigated twice a year), then it is counted twice.
+Unit: 1000 ha
+
+VarId: 4346
+Temporary - Rice 
+Unit: 1000 ha
+
+VarId: 4347
+Temporary - Barley 
+Unit: 1000 ha
+
+VarId: 4348
+Temporary - Maize 
+Unit: 1000 ha
+
+VarId: 4349
+Temporary - Millet 
+Unit: 1000 ha
+
+VarId: 4350
+Temporary - Sorghum 
+Unit: 1000 ha
+
+VarId: 4351
+Temporary - Other cereals 
+Unit: 1000 ha
+
+VarId: 4352
+Temporary - Potatoes 
+Unit: 1000 ha
+
+VarId: 4353
+Temporary - Sweet potatoes 
+Unit: 1000 ha
+
+VarId: 4354
+Temporary - Cassava 
+Unit: 1000 ha
+
+VarId: 4355
+Temporary - Other roots and tubers 
+Unit: 1000 ha
+
+VarId: 4356
+Temporary - Plantains 
+Unit: 1000 ha
+
+VarId: 4357
+Temporary - Sugarcane 
+Unit: 1000 ha
+
+VarId: 4358
+Temporary - Sugar beet 
+Unit: 1000 ha
+
+VarId: 4359
+Temporary - Leguminous crops 
+Unit: 1000 ha
+
+VarId: 4360
+Temporary - Vegetables 
+Unit: 1000 ha
+
+VarId: 4361
+Temporary - Bananas 
+Unit: 1000 ha
+
+VarId: 4362
+Temporary - Citrus 
+Unit: 1000 ha
+
+VarId: 4363
+Temporary - Cocoa beans 
+Unit: 1000 ha
+
+VarId: 4364
+Temporary - Coffee 
+Unit: 1000 ha
+
+VarId: 4365
+Temporary - Tea 
+Unit: 1000 ha
+
+VarId: 4366
+Temporary - Tobacco 
+Unit: 1000 ha
+
+VarId: 4367
+Temporary - Cotton 
+Unit: 1000 ha
+
+VarId: 4368
+Temporary - Rubber 
+Unit: 1000 ha
+
+VarId: 4369
+Temporary - Fodder 
+Unit: 1000 ha
+
+VarId: 4370
+Temporary - Oil palm 
+Unit: 1000 ha
+
+VarId: 4371
+Temporary - Soybeans 
+Unit: 1000 ha
+
+VarId: 4372
+Temporary - Groundnuts 
+Unit: 1000 ha
+
+VarId: 4373
+Temporary - Sunflower 
+Unit: 1000 ha
+
+VarId: 4374
+Temporary - Sesame 
+Unit: 1000 ha
+
+VarId: 4375
+Temporary - Coconuts 
+Unit: 1000 ha
+
+VarId: 4376
+Temporary - Flowers 
+Unit: 1000 ha
+
+VarId: 4377
+Temporary - Other crops 
+Unit: 1000 ha
+
+VarId: 4378
+Temporary - Other crops 
+Unit: 1000 ha
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
