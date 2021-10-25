@@ -1,0 +1,48 @@
+﻿Total,Continent,Region," ""Subregion"""," ""Municipal""",,Industrial,,Agricultural,,Total water withdrawal,Total freshwater withdrawal,Freshwater withdrawal as % of Internal Renewable Water Resources
+World,,,,464,12,768,19,2769,69,4001,3853,9
+,Africa,,,33,15,9,4,184,81,227,220,6
+,,Northern Africa,,14,13,3,3,89,84,106,101,215
+,,Sub-Saharan Africa,,19,16,6,5,96,79,121,119,3
+,,,Sudano Sahelian,2.1,5,0.6,1,40.2,94,42.8,42.8,26.8
+,,,Gulf of Guinea,6.5,39,2.6,16,7.4,45,16.5,16.5,1.7
+,,,Central Africa,1.3,45,0.5,19,1,36,2.8,2.8,0.1
+,,,Eastern Africa,3,15,0.3,1,16.8,84,20.1,20.1,7
+,,,Southern Africa,5.5,22,2.1,9,16.9,69,24.6,23,8.5
+,,,Indian Ocean Islands,0.6,4,0.2,1,13.5,94,14.3,14.3,4.2
+,Americas,,,123,14,321,37,415,48,859,855,4
+,,Northern America,,79,13,289,47,241,40,610,605,10
+,,,Northern America,68,13,281.5,53,179.8,34,529.3,526,9.3
+,,,Mexico,11.4,14,7.3,9,61.6,77,80.3,79.5,19.4
+,,Central America and Caribbean,,8,23,6,18,20,59,33,33,5
+,,,Central America,3.3,27,1.3,11,7.5,62,12.1,12.1,1.9
+,,,Caribbean-Greater Antilles,4,19,4.6,22,12,58,20.5,20.5,22.2
+,,,Caribbean-Lesser Antilles and Bahamas,0.4,60,0.1,23,0.1,18,0.6,0.5,9.7
+,,Southern America,,36,17,26,12,154,71,216,216,2
+,,,Guyana,0.1,5,0.2,8,1.8,87,2.1,2.1,0.6
+,,,Andean,10.9,18,3.9,7,45.2,75,60.1,60,1.1
+,,,Brazil,17.2,23,12.7,17,44.9,60,74.8,74.8,1.3
+,,,Southern America,7.9,10,9,11,62.4,79,79.3,79.1,5.7
+,Asia,,,234,9,253,10,2069,81,2556,2421,20
+,,Middle East,,25,9,20,7,231,84,276,268,55
+,,,Arabian Peninsula,3.9,11,0.9,3,29.5,86,34.3,30.1,492.2
+,,,Caucasus,1.7,10,2.9,17,12.3,73,16.9,16.9,23.1
+,,,Islamic Republic of Iran,6.2,7,1.1,1,86,92,93.3,93.1,72.5
+,,,Near East,13.6,10,14.9,11,103.3,78,131.8,128,46.3
+,,Central Asia,,7,5,10,7,128,89,145,136,56
+,,Southern and Eastern Asia,,202,9,224,10,1710,80,2135,2017,18
+,,,South Asia,70.2,7,20,2,912.8,91,1003.1,889.6,46
+,,,East Asia,98.3,14,158,22,469.4,65,725.8,721.5,21.2
+,,,Mainland Southeast Asia,7.5,4,6.6,4,164.4,92,178.4,178.2,9.4
+,,,Maritime Southeast Asia,25.7,11,39.1,17,163.4,72,228.2,228,5.9
+,Europe,,,69,21,181,54,84,25,334,332,5
+,,Western and Central Europe,,51,21,131,53,66,27,248,246,12
+,,,Northern Europe,2.7,31,4.9,55,1.2,14,8.8,8.8,1.1
+,,,Western Europe,21,21,73.5,74,4.9,5,99.4,98.7,15.9
+,,,Central Europe,9.3,23,27.6,68,3.6,9,40.5,40.5,16.3
+,,,Mediterranean Europe,17.9,18,25,25,55.9,57,98.8,97.8,23.1
+,,Eastern Europe,,18,21,50,58,18,21,86,86,2
+,,,Eastern Europe,4.3,22,10.6,53,5.1,25,20,20,14.7
+,,,Russian Federation,13.4,20,39.6,60,13.2,20,66.2,66.2,1.5
+,Oceania,,,5,20,4,15,16,65,25,25,3
+,,Australia and New Zealand,,5,20,4,15,16,65,25,24,3
+,,Other Pacific Islands,,0.03,30,0.01,11,0.05,59,0.1,0.1,0.1
