@@ -13,3 +13,10 @@ CREATE TABLE temp_full
 "Year" int,
 "Change in Temp (C)" dec
 );
+
+CREATE TABLE year_temp (
+
+"Country" VARCHAR,
+"Year" int,
+"Change in Temp (C)" dec
+);
