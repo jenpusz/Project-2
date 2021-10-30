@@ -1,0 +1,22 @@
+CREATE TABLE temp_simple (
+
+"Country" VARCHAR,
+"Month" VARCHAR,
+"Year" int,
+"Change in Temp (C)" dec
+);
+
+CREATE TABLE temp_full
+
+"Country" VARCHAR,
+"Month" VARCHAR,
+"Year" int,
+"Change in Temp (C)" dec
+);
+
+CREATE TABLE year_temp (
+
+"Country" VARCHAR,
+"Year" int,
+"Change in Temp (C)" dec
+);
