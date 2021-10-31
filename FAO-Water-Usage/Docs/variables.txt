@@ -1,5 +1,3 @@
-information: https://www.fao.org/aquastat/statistics/popups/itemDefn.html?id=xxxx
-
 4100: Total area of the country (excl. coastal water)
 4101: Arable land area
 4102: Permanent crops area

@@ -1,507 +1,504 @@
-,,,Value,Symbol
-Afghanistan,Municipal water withdrawal,3,0.2034,I
-Afghanistan,Industrial water withdrawal,9,0.1695,I
-Afghanistan,Total water withdrawal,15,20.3729,E
-Afghanistan,Municipal water withdrawal,3,0.2034,I
-Afghanistan,Industrial water withdrawal,9,0.1695,I
-Afghanistan,Total water withdrawal,15,20.3729,E
-Albania,Municipal water withdrawal,3,0.36439,I
-Albania,Industrial water withdrawal,8,0.16075,I
-Albania,Total water withdrawal,12,1.12434,E
-Algeria,Municipal water withdrawal,3,3.02,E
-Algeria,Industrial water withdrawal,9,0.415,E
-Algeria,Total water withdrawal,15,8.425,E
-Angola,Municipal water withdrawal,3,0.3195,I
-Angola,Industrial water withdrawal,9,0.2396,I
-Angola,Total water withdrawal,15,0.7058,I
-Antigua and Barbuda,Municipal water withdrawal,3,0.0072,
-Antigua and Barbuda,Industrial water withdrawal,9,0.0025,
-Antigua and Barbuda,Total water withdrawal,15,0.0115,E
-Argentina,Municipal water withdrawal,3,5.85,I
-Argentina,Industrial water withdrawal,9,4.0,I
-Argentina,Total water withdrawal,15,37.78,I
-Armenia,Municipal water withdrawal,3,0.6005,
-Armenia,Industrial water withdrawal,7,0.2322,
-Armenia,Total water withdrawal,12,2.941,
-Australia,Industrial water withdrawal,5,2.688,
-Australia,Total water withdrawal,9,16.019,E
-Austria,Municipal water withdrawal,3,0.72,I
-Austria,Industrial water withdrawal,9,2.695,I
-Austria,Total water withdrawal,15,3.4921,E
-Azerbaijan,Municipal water withdrawal,3,0.4888,
-Azerbaijan,Industrial water withdrawal,7,3.109,
-Azerbaijan,Total water withdrawal,11,11.97,
-Bahrain,Municipal water withdrawal,3,0.2561181818,I
-Bahrain,Industrial water withdrawal,9,0.0194818182,I
-Bahrain,Total water withdrawal,15,0.4156545455,I
-Bangladesh,Municipal water withdrawal,3,3.6,I
-Bangladesh,Industrial water withdrawal,9,0.77,I
-Bangladesh,Total water withdrawal,12,35.87,I
-Barbados,Municipal water withdrawal,3,0.02,I
-Barbados,Industrial water withdrawal,9,0.0062,I
-Barbados,Total water withdrawal,15,0.081,I
-Belarus,Municipal water withdrawal,3,0.5611666667,I
-Belarus,Industrial water withdrawal,8,0.4811666667,I
-Belarus,Total water withdrawal,13,1.5253333333,I
-Belgium,Municipal water withdrawal,3,0.725,X
-Belgium,Industrial water withdrawal,9,4.233,I
-Belgium,Total water withdrawal,15,4.994,E
-Belize,Municipal water withdrawal,3,0.0114,I
-Belize,Industrial water withdrawal,9,0.0212,I
-Belize,Total water withdrawal,15,0.101,I
-Benin,Municipal water withdrawal,3,0.1368571429,I
-Benin,Industrial water withdrawal,9,0.03,I
-Benin,Total water withdrawal,15,0.2258571429,E
-Bhutan,Municipal water withdrawal,3,0.017,I
-Bhutan,Industrial water withdrawal,9,0.003,I
-Bhutan,Total water withdrawal,12,0.338,I
-Bolivia,Municipal water withdrawal,3,0.136,I
-Bolivia,Industrial water withdrawal,9,0.032,I
-Bolivia,Total water withdrawal,15,2.088,I
-Bosnia and Herzegovina,Municipal water withdrawal,2,0.3593,
-Bosnia and Herzegovina,Industrial water withdrawal,7,0.0721,
-Botswana,Municipal water withdrawal,3,0.0837,
-Botswana,Industrial water withdrawal,9,0.0363,
-Botswana,Total water withdrawal,15,0.1943,E
-Brazil,Municipal water withdrawal,3,16.76,I
-Brazil,Industrial water withdrawal,8,13.085,I
-Brazil,Total water withdrawal,13,69.93,I
-Brunei Darussalam,Municipal water withdrawal,1,0.1515,I
-Brunei Darussalam,Total water withdrawal,7,0.092,I
-Bulgaria,Municipal water withdrawal,3,0.9483,
-Bulgaria,Industrial water withdrawal,7,3.817,
-Bulgaria,Total water withdrawal,11,5.715,X
-Burkina Faso,Municipal water withdrawal,3,0.3756,I
-Burkina Faso,Industrial water withdrawal,9,0.0217,I
-Burkina Faso,Total water withdrawal,15,0.818,I
-Burundi,Municipal water withdrawal,3,0.0431,I
-Burundi,Industrial water withdrawal,9,0.015,I
-Burundi,Total water withdrawal,15,0.2801,E
-Cabo Verde,Municipal water withdrawal,2,0.0016,I
-Cabo Verde,Industrial water withdrawal,7,0.0004,I
-Cabo Verde,Total water withdrawal,12,0.027,E
-Cambodia,Municipal water withdrawal,3,0.098,I
-Cambodia,Industrial water withdrawal,9,0.033,I
-Cambodia,Total water withdrawal,13,2.184,I
-Cameroon,Municipal water withdrawal,3,0.2468,I
-Cameroon,Industrial water withdrawal,9,0.1046,I
-Cameroon,Total water withdrawal,15,1.0884,E
-Canada,Municipal water withdrawal,3,5.0785,I
-Central African Republic,Municipal water withdrawal,3,0.0601,I
-Central African Republic,Industrial water withdrawal,9,0.012,I
-Central African Republic,Total water withdrawal,15,0.0725,I
-Chad,Municipal water withdrawal,3,0.1037,I
-Chad,Industrial water withdrawal,9,0.1037,I
-Chad,Total water withdrawal,15,0.8796,I
-Chile,Municipal water withdrawal,3,1.2808,I
-Chile,Industrial water withdrawal,9,2.8936,I
-China,Municipal water withdrawal,3,72.9,
-China,Industrial water withdrawal,9,142.4,
-China,Total water withdrawal,15,603.3,E
-Comoros,Municipal water withdrawal,2,0.0048,I
-Comoros,Industrial water withdrawal,7,0.0005,I
-Comoros,Total water withdrawal,12,0.01,I
-Congo,Municipal water withdrawal,3,0.0637,I
-Congo,Industrial water withdrawal,9,0.024,I
-Congo,Total water withdrawal,15,0.0917,E
-Costa Rica,Industrial water withdrawal,1,0.086,
-Croatia,Municipal water withdrawal,3,0.513,X
-Croatia,Industrial water withdrawal,7,0.1477,X
-Croatia,Total water withdrawal,11,0.69626,E
-Cuba,Municipal water withdrawal,2,1.7,I
-Cuba,Industrial water withdrawal,7,0.74345,I
-Cuba,Total water withdrawal,13,6.6457833333,E
-Cyprus,Municipal water withdrawal,3,0.0788,X
-Cyprus,Industrial water withdrawal,8,0.0042,I
-Cyprus,Total water withdrawal,14,0.254,E
-Czech Republic,Municipal water withdrawal,3,0.6371,X
-Czech Republic,Industrial water withdrawal,8,1.0596764706,I
-Czech Republic,Total water withdrawal,13,1.841,X
-Côte d'Ivoire,Municipal water withdrawal,3,0.3902,I
-Côte d'Ivoire,Industrial water withdrawal,9,0.2588888889,I
-Côte d'Ivoire,Total water withdrawal,15,1.2480444444,I
-Democratic People's Republic of Korea,Municipal water withdrawal,2,0.9028,I
-Democratic People's Republic of Korea,Industrial water withdrawal,8,1.145,I
-Democratic People's Republic of Korea,Total water withdrawal,13,8.6578,I
-Democratic Republic of the Congo,Municipal water withdrawal,3,0.4649,I
-Democratic Republic of the Congo,Industrial water withdrawal,9,0.1468,I
-Democratic Republic of the Congo,Total water withdrawal,15,0.6836,I
-Denmark,Municipal water withdrawal,3,0.4012,X
-Denmark,Industrial water withdrawal,7,0.128,X
-Denmark,Total water withdrawal,11,0.7155,E
-Djibouti,Municipal water withdrawal,3,0.016,I
-Djibouti,Industrial water withdrawal,9,0.0,I
-Djibouti,Total water withdrawal,15,0.019,I
-Dominica,Municipal water withdrawal,0,0.019,I
-Dominica,Industrial water withdrawal,3,0.0,I
-Dominica,Total water withdrawal,9,0.02,I
-Dominican Republic,Municipal water withdrawal,2,0.855,I
-Dominican Republic,Industrial water withdrawal,7,0.61556,I
-Dominican Republic,Total water withdrawal,12,7.92476,E
-Ecuador,Municipal water withdrawal,2,1.293,I
-Ecuador,Industrial water withdrawal,7,0.549,I
-Ecuador,Total water withdrawal,12,9.918,I
-Egypt,Municipal water withdrawal,3,9.6,
-Egypt,Industrial water withdrawal,9,1.2,
-Egypt,Total water withdrawal,15,72.3,E
-El Salvador,Municipal water withdrawal,3,0.474,I
-El Salvador,Industrial water withdrawal,9,0.213,I
-El Salvador,Total water withdrawal,15,2.118,I
-Equatorial Guinea,Municipal water withdrawal,3,0.0158,I
-Equatorial Guinea,Industrial water withdrawal,9,0.003,I
-Equatorial Guinea,Total water withdrawal,15,0.0198,E
-Eritrea,Municipal water withdrawal,2,0.031,I
-Eritrea,Industrial water withdrawal,7,0.001,I
-Eritrea,Total water withdrawal,12,0.582,I
-Estonia,Municipal water withdrawal,3,0.061,
-Estonia,Industrial water withdrawal,8,1.565,
-Estonia,Total water withdrawal,13,1.631,
-Eswatini,Municipal water withdrawal,3,0.0413,I
-Eswatini,Industrial water withdrawal,9,0.0207,I
-Eswatini,Total water withdrawal,15,1.068,E
-Ethiopia,Municipal water withdrawal,2,0.81,I
-Ethiopia,Industrial water withdrawal,7,0.0511,I
-Ethiopia,Total water withdrawal,12,9.5710090909,E
-Fiji,Municipal water withdrawal,3,0.0253,I
-Fiji,Industrial water withdrawal,9,0.0096,I
-Fiji,Total water withdrawal,15,0.0849,I
-Finland,Municipal water withdrawal,3,0.4075,I
-France,Municipal water withdrawal,3,5.38,
-France,Industrial water withdrawal,8,19.77,
-France,Total water withdrawal,13,28.063,E
-Gabon,Municipal water withdrawal,3,0.0847,I
-Gabon,Industrial water withdrawal,9,0.0141,I
-Gabon,Total water withdrawal,15,0.1391,I
-Gambia,Municipal water withdrawal,3,0.0412,I
-Gambia,Industrial water withdrawal,9,0.0212,I
-Gambia,Total water withdrawal,15,0.1016,E
-Germany,Municipal water withdrawal,1,10.53752541,I
-Germany,Industrial water withdrawal,5,21.5897183167,I
-Germany,Total water withdrawal,9,32.4918157267,I
-Ghana,Municipal water withdrawal,3,0.255,
-Ghana,Industrial water withdrawal,9,0.095,I
-Ghana,Total water withdrawal,15,1.3155,E
-Greece,Municipal water withdrawal,3,1.526,E
-Greece,Industrial water withdrawal,6,0.126,X
-Greece,Total water withdrawal,10,9.935,E
-Grenada,Total water withdrawal,5,0.0131888889,I
-Guatemala,Municipal water withdrawal,3,0.835,I
-Guatemala,Industrial water withdrawal,9,0.6031,I
-Guatemala,Total water withdrawal,14,3.3241,I
-Guinea,Municipal water withdrawal,3,0.2276,I
-Guinea,Industrial water withdrawal,8,0.0582461538,I
-Guinea,Total water withdrawal,13,0.7774579186,E
-Guinea-Bissau,Municipal water withdrawal,3,0.0341,I
-Guinea-Bissau,Industrial water withdrawal,9,0.0119,I
-Guinea-Bissau,Total water withdrawal,15,0.19,E
-Guyana,Municipal water withdrawal,3,0.0613,I
-Guyana,Industrial water withdrawal,9,0.0204,I
-Guyana,Total water withdrawal,15,1.4447,I
-Haiti,Municipal water withdrawal,3,0.19,I
-Haiti,Industrial water withdrawal,9,0.051,I
-Haiti,Total water withdrawal,15,1.45,I
-Honduras,Municipal water withdrawal,3,0.315,I
-Honduras,Industrial water withdrawal,9,0.114,I
-Honduras,Total water withdrawal,13,1.607,I
-Hungary,Municipal water withdrawal,3,0.716,X
-Hungary,Industrial water withdrawal,7,4.013,X
-Hungary,Total water withdrawal,13,5.051,E
-Iceland,Municipal water withdrawal,3,0.094,
-Iceland,Industrial water withdrawal,9,0.2,
-Iceland,Total water withdrawal,15,0.2943,E
-India,Municipal water withdrawal,3,56.0,I
-India,Industrial water withdrawal,9,17.0,I
-India,Total water withdrawal,15,761.0,I
-Indonesia,Municipal water withdrawal,3,20.2327272727,I
-Indonesia,Industrial water withdrawal,9,14.7768181818,I
-Indonesia,Total water withdrawal,15,206.4038311688,E
-Iran,Municipal water withdrawal,3,6.2,I
-Iran,Industrial water withdrawal,9,1.1,I
-Iran,Total water withdrawal,15,93.3,I
-Iraq,Municipal water withdrawal,3,1.7285714286,I
-Iraq,Industrial water withdrawal,8,3.1857142857,I
-Iraq,Total water withdrawal,12,43.7142857143,I
-Ireland,Industrial water withdrawal,7,0.2641818182,I
-Ireland,Total water withdrawal,12,0.9856818182,E
-Israel,Municipal water withdrawal,3,0.7706,I
-Israel,Industrial water withdrawal,7,0.1232,I
-Israel,Total water withdrawal,11,2.001,I
-Italy,Municipal water withdrawal,3,9.451,X
-Italy,Industrial water withdrawal,9,8.3607692308,I
-Italy,Total water withdrawal,15,34.1267692308,E
-Jamaica,Municipal water withdrawal,3,0.2973333333,I
-Jamaica,Industrial water withdrawal,9,0.7635555556,I
-Jamaica,Total water withdrawal,15,1.3974603175,E
-Jordan,Municipal water withdrawal,3,0.354,
-Jordan,Industrial water withdrawal,9,0.033,
-Jordan,Total water withdrawal,15,0.849,E
-Kazakhstan,Municipal water withdrawal,3,2.487,
-Kazakhstan,Industrial water withdrawal,8,6.417,
-Kazakhstan,Total water withdrawal,13,21.394,E
-Kenya,Municipal water withdrawal,3,1.1862948415,I
-Kenya,Industrial water withdrawal,9,0.1250310752,I
-Kenya,Total water withdrawal,15,3.2188,I
-Kuwait,Municipal water withdrawal,3,0.4483,I
-Kuwait,Industrial water withdrawal,9,0.0233,I
-Kuwait,Total water withdrawal,15,1.1140384615,E
-Kyrgyzstan,Municipal water withdrawal,3,0.224,I
-Kyrgyzstan,Industrial water withdrawal,9,0.336,I
-Kyrgyzstan,Total water withdrawal,15,7.66,E
-Lao People's Democratic Republic,Municipal water withdrawal,3,0.13,I
-Lao People's Democratic Republic,Industrial water withdrawal,9,0.17,I
-Lao People's Democratic Republic,Total water withdrawal,13,6.664,E
-Latvia,Municipal water withdrawal,1,0.1631,X
-Latvia,Industrial water withdrawal,3,0.0563,X
-Latvia,Total water withdrawal,7,0.2602,E
-Lebanon,Municipal water withdrawal,3,0.282,I
-Lebanon,Industrial water withdrawal,9,0.675,I
-Lebanon,Total water withdrawal,15,1.681,I
-Lesotho,Municipal water withdrawal,3,0.02,I
-Lesotho,Industrial water withdrawal,9,0.02,I
-Lesotho,Total water withdrawal,15,0.0438,E
-Liberia,Municipal water withdrawal,3,0.0802,I
-Liberia,Industrial water withdrawal,9,0.0534,I
-Liberia,Total water withdrawal,15,0.1459,E
-Libya,Municipal water withdrawal,3,0.7,
-Libya,Industrial water withdrawal,9,0.28,
-Libya,Total water withdrawal,15,5.83,E
-Lithuania,Municipal water withdrawal,3,0.104075,I
-Lithuania,Industrial water withdrawal,8,0.5326230769,I
-Lithuania,Total water withdrawal,13,0.7005480769,E
-Luxembourg,Industrial water withdrawal,7,0.0037,X
-Luxembourg,Total water withdrawal,12,0.0445,E
-Macedonia,Municipal water withdrawal,3,0.2308166667,I
-Macedonia,Industrial water withdrawal,9,0.1223833333,I
-Macedonia,Total water withdrawal,15,1.7062,E
-Madagascar,Municipal water withdrawal,3,0.395,I
-Madagascar,Industrial water withdrawal,9,0.1619,I
-Madagascar,Total water withdrawal,15,13.5569,E
-Malawi,Municipal water withdrawal,3,0.1431,I
-Malawi,Industrial water withdrawal,9,0.0477,I
-Malawi,Total water withdrawal,15,1.3568,I
-Malaysia,Municipal water withdrawal,3,1.342,I
-Malaysia,Industrial water withdrawal,9,1.641,I
-Malaysia,Total water withdrawal,15,5.488,E
-Maldives,Municipal water withdrawal,3,0.0056,I
-Maldives,Industrial water withdrawal,9,0.0003,I
-Maldives,Total water withdrawal,15,0.0059,I
-Mali,Municipal water withdrawal,3,0.107,I
-Mali,Industrial water withdrawal,9,0.004,I
-Mali,Total water withdrawal,15,5.186,I
-Malta,Municipal water withdrawal,3,0.0148,X
-Malta,Industrial water withdrawal,7,0.001,X
-Malta,Total water withdrawal,12,0.0399,E
-Mauritania,Municipal water withdrawal,3,0.0954,I
-Mauritania,Industrial water withdrawal,9,0.0318,I
-Mauritania,Total water withdrawal,15,1.3502,E
-Mauritius,Municipal water withdrawal,3,0.206,
-Mauritius,Industrial water withdrawal,8,0.011,
-Mauritius,Total water withdrawal,13,0.582,E
-Mexico,Municipal water withdrawal,2,11.98,
-Mexico,Industrial water withdrawal,5,7.403,
-Mexico,Total water withdrawal,10,82.733,E
-Monaco,Municipal water withdrawal,3,0.005,I
-Monaco,Industrial water withdrawal,9,0.0,I
-Monaco,Total water withdrawal,15,0.005,I
-Mongolia,Municipal water withdrawal,3,0.07295,I
-Mongolia,Industrial water withdrawal,9,0.164,I
-Mongolia,Total water withdrawal,15,0.4903,I
-Montenegro,Municipal water withdrawal,1,0.0964,I
-Montenegro,Industrial water withdrawal,5,0.0628,I
-Montenegro,Total water withdrawal,9,0.1609,I
-Morocco,Municipal water withdrawal,3,1.063,I
-Morocco,Industrial water withdrawal,9,0.212,I
-Morocco,Total water withdrawal,15,10.431,I
-Mozambique,Municipal water withdrawal,3,0.33651,I
-Mozambique,Industrial water withdrawal,9,0.02836,I
-Mozambique,Total water withdrawal,15,1.3581557143,E
-Myanmar,Municipal water withdrawal,3,3.323,I
-Myanmar,Industrial water withdrawal,9,0.4984,I
-Myanmar,Total water withdrawal,15,33.3914,E
-Namibia,Municipal water withdrawal,3,0.073,I
-Namibia,Industrial water withdrawal,9,0.014,I
-Namibia,Total water withdrawal,15,0.288,E
-Nepal,Municipal water withdrawal,3,0.1476,I
-Nepal,Industrial water withdrawal,9,0.0295,I
-Nepal,Total water withdrawal,14,9.4971,E
-Netherlands,Municipal water withdrawal,3,1.217,X
-Netherlands,Industrial water withdrawal,7,9.446,X
-Netherlands,Total water withdrawal,11,10.7232,E
-New Zealand,Industrial water withdrawal,6,1.184,I
-Nicaragua,Municipal water withdrawal,2,0.286,I
-Nicaragua,Industrial water withdrawal,7,0.0736,I
-Nicaragua,Total water withdrawal,12,1.5446,E
-Niger,Municipal water withdrawal,3,0.0617,
-Niger,Total water withdrawal,14,1.2510666667,E
-Nigeria,Municipal water withdrawal,3,5.0,I
-Nigeria,Industrial water withdrawal,9,1.965,I
-Nigeria,Total water withdrawal,15,12.475,I
-Norway,Municipal water withdrawal,3,0.816,X
-Norway,Industrial water withdrawal,9,1.071,I
-Norway,Total water withdrawal,15,2.7319,E
-Oman,Municipal water withdrawal,3,0.1304,I
-Oman,Industrial water withdrawal,7,0.1234,I
-Oman,Total water withdrawal,11,1.8169,I
-Pakistan,Municipal water withdrawal,3,9.65,I
-Pakistan,Industrial water withdrawal,9,1.4,I
-Pakistan,Total water withdrawal,15,183.45,I
-Panama,Municipal water withdrawal,2,0.6823333333,I
-Panama,Industrial water withdrawal,7,0.0092,I
-Panama,Total water withdrawal,10,1.1555333333,I
-Papua New Guinea,Municipal water withdrawal,3,0.2235,I
-Papua New Guinea,Industrial water withdrawal,9,0.1676,I
-Papua New Guinea,Total water withdrawal,14,0.3921,I
-Paraguay,Municipal water withdrawal,3,0.362,I
-Paraguay,Industrial water withdrawal,9,0.154,I
-Paraguay,Total water withdrawal,15,2.413,E
-Peru,Municipal water withdrawal,3,2.0255,I
-Peru,Industrial water withdrawal,5,0.2478,I
-Peru,Total water withdrawal,7,14.8833,E
-Philippines,Municipal water withdrawal,3,7.301,
-Philippines,Industrial water withdrawal,7,9.037,
-Philippines,Total water withdrawal,10,84.248,E
-Poland,Municipal water withdrawal,2,2.031,X
-Poland,Industrial water withdrawal,7,7.648,I
-Poland,Total water withdrawal,12,11.48,X
-Portugal,Municipal water withdrawal,3,0.9105,X
-Portugal,Industrial water withdrawal,7,1.7421473684,I
-Portugal,Total water withdrawal,11,7.4793694737,E
-Puerto Rico,Municipal water withdrawal,3,0.88156,I
-Puerto Rico,Industrial water withdrawal,9,2.836,I
-Puerto Rico,Total water withdrawal,15,3.80142,I
-Qatar,Municipal water withdrawal,3,0.4407875,I
-Qatar,Industrial water withdrawal,7,0.0178,I
-Qatar,Total water withdrawal,11,0.7473875,E
-Republic of Korea,Municipal water withdrawal,2,7.2164444444,I
-Republic of Korea,Industrial water withdrawal,8,4.45,I
-Republic of Korea,Total water withdrawal,14,27.6264444444,E
-Republic of Moldova,Municipal water withdrawal,3,0.1452222222,I
-Republic of Moldova,Industrial water withdrawal,9,0.7016666667,I
-Republic of Moldova,Total water withdrawal,15,0.8858888889,E
-Republic of Serbia,Municipal water withdrawal,0,0.6812,X
-Republic of Serbia,Industrial water withdrawal,2,3.097,E
-Republic of Serbia,Total water withdrawal,4,3.869,X
-Romania,Municipal water withdrawal,3,1.053,X
-Romania,Industrial water withdrawal,8,4.336,X
-Romania,Total water withdrawal,13,6.482,E
-Russian Federation,Municipal water withdrawal,3,12.4351460222,I
-Russian Federation,Industrial water withdrawal,7,36.7486404834,I
-Russian Federation,Total water withdrawal,11,61.4333333333,I
-Rwanda,Municipal water withdrawal,3,0.0614,I
-Rwanda,Industrial water withdrawal,9,0.0205,I
-Rwanda,Total water withdrawal,14,0.1839,E
-Saint Kitts and Nevis,Industrial water withdrawal,2,0.0,E
-Saint Kitts and Nevis,Total water withdrawal,5,0.0156,E
-Saint Lucia,Municipal water withdrawal,1,0.0125,I
-Saint Lucia,Industrial water withdrawal,5,0.0,I
-Saint Lucia,Total water withdrawal,9,0.0429,I
-Saint Vincent and the Grenadines,Total water withdrawal,7,0.0085852222,I
-Sao Tome and Principe,Total water withdrawal,7,0.0350043478,I
-Saudi Arabia,Municipal water withdrawal,3,2.527,
-Saudi Arabia,Industrial water withdrawal,8,0.843,
-Saudi Arabia,Total water withdrawal,13,20.88,E
-Senegal,Municipal water withdrawal,3,0.098,I
-Senegal,Industrial water withdrawal,9,0.058,I
-Senegal,Total water withdrawal,15,2.221,I
-Seychelles,Municipal water withdrawal,3,0.009,I
-Seychelles,Industrial water withdrawal,9,0.0038,I
-Seychelles,Total water withdrawal,15,0.0137,E
-Sierra Leone,Municipal water withdrawal,3,0.111,I
-Sierra Leone,Industrial water withdrawal,9,0.0555,I
-Sierra Leone,Total water withdrawal,15,0.2122,I
-Singapore,Municipal water withdrawal,3,0.5327175,I
-Singapore,Industrial water withdrawal,9,0.6035265,I
-Singapore,Total water withdrawal,15,1.1614005,E
-Slovakia,Municipal water withdrawal,3,0.3058,X
-Slovakia,Industrial water withdrawal,8,0.3288,X
-Slovakia,Total water withdrawal,13,0.6653,E
-Slovenia,Municipal water withdrawal,3,0.1617,X
-Slovenia,Industrial water withdrawal,7,0.7641,X
-Slovenia,Total water withdrawal,11,0.9281,E
-Somalia,Municipal water withdrawal,3,0.015,I
-Somalia,Industrial water withdrawal,9,0.002,I
-Somalia,Total water withdrawal,15,3.298,I
-South Africa,Municipal water withdrawal,3,4.1633846154,I
-South Africa,Industrial water withdrawal,8,1.5809230769,I
-South Africa,Total water withdrawal,13,15.2916923077,I
-South Sudan,Municipal water withdrawal,0,0.193,I
-South Sudan,Industrial water withdrawal,3,0.225,I
-South Sudan,Total water withdrawal,6,0.658,I
-Spain,Municipal water withdrawal,3,4.599,X
-Spain,Industrial water withdrawal,9,6.572,X
-Spain,Total water withdrawal,15,36.641,E
-Sri Lanka,Municipal water withdrawal,3,0.805,I
-Sri Lanka,Industrial water withdrawal,9,0.831,I
-Sri Lanka,Total water withdrawal,15,12.946,I
-Sudan,Municipal water withdrawal,0,0.95,I
-Sudan,Industrial water withdrawal,3,0.075,I
-Sudan,Total water withdrawal,6,26.935,I
-Suriname,Municipal water withdrawal,3,0.0493,I
-Suriname,Industrial water withdrawal,9,0.1355,I
-Suriname,Total water withdrawal,15,0.6159,I
-Sweden,Municipal water withdrawal,3,0.9934,I
-Sweden,Industrial water withdrawal,9,1.4812,I
-Sweden,Total water withdrawal,15,2.5634,I
-Switzerland,Municipal water withdrawal,3,1.202,X
-Switzerland,Industrial water withdrawal,5,0.6427,X
-Switzerland,Total water withdrawal,11,2.0048,E
-Syrian Arab Republic,Municipal water withdrawal,3,1.475,I
-Syrian Arab Republic,Industrial water withdrawal,9,0.6154,I
-Syrian Arab Republic,Total water withdrawal,15,16.7604,E
-Thailand,Municipal water withdrawal,3,2.739,I
-Thailand,Industrial water withdrawal,9,2.777,I
-Thailand,Total water withdrawal,13,57.306,I
-The Bahamas,Municipal water withdrawal,2,0.0305384615,I
-Timor-Leste,Municipal water withdrawal,2,0.099,I
-Timor-Leste,Industrial water withdrawal,7,0.002,I
-Timor-Leste,Total water withdrawal,11,1.172,I
-Togo,Municipal water withdrawal,3,0.1407,I
-Togo,Industrial water withdrawal,9,0.0063,I
-Togo,Total water withdrawal,15,0.223,E
-Trinidad and Tobago,Municipal water withdrawal,2,0.2376,I
-Trinidad and Tobago,Industrial water withdrawal,7,0.1289,I
-Trinidad and Tobago,Total water withdrawal,13,0.3832,I
-Turkey,Municipal water withdrawal,3,4.936,
-Turkey,Industrial water withdrawal,7,1.792,
-Turkey,Total water withdrawal,12,50.508,E
-Turkmenistan,Municipal water withdrawal,3,0.755,I
-Turkmenistan,Industrial water withdrawal,9,0.839,I
-Turkmenistan,Total water withdrawal,15,27.954,I
-Uganda,Municipal water withdrawal,3,0.328,I
-Uganda,Industrial water withdrawal,9,0.05,I
-Uganda,Total water withdrawal,15,0.637,I
-Ukraine,Municipal water withdrawal,3,2.927,I
-Ukraine,Industrial water withdrawal,7,6.027,I
-Ukraine,Total water withdrawal,11,13.147,E
-United Arab Emirates,Municipal water withdrawal,3,1.3616923077,I
-United Arab Emirates,Industrial water withdrawal,8,0.0878461538,I
-United Kingdom,Municipal water withdrawal,3,5.828,X
-United Kingdom,Industrial water withdrawal,8,1.122,X
-United Kingdom,Total water withdrawal,14,8.214,X
-United Republic of Tanzania,Municipal water withdrawal,2,0.527,I
-United Republic of Tanzania,Industrial water withdrawal,7,0.025,I
-United Republic of Tanzania,Total water withdrawal,13,5.184,I
-United States of America,Municipal water withdrawal,3,60.61,I
-United States of America,Industrial water withdrawal,9,232.92,I
-United States of America,Total water withdrawal,15,469.07,I
-Uruguay,Municipal water withdrawal,3,0.41,I
-Uruguay,Industrial water withdrawal,9,0.08,I
-Uruguay,Total water withdrawal,15,3.66,I
-Uzbekistan,Municipal water withdrawal,3,2.7272222222,I
-Uzbekistan,Industrial water withdrawal,9,1.92,I
-Uzbekistan,Total water withdrawal,15,52.7294444444,I
-Venezuela,Municipal water withdrawal,3,5.123,I
-Venezuela,Industrial water withdrawal,9,0.7933,I
-Venezuela,Total water withdrawal,15,22.6263,E
-Viet Nam,Municipal water withdrawal,3,1.206,I
-Viet Nam,Industrial water withdrawal,9,3.074,I
-Viet Nam,Total water withdrawal,15,82.03,I
-Yemen,Municipal water withdrawal,3,0.265,I
-Yemen,Industrial water withdrawal,9,0.065,I
-Yemen,Total water withdrawal,15,3.565,I
-Zambia,Municipal water withdrawal,3,0.29,I
-Zambia,Industrial water withdrawal,9,0.13,I
-Zambia,Total water withdrawal,15,1.572,E
-Zimbabwe,Municipal water withdrawal,3,0.5539375,I
-Zimbabwe,Industrial water withdrawal,8,0.1315,I
-Zimbabwe,Total water withdrawal,13,3.4610625,I
+,,Value,Symbol
+Municipal water withdrawal,Afghanistan,0.2034,I
+Industrial water withdrawal,Afghanistan,0.1695,I
+Total water withdrawal,Afghanistan,20.3729,E
+Municipal water withdrawal,Albania,0.36439,I
+Industrial water withdrawal,Albania,0.16075,I
+Total water withdrawal,Albania,1.12434,E
+Municipal water withdrawal,Algeria,3.02,E
+Industrial water withdrawal,Algeria,0.415,E
+Total water withdrawal,Algeria,8.425,E
+Municipal water withdrawal,Angola,0.3195,I
+Industrial water withdrawal,Angola,0.2396,I
+Total water withdrawal,Angola,0.7058,I
+Municipal water withdrawal,Antigua and Barbuda,0.0072,OF
+Industrial water withdrawal,Antigua and Barbuda,0.0025,OF
+Total water withdrawal,Antigua and Barbuda,0.0115,E
+Municipal water withdrawal,Argentina,5.85,I
+Industrial water withdrawal,Argentina,4.0,I
+Total water withdrawal,Argentina,37.78,I
+Municipal water withdrawal,Armenia,0.6005,OF
+Industrial water withdrawal,Armenia,0.2322,OF
+Total water withdrawal,Armenia,2.941,OF
+Industrial water withdrawal,Australia,2.688,OF
+Total water withdrawal,Australia,16.019,E
+Municipal water withdrawal,Austria,0.72,I
+Industrial water withdrawal,Austria,2.695,I
+Total water withdrawal,Austria,3.4921,E
+Municipal water withdrawal,Azerbaijan,0.4888,OF
+Industrial water withdrawal,Azerbaijan,3.109,OF
+Total water withdrawal,Azerbaijan,11.97,OF
+Municipal water withdrawal,Bahamas,0.0305384615,I
+Municipal water withdrawal,Bahrain,0.2561181818,I
+Industrial water withdrawal,Bahrain,0.0194818182,I
+Total water withdrawal,Bahrain,0.4156545455,I
+Municipal water withdrawal,Bangladesh,3.6,I
+Industrial water withdrawal,Bangladesh,0.77,I
+Total water withdrawal,Bangladesh,35.87,I
+Municipal water withdrawal,Barbados,0.02,I
+Industrial water withdrawal,Barbados,0.0062,I
+Total water withdrawal,Barbados,0.081,I
+Municipal water withdrawal,Belarus,0.5611666667,I
+Industrial water withdrawal,Belarus,0.4811666667,I
+Total water withdrawal,Belarus,1.5253333333,I
+Municipal water withdrawal,Belgium,0.725,X
+Industrial water withdrawal,Belgium,4.233,I
+Total water withdrawal,Belgium,4.994,E
+Municipal water withdrawal,Belize,0.0114,I
+Industrial water withdrawal,Belize,0.0212,I
+Total water withdrawal,Belize,0.101,I
+Municipal water withdrawal,Benin,0.1368571429,I
+Industrial water withdrawal,Benin,0.03,I
+Total water withdrawal,Benin,0.2258571429,E
+Municipal water withdrawal,Bhutan,0.017,I
+Industrial water withdrawal,Bhutan,0.003,I
+Total water withdrawal,Bhutan,0.338,I
+Municipal water withdrawal,Bolivia (Plurinational State of),0.136,I
+Industrial water withdrawal,Bolivia (Plurinational State of),0.032,I
+Total water withdrawal,Bolivia (Plurinational State of),2.088,I
+Municipal water withdrawal,Bosnia and Herzegovina,0.3593,OF
+Industrial water withdrawal,Bosnia and Herzegovina,0.0721,OF
+Municipal water withdrawal,Botswana,0.0837,OF
+Industrial water withdrawal,Botswana,0.0363,OF
+Total water withdrawal,Botswana,0.1943,E
+Municipal water withdrawal,Brazil,16.76,I
+Industrial water withdrawal,Brazil,13.085,I
+Total water withdrawal,Brazil,69.93,I
+Municipal water withdrawal,Brunei Darussalam,0.1515,I
+Total water withdrawal,Brunei Darussalam,0.092,I
+Municipal water withdrawal,Bulgaria,0.9483,OF
+Industrial water withdrawal,Bulgaria,3.817,OF
+Total water withdrawal,Bulgaria,5.715,X
+Municipal water withdrawal,Burkina Faso,0.3756,I
+Industrial water withdrawal,Burkina Faso,0.0217,I
+Total water withdrawal,Burkina Faso,0.818,I
+Municipal water withdrawal,Burundi,0.0431,I
+Industrial water withdrawal,Burundi,0.015,I
+Total water withdrawal,Burundi,0.2801,E
+Municipal water withdrawal,Cabo Verde,0.0016,I
+Industrial water withdrawal,Cabo Verde,0.0004,I
+Total water withdrawal,Cabo Verde,0.027,E
+Municipal water withdrawal,Cambodia,0.098,I
+Industrial water withdrawal,Cambodia,0.033,I
+Total water withdrawal,Cambodia,2.184,I
+Municipal water withdrawal,Cameroon,0.2468,I
+Industrial water withdrawal,Cameroon,0.1046,I
+Total water withdrawal,Cameroon,1.0884,E
+Municipal water withdrawal,Canada,5.0785,I
+Municipal water withdrawal,Central African Republic,0.0601,I
+Industrial water withdrawal,Central African Republic,0.012,I
+Total water withdrawal,Central African Republic,0.0725,I
+Municipal water withdrawal,Chad,0.1037,I
+Industrial water withdrawal,Chad,0.1037,I
+Total water withdrawal,Chad,0.8796,I
+Municipal water withdrawal,Chile,1.2808,I
+Industrial water withdrawal,Chile,2.8936,I
+Municipal water withdrawal,China,72.9,OF
+Industrial water withdrawal,China,142.4,OF
+Total water withdrawal,China,603.3,E
+Municipal water withdrawal,Comoros,0.0048,I
+Industrial water withdrawal,Comoros,0.0005,I
+Total water withdrawal,Comoros,0.01,I
+Municipal water withdrawal,Congo,0.0637,I
+Industrial water withdrawal,Congo,0.024,I
+Total water withdrawal,Congo,0.0917,E
+Industrial water withdrawal,Costa Rica,0.086,OF
+Municipal water withdrawal,Croatia,0.513,X
+Industrial water withdrawal,Croatia,0.1477,X
+Total water withdrawal,Croatia,0.69626,E
+Municipal water withdrawal,Cuba,1.7,I
+Industrial water withdrawal,Cuba,0.74345,I
+Total water withdrawal,Cuba,6.6457833333,E
+Municipal water withdrawal,Cyprus,0.0788,X
+Industrial water withdrawal,Cyprus,0.0042,I
+Total water withdrawal,Cyprus,0.254,E
+Municipal water withdrawal,Czechia,0.6371,X
+Industrial water withdrawal,Czechia,1.0596764706,I
+Total water withdrawal,Czechia,1.841,X
+Municipal water withdrawal,Côte d’Ivoire,0.3902,I
+Industrial water withdrawal,Côte d’Ivoire,0.2588888889,I
+Total water withdrawal,Côte d’Ivoire,1.2480444444,I
+Municipal water withdrawal,Democratic People's Republic of Korea,0.9028,I
+Industrial water withdrawal,Democratic People's Republic of Korea,1.145,I
+Total water withdrawal,Democratic People's Republic of Korea,8.6578,I
+Municipal water withdrawal,Democratic Republic of the Congo,0.4649,I
+Industrial water withdrawal,Democratic Republic of the Congo,0.1468,I
+Total water withdrawal,Democratic Republic of the Congo,0.6836,I
+Municipal water withdrawal,Denmark,0.4012,X
+Industrial water withdrawal,Denmark,0.128,X
+Total water withdrawal,Denmark,0.7155,E
+Municipal water withdrawal,Djibouti,0.016,I
+Industrial water withdrawal,Djibouti,0.0,I
+Total water withdrawal,Djibouti,0.019,I
+Municipal water withdrawal,Dominica,0.019,I
+Industrial water withdrawal,Dominica,0.0,I
+Total water withdrawal,Dominica,0.02,I
+Municipal water withdrawal,Dominican Republic,0.855,I
+Industrial water withdrawal,Dominican Republic,0.61556,I
+Total water withdrawal,Dominican Republic,7.92476,E
+Municipal water withdrawal,Ecuador,1.293,I
+Industrial water withdrawal,Ecuador,0.549,I
+Total water withdrawal,Ecuador,9.918,I
+Municipal water withdrawal,Egypt,9.6,OF
+Industrial water withdrawal,Egypt,1.2,OF
+Total water withdrawal,Egypt,72.3,E
+Municipal water withdrawal,El Salvador,0.474,I
+Industrial water withdrawal,El Salvador,0.213,I
+Total water withdrawal,El Salvador,2.118,I
+Municipal water withdrawal,Equatorial Guinea,0.0158,I
+Industrial water withdrawal,Equatorial Guinea,0.003,I
+Total water withdrawal,Equatorial Guinea,0.0198,E
+Municipal water withdrawal,Eritrea,0.031,I
+Industrial water withdrawal,Eritrea,0.001,I
+Total water withdrawal,Eritrea,0.582,I
+Municipal water withdrawal,Estonia,0.061,OF
+Industrial water withdrawal,Estonia,1.565,OF
+Total water withdrawal,Estonia,1.631,OF
+Municipal water withdrawal,Eswatini,0.0413,I
+Industrial water withdrawal,Eswatini,0.0207,I
+Total water withdrawal,Eswatini,1.068,E
+Municipal water withdrawal,Ethiopia,0.81,I
+Industrial water withdrawal,Ethiopia,0.0511,I
+Total water withdrawal,Ethiopia,9.5710090909,E
+Municipal water withdrawal,Fiji,0.0253,I
+Industrial water withdrawal,Fiji,0.0096,I
+Total water withdrawal,Fiji,0.0849,I
+Municipal water withdrawal,Finland,0.4075,I
+Municipal water withdrawal,France,5.38,OF
+Industrial water withdrawal,France,19.77,OF
+Total water withdrawal,France,28.063,E
+Municipal water withdrawal,Gabon,0.0847,I
+Industrial water withdrawal,Gabon,0.0141,I
+Total water withdrawal,Gabon,0.1391,I
+Municipal water withdrawal,Gambia,0.0412,I
+Industrial water withdrawal,Gambia,0.0212,I
+Total water withdrawal,Gambia,0.1016,E
+Municipal water withdrawal,Germany,10.53752541,I
+Industrial water withdrawal,Germany,21.5897183167,I
+Total water withdrawal,Germany,32.4918157267,I
+Municipal water withdrawal,Ghana,0.255,
+Industrial water withdrawal,Ghana,0.095,I
+Total water withdrawal,Ghana,1.3155,E
+Municipal water withdrawal,Greece,1.526,E
+Industrial water withdrawal,Greece,0.126,X
+Total water withdrawal,Greece,9.935,E
+Total water withdrawal,Grenada,0.0131888889,I
+Municipal water withdrawal,Guatemala,0.835,I
+Industrial water withdrawal,Guatemala,0.6031,I
+Total water withdrawal,Guatemala,3.3241,I
+Municipal water withdrawal,Guinea,0.2276,I
+Industrial water withdrawal,Guinea,0.0582461538,I
+Total water withdrawal,Guinea,0.7774579186,E
+Municipal water withdrawal,Guinea-Bissau,0.0341,I
+Industrial water withdrawal,Guinea-Bissau,0.0119,I
+Total water withdrawal,Guinea-Bissau,0.19,E
+Municipal water withdrawal,Guyana,0.0613,I
+Industrial water withdrawal,Guyana,0.0204,I
+Total water withdrawal,Guyana,1.4447,I
+Municipal water withdrawal,Haiti,0.19,I
+Industrial water withdrawal,Haiti,0.051,I
+Total water withdrawal,Haiti,1.45,I
+Municipal water withdrawal,Honduras,0.315,I
+Industrial water withdrawal,Honduras,0.114,I
+Total water withdrawal,Honduras,1.607,I
+Municipal water withdrawal,Hungary,0.716,X
+Industrial water withdrawal,Hungary,4.013,X
+Total water withdrawal,Hungary,5.051,E
+Municipal water withdrawal,Iceland,0.094,OF
+Industrial water withdrawal,Iceland,0.2,OF
+Total water withdrawal,Iceland,0.2943,E
+Municipal water withdrawal,India,56.0,I
+Industrial water withdrawal,India,17.0,I
+Total water withdrawal,India,761.0,I
+Municipal water withdrawal,Indonesia,20.2327272727,I
+Industrial water withdrawal,Indonesia,14.7768181818,I
+Total water withdrawal,Indonesia,206.4038311688,E
+Municipal water withdrawal,Iran (Islamic Republic of),6.2,I
+Industrial water withdrawal,Iran (Islamic Republic of),1.1,I
+Total water withdrawal,Iran (Islamic Republic of),93.3,I
+Municipal water withdrawal,Iraq,1.7285714286,I
+Industrial water withdrawal,Iraq,3.1857142857,I
+Total water withdrawal,Iraq,43.7142857143,I
+Industrial water withdrawal,Ireland,0.2641818182,I
+Total water withdrawal,Ireland,0.9856818182,E
+Municipal water withdrawal,Israel,0.7706,I
+Industrial water withdrawal,Israel,0.1232,I
+Total water withdrawal,Israel,2.001,I
+Municipal water withdrawal,Italy,9.451,X
+Industrial water withdrawal,Italy,8.3607692308,I
+Total water withdrawal,Italy,34.1267692308,E
+Municipal water withdrawal,Jamaica,0.2973333333,I
+Industrial water withdrawal,Jamaica,0.7635555556,I
+Total water withdrawal,Jamaica,1.3974603175,E
+Municipal water withdrawal,Jordan,0.354,
+Industrial water withdrawal,Jordan,0.033,
+Total water withdrawal,Jordan,0.849,E
+Municipal water withdrawal,Kazakhstan,2.487,OF
+Industrial water withdrawal,Kazakhstan,6.417,OF
+Total water withdrawal,Kazakhstan,21.394,E
+Municipal water withdrawal,Kenya,1.1862948415,I
+Industrial water withdrawal,Kenya,0.1250310752,I
+Total water withdrawal,Kenya,3.2188,I
+Municipal water withdrawal,Kuwait,0.4483,I
+Industrial water withdrawal,Kuwait,0.0233,I
+Total water withdrawal,Kuwait,1.1140384615,E
+Municipal water withdrawal,Kyrgyzstan,0.224,I
+Industrial water withdrawal,Kyrgyzstan,0.336,I
+Total water withdrawal,Kyrgyzstan,7.66,E
+Municipal water withdrawal,Lao People's Democratic Republic,0.13,I
+Industrial water withdrawal,Lao People's Democratic Republic,0.17,I
+Total water withdrawal,Lao People's Democratic Republic,6.664,E
+Municipal water withdrawal,Latvia,0.1631,X
+Industrial water withdrawal,Latvia,0.0563,X
+Total water withdrawal,Latvia,0.2602,E
+Municipal water withdrawal,Lebanon,0.282,I
+Industrial water withdrawal,Lebanon,0.675,I
+Total water withdrawal,Lebanon,1.681,I
+Municipal water withdrawal,Lesotho,0.02,I
+Industrial water withdrawal,Lesotho,0.02,I
+Total water withdrawal,Lesotho,0.0438,E
+Municipal water withdrawal,Liberia,0.0802,I
+Industrial water withdrawal,Liberia,0.0534,I
+Total water withdrawal,Liberia,0.1459,E
+Municipal water withdrawal,Libya,0.7,OF
+Industrial water withdrawal,Libya,0.28,OF
+Total water withdrawal,Libya,5.83,E
+Municipal water withdrawal,Lithuania,0.104075,I
+Industrial water withdrawal,Lithuania,0.5326230769,I
+Total water withdrawal,Lithuania,0.7005480769,E
+Industrial water withdrawal,Luxembourg,0.0037,X
+Total water withdrawal,Luxembourg,0.0445,E
+Municipal water withdrawal,Madagascar,0.395,I
+Industrial water withdrawal,Madagascar,0.1619,I
+Total water withdrawal,Madagascar,13.5569,E
+Municipal water withdrawal,Malawi,0.1431,I
+Industrial water withdrawal,Malawi,0.0477,I
+Total water withdrawal,Malawi,1.3568,I
+Municipal water withdrawal,Malaysia,1.342,I
+Industrial water withdrawal,Malaysia,1.641,I
+Total water withdrawal,Malaysia,5.488,E
+Municipal water withdrawal,Maldives,0.0056,I
+Industrial water withdrawal,Maldives,0.0003,I
+Total water withdrawal,Maldives,0.0059,I
+Municipal water withdrawal,Mali,0.107,I
+Industrial water withdrawal,Mali,0.004,I
+Total water withdrawal,Mali,5.186,I
+Municipal water withdrawal,Malta,0.0148,X
+Industrial water withdrawal,Malta,0.001,X
+Total water withdrawal,Malta,0.0399,E
+Municipal water withdrawal,Mauritania,0.0954,I
+Industrial water withdrawal,Mauritania,0.0318,I
+Total water withdrawal,Mauritania,1.3502,E
+Municipal water withdrawal,Mauritius,0.206,OF
+Industrial water withdrawal,Mauritius,0.011,OF
+Total water withdrawal,Mauritius,0.582,E
+Municipal water withdrawal,Mexico,11.98,OF
+Industrial water withdrawal,Mexico,7.403,OF
+Total water withdrawal,Mexico,82.733,E
+Municipal water withdrawal,Monaco,0.005,I
+Industrial water withdrawal,Monaco,0.0,I
+Total water withdrawal,Monaco,0.005,I
+Municipal water withdrawal,Mongolia,0.07295,I
+Industrial water withdrawal,Mongolia,0.164,I
+Total water withdrawal,Mongolia,0.4903,I
+Municipal water withdrawal,Montenegro,0.0964,I
+Industrial water withdrawal,Montenegro,0.0628,I
+Total water withdrawal,Montenegro,0.1609,I
+Municipal water withdrawal,Morocco,1.063,I
+Industrial water withdrawal,Morocco,0.212,I
+Total water withdrawal,Morocco,10.431,I
+Municipal water withdrawal,Mozambique,0.33651,I
+Industrial water withdrawal,Mozambique,0.02836,I
+Total water withdrawal,Mozambique,1.3581557143,E
+Municipal water withdrawal,Myanmar,3.323,I
+Industrial water withdrawal,Myanmar,0.4984,I
+Total water withdrawal,Myanmar,33.3914,E
+Municipal water withdrawal,Namibia,0.073,I
+Industrial water withdrawal,Namibia,0.014,I
+Total water withdrawal,Namibia,0.288,E
+Municipal water withdrawal,Nepal,0.1476,I
+Industrial water withdrawal,Nepal,0.0295,I
+Total water withdrawal,Nepal,9.4971,E
+Municipal water withdrawal,Netherlands,1.217,X
+Industrial water withdrawal,Netherlands,9.446,X
+Total water withdrawal,Netherlands,10.7232,E
+Industrial water withdrawal,New Zealand,1.184,I
+Municipal water withdrawal,Nicaragua,0.286,I
+Industrial water withdrawal,Nicaragua,0.0736,I
+Total water withdrawal,Nicaragua,1.5446,E
+Municipal water withdrawal,Niger,0.0617,OF
+Total water withdrawal,Niger,1.2510666667,E
+Municipal water withdrawal,Nigeria,5.0,I
+Industrial water withdrawal,Nigeria,1.965,I
+Total water withdrawal,Nigeria,12.475,I
+Municipal water withdrawal,North Macedonia,0.2308166667,I
+Industrial water withdrawal,North Macedonia,0.1223833333,I
+Total water withdrawal,North Macedonia,1.7062,E
+Municipal water withdrawal,Norway,0.816,X
+Industrial water withdrawal,Norway,1.071,I
+Total water withdrawal,Norway,2.7319,E
+Municipal water withdrawal,Oman,0.1304,I
+Industrial water withdrawal,Oman,0.1234,I
+Total water withdrawal,Oman,1.8169,I
+Municipal water withdrawal,Pakistan,9.65,I
+Industrial water withdrawal,Pakistan,1.4,I
+Total water withdrawal,Pakistan,183.45,I
+Municipal water withdrawal,Panama,0.6823333333,I
+Industrial water withdrawal,Panama,0.0092,I
+Total water withdrawal,Panama,1.1555333333,I
+Municipal water withdrawal,Papua New Guinea,0.2235,I
+Industrial water withdrawal,Papua New Guinea,0.1676,I
+Total water withdrawal,Papua New Guinea,0.3921,I
+Municipal water withdrawal,Paraguay,0.362,I
+Industrial water withdrawal,Paraguay,0.154,I
+Total water withdrawal,Paraguay,2.413,E
+Municipal water withdrawal,Peru,2.0255,I
+Industrial water withdrawal,Peru,0.2478,I
+Total water withdrawal,Peru,14.8833,E
+Municipal water withdrawal,Philippines,7.301,OF
+Industrial water withdrawal,Philippines,9.037,OF
+Total water withdrawal,Philippines,84.248,E
+Municipal water withdrawal,Poland,2.031,X
+Industrial water withdrawal,Poland,7.648,I
+Total water withdrawal,Poland,11.48,X
+Municipal water withdrawal,Portugal,0.9105,X
+Industrial water withdrawal,Portugal,1.7421473684,I
+Total water withdrawal,Portugal,7.4793694737,E
+Municipal water withdrawal,Puerto Rico,0.88156,I
+Industrial water withdrawal,Puerto Rico,2.836,I
+Total water withdrawal,Puerto Rico,3.80142,I
+Municipal water withdrawal,Qatar,0.4407875,I
+Industrial water withdrawal,Qatar,0.0178,I
+Total water withdrawal,Qatar,0.7473875,E
+Municipal water withdrawal,Republic of Korea,7.2164444444,I
+Industrial water withdrawal,Republic of Korea,4.45,I
+Total water withdrawal,Republic of Korea,27.6264444444,E
+Municipal water withdrawal,Republic of Moldova,0.1452222222,I
+Industrial water withdrawal,Republic of Moldova,0.7016666667,I
+Total water withdrawal,Republic of Moldova,0.8858888889,E
+Municipal water withdrawal,Republic of Serbia,0.6812,X
+Industrial water withdrawal,Republic of Serbia,3.097,E
+Total water withdrawal,Republic of Serbia,3.869,X
+Municipal water withdrawal,Romania,1.053,X
+Industrial water withdrawal,Romania,4.336,X
+Total water withdrawal,Romania,6.482,E
+Municipal water withdrawal,Russian Federation,12.4351460222,I
+Industrial water withdrawal,Russian Federation,36.7486404834,I
+Total water withdrawal,Russian Federation,61.4333333333,I
+Municipal water withdrawal,Rwanda,0.0614,I
+Industrial water withdrawal,Rwanda,0.0205,I
+Total water withdrawal,Rwanda,0.1839,E
+Industrial water withdrawal,Saint Kitts and Nevis,0.0,E
+Total water withdrawal,Saint Kitts and Nevis,0.0156,E
+Municipal water withdrawal,Saint Lucia,0.0125,I
+Industrial water withdrawal,Saint Lucia,0.0,I
+Total water withdrawal,Saint Lucia,0.0429,I
+Total water withdrawal,Saint Vincent and the Grenadines,0.0085852222,I
+Total water withdrawal,Sao Tome and Principe,0.0350043478,I
+Municipal water withdrawal,Saudi Arabia,2.527,
+Industrial water withdrawal,Saudi Arabia,0.843,
+Total water withdrawal,Saudi Arabia,20.88,E
+Municipal water withdrawal,Senegal,0.098,I
+Industrial water withdrawal,Senegal,0.058,I
+Total water withdrawal,Senegal,2.221,I
+Municipal water withdrawal,Seychelles,0.009,I
+Industrial water withdrawal,Seychelles,0.0038,I
+Total water withdrawal,Seychelles,0.0137,E
+Municipal water withdrawal,Sierra Leone,0.111,I
+Industrial water withdrawal,Sierra Leone,0.0555,I
+Total water withdrawal,Sierra Leone,0.2122,I
+Municipal water withdrawal,Singapore,0.5327175,I
+Industrial water withdrawal,Singapore,0.6035265,I
+Total water withdrawal,Singapore,1.1614005,E
+Municipal water withdrawal,Slovakia,0.3058,X
+Industrial water withdrawal,Slovakia,0.3288,X
+Total water withdrawal,Slovakia,0.6653,E
+Municipal water withdrawal,Slovenia,0.1617,X
+Industrial water withdrawal,Slovenia,0.7641,X
+Total water withdrawal,Slovenia,0.9281,E
+Municipal water withdrawal,Somalia,0.015,I
+Industrial water withdrawal,Somalia,0.002,I
+Total water withdrawal,Somalia,3.298,I
+Municipal water withdrawal,South Africa,4.1633846154,I
+Industrial water withdrawal,South Africa,1.5809230769,I
+Total water withdrawal,South Africa,15.2916923077,I
+Municipal water withdrawal,South Sudan,0.193,I
+Industrial water withdrawal,South Sudan,0.225,I
+Total water withdrawal,South Sudan,0.658,I
+Municipal water withdrawal,Spain,4.599,X
+Industrial water withdrawal,Spain,6.572,X
+Total water withdrawal,Spain,36.641,E
+Municipal water withdrawal,Sri Lanka,0.805,I
+Industrial water withdrawal,Sri Lanka,0.831,I
+Total water withdrawal,Sri Lanka,12.946,I
+Municipal water withdrawal,Sudan,0.95,I
+Industrial water withdrawal,Sudan,0.075,I
+Total water withdrawal,Sudan,26.935,I
+Municipal water withdrawal,Suriname,0.0493,I
+Industrial water withdrawal,Suriname,0.1355,I
+Total water withdrawal,Suriname,0.6159,I
+Municipal water withdrawal,Sweden,0.9934,I
+Industrial water withdrawal,Sweden,1.4812,I
+Total water withdrawal,Sweden,2.5634,I
+Municipal water withdrawal,Switzerland,1.202,X
+Industrial water withdrawal,Switzerland,0.6427,X
+Total water withdrawal,Switzerland,2.0048,E
+Municipal water withdrawal,Syrian Arab Republic,1.475,I
+Industrial water withdrawal,Syrian Arab Republic,0.6154,I
+Total water withdrawal,Syrian Arab Republic,16.7604,E
+Municipal water withdrawal,Thailand,2.739,I
+Industrial water withdrawal,Thailand,2.777,I
+Total water withdrawal,Thailand,57.306,I
+Municipal water withdrawal,Timor-Leste,0.099,I
+Industrial water withdrawal,Timor-Leste,0.002,I
+Total water withdrawal,Timor-Leste,1.172,I
+Municipal water withdrawal,Togo,0.1407,I
+Industrial water withdrawal,Togo,0.0063,I
+Total water withdrawal,Togo,0.223,E
+Municipal water withdrawal,Trinidad and Tobago,0.2376,I
+Industrial water withdrawal,Trinidad and Tobago,0.1289,I
+Total water withdrawal,Trinidad and Tobago,0.3832,I
+Municipal water withdrawal,Turkey,4.936,OF
+Industrial water withdrawal,Turkey,1.792,OF
+Total water withdrawal,Turkey,50.508,E
+Municipal water withdrawal,Turkmenistan,0.755,I
+Industrial water withdrawal,Turkmenistan,0.839,I
+Total water withdrawal,Turkmenistan,27.954,I
+Municipal water withdrawal,Uganda,0.328,I
+Industrial water withdrawal,Uganda,0.05,I
+Total water withdrawal,Uganda,0.637,I
+Municipal water withdrawal,Ukraine,2.927,I
+Industrial water withdrawal,Ukraine,6.027,I
+Total water withdrawal,Ukraine,13.147,E
+Municipal water withdrawal,United Arab Emirates,1.3616923077,I
+Industrial water withdrawal,United Arab Emirates,0.0878461538,I
+Municipal water withdrawal,United Kingdom of Great Britain and Northern Ireland,5.828,X
+Industrial water withdrawal,United Kingdom of Great Britain and Northern Ireland,1.122,X
+Total water withdrawal,United Kingdom of Great Britain and Northern Ireland,8.214,X
+Municipal water withdrawal,United Republic of Tanzania,0.527,I
+Industrial water withdrawal,United Republic of Tanzania,0.025,I
+Total water withdrawal,United Republic of Tanzania,5.184,I
+Municipal water withdrawal,United States of America,60.61,I
+Industrial water withdrawal,United States of America,232.92,I
+Total water withdrawal,United States of America,469.07,I
+Municipal water withdrawal,Uruguay,0.41,I
+Industrial water withdrawal,Uruguay,0.08,I
+Total water withdrawal,Uruguay,3.66,I
+Municipal water withdrawal,Uzbekistan,2.7272222222,I
+Industrial water withdrawal,Uzbekistan,1.92,I
+Total water withdrawal,Uzbekistan,52.7294444444,I
+Municipal water withdrawal,Venezuela (Bolivarian Republic of),5.123,I
+Industrial water withdrawal,Venezuela (Bolivarian Republic of),0.7933,I
+Total water withdrawal,Venezuela (Bolivarian Republic of),22.6263,E
+Municipal water withdrawal,Viet Nam,1.206,I
+Industrial water withdrawal,Viet Nam,3.074,I
+Total water withdrawal,Viet Nam,82.03,I
+Municipal water withdrawal,Yemen,0.265,I
+Industrial water withdrawal,Yemen,0.065,I
+Total water withdrawal,Yemen,3.565,I
+Municipal water withdrawal,Zambia,0.29,I
+Industrial water withdrawal,Zambia,0.13,I
+Total water withdrawal,Zambia,1.572,E
+Municipal water withdrawal,Zimbabwe,0.5539375,I
+Industrial water withdrawal,Zimbabwe,0.1315,I
+Total water withdrawal,Zimbabwe,3.4610625,I

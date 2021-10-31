@@ -4,11 +4,13 @@ The AQUASTAT core database symbol scheme has changed to follow FAO corporate Sta
 
 Here is an explanation to the new symbols:
 
-No symbol: Official value, data come from one national source (FAO questionnaire on water and agriculture, report, publication, official website, etc.) .
+
+OF: Official value, data come from one national source (FAO questionnaire on water and agriculture, report, publication, official website, etc.) .
 E: Estimate either calculated as sum or identify (yield) from official values or from an AQUASTAT estimation.
 I: Imputed (carry forward, vertical imputation, linear interpolation)*.
 X: External value (reported by FAOSTAT or another international agency)**.
 *: Imputation in AQUASTAT is aiming at gap filling to enable aggregates and SDG indicators calculations using data referring to the same year. Imputations types includes:
+
 
 Carry-forward: the latest available data is carried over as it is considered still valid. Although the database displays the data-point until a new data is made available to allow for aggregation (such as world total), the data is carried over for 10 years for the SDG calculation.
 Linear interpolation: between two existing official data-points, new data-points are estimated following a linear interpolation reproducing a probable yearly evolution.

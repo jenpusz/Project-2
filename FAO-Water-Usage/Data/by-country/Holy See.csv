@@ -1,111 +1,111 @@
-,Variable Name,Variable Id,Year,Value,Symbol
-0,Total area of the country (excl. coastal water),4100,1962,0.044,E
-1,Total area of the country (excl. coastal water),4100,1967,0.044,E
-2,Total area of the country (excl. coastal water),4100,1972,0.044,E
-3,Total area of the country (excl. coastal water),4100,1977,0.044,E
-4,Total area of the country (excl. coastal water),4100,1982,0.044,E
-5,Total area of the country (excl. coastal water),4100,1987,0.044,E
-6,Total area of the country (excl. coastal water),4100,1992,0.044,E
-7,Total area of the country (excl. coastal water),4100,1997,0.044,E
-8,Total area of the country (excl. coastal water),4100,2002,0.044,E
-9,Total area of the country (excl. coastal water),4100,2007,0.044,E
-10,Total area of the country (excl. coastal water),4100,2012,0.044,E
-11,Total area of the country (excl. coastal water),4100,2017,0.044,E
-12,Total area of the country (excl. coastal water),4100,2018,0.044,E
-13,Total population,4104,1962,0.898,X
-14,Total population,4104,1967,0.766,X
-15,Total population,4104,1972,0.657,X
-16,Total population,4104,1977,0.737,X
-17,Total population,4104,1982,0.729,X
-18,Total population,4104,1987,0.759,X
-19,Total population,4104,1992,0.779,X
-20,Total population,4104,1997,0.782,X
-21,Total population,4104,2002,0.792,X
-22,Total population,4104,2007,0.796,X
-23,Total population,4104,2012,0.804,X
-24,Total population,4104,2017,0.793,X
-25,Total population,4104,2018,0.801,X
-26,Rural population,4105,1962,0.0,X
-27,Rural population,4105,1967,0.0,X
-28,Rural population,4105,1972,0.0,X
-29,Rural population,4105,1977,0.0,X
-30,Rural population,4105,1982,0.0,X
-31,Rural population,4105,1987,0.0,X
-32,Rural population,4105,1992,0.0,X
-33,Rural population,4105,1997,0.0,X
-34,Rural population,4105,2002,0.0,X
-35,Rural population,4105,2007,0.0,X
-36,Rural population,4105,2012,0.0,X
-37,Rural population,4105,2017,0.0,X
-38,Rural population,4105,2018,0.0,X
-39,Urban population,4106,1962,0.898,X
-40,Urban population,4106,1967,0.766,X
-41,Urban population,4106,1972,0.657,X
-42,Urban population,4106,1977,0.737,X
-43,Urban population,4106,1982,0.729,X
-44,Urban population,4106,1987,0.759,X
-45,Urban population,4106,1992,0.779,X
-46,Urban population,4106,1997,0.782,X
-47,Urban population,4106,2002,0.792,X
-48,Urban population,4106,2007,0.796,X
-49,Urban population,4106,2012,0.804,X
-50,Urban population,4106,2017,0.792,X
-51,Urban population,4106,2018,0.801,X
-52,Interannual variability (WRI),4541,2017,1.4,I
-53,Interannual variability (WRI),4541,2018,1.4,I
-54,Seasonal variability (WRI),4542,2017,2.0,I
-55,Seasonal variability (WRI),4542,2018,2.0,I
-56,Flood occurrence (WRI),4543,2017,2.9,I
-57,Flood occurrence (WRI),4543,2018,2.9,I
-58,Total renewable surface water,4185,1962,0.0,E
-59,Total renewable surface water,4185,1967,0.0,E
-60,Total renewable surface water,4185,1972,0.0,E
-61,Total renewable surface water,4185,1977,0.0,E
-62,Total renewable surface water,4185,1982,0.0,E
-63,Total renewable surface water,4185,1987,0.0,E
-64,Total renewable surface water,4185,1992,0.0,E
-65,Total renewable surface water,4185,1997,0.0,E
-66,Total renewable surface water,4185,2002,0.0,E
-67,Total renewable surface water,4185,2007,0.0,E
-68,Total renewable surface water,4185,2012,0.0,E
-69,Total renewable surface water,4185,2017,0.0,E
-70,Total renewable surface water,4185,2018,0.0,E
-71,Water resources: total external renewable,4182,1962,0.0,E
-72,Water resources: total external renewable,4182,1967,0.0,E
-73,Water resources: total external renewable,4182,1972,0.0,E
-74,Water resources: total external renewable,4182,1977,0.0,E
-75,Water resources: total external renewable,4182,1982,0.0,E
-76,Water resources: total external renewable,4182,1987,0.0,E
-77,Water resources: total external renewable,4182,1992,0.0,E
-78,Water resources: total external renewable,4182,1997,0.0,E
-79,Water resources: total external renewable,4182,2002,0.0,E
-80,Water resources: total external renewable,4182,2007,0.0,E
-81,Water resources: total external renewable,4182,2012,0.0,E
-82,Water resources: total external renewable,4182,2017,0.0,E
-83,Water resources: total external renewable,4182,2018,0.0,E
-84,Total renewable water resources,4188,1962,0.0,E
-85,Total renewable water resources,4188,1967,0.0,E
-86,Total renewable water resources,4188,1972,0.0,E
-87,Total renewable water resources,4188,1977,0.0,E
-88,Total renewable water resources,4188,1982,0.0,E
-89,Total renewable water resources,4188,1987,0.0,E
-90,Total renewable water resources,4188,1992,0.0,E
-91,Total renewable water resources,4188,1997,0.0,E
-92,Total renewable water resources,4188,2002,0.0,E
-93,Total renewable water resources,4188,2007,0.0,E
-94,Total renewable water resources,4188,2012,0.0,E
-95,Total renewable water resources,4188,2017,0.0,E
-96,Total renewable water resources,4188,2018,0.0,E
-97,Total renewable water resources per capita,4190,1962,0.0,E
-98,Total renewable water resources per capita,4190,1967,0.0,E
-99,Total renewable water resources per capita,4190,1972,0.0,E
-100,Total renewable water resources per capita,4190,1977,0.0,E
-101,Total renewable water resources per capita,4190,1982,0.0,E
-102,Total renewable water resources per capita,4190,1987,0.0,E
-103,Total renewable water resources per capita,4190,1992,0.0,E
-104,Total renewable water resources per capita,4190,1997,0.0,E
-105,Total renewable water resources per capita,4190,2002,0.0,E
-106,Total renewable water resources per capita,4190,2007,0.0,E
-107,Total renewable water resources per capita,4190,2012,0.0,E
-108,Total renewable water resources per capita,4190,2017,0.0,E
-109,Total renewable water resources per capita,4190,2018,0.0,E
+Holy See,Variable Name,Year,Value,Symbol
+0,Total area of the country (excl. coastal water),1962,0.044,E
+1,Total area of the country (excl. coastal water),1967,0.044,E
+2,Total area of the country (excl. coastal water),1972,0.044,E
+3,Total area of the country (excl. coastal water),1977,0.044,E
+4,Total area of the country (excl. coastal water),1982,0.044,E
+5,Total area of the country (excl. coastal water),1987,0.044,E
+6,Total area of the country (excl. coastal water),1992,0.044,E
+7,Total area of the country (excl. coastal water),1997,0.044,E
+8,Total area of the country (excl. coastal water),2002,0.044,E
+9,Total area of the country (excl. coastal water),2007,0.044,E
+10,Total area of the country (excl. coastal water),2012,0.044,E
+11,Total area of the country (excl. coastal water),2017,0.044,E
+12,Total area of the country (excl. coastal water),2018,0.044,E
+13,Total population,1962,0.898,X
+14,Total population,1967,0.766,X
+15,Total population,1972,0.657,X
+16,Total population,1977,0.737,X
+17,Total population,1982,0.729,X
+18,Total population,1987,0.759,X
+19,Total population,1992,0.779,X
+20,Total population,1997,0.782,X
+21,Total population,2002,0.792,X
+22,Total population,2007,0.796,X
+23,Total population,2012,0.804,X
+24,Total population,2017,0.793,X
+25,Total population,2018,0.801,X
+26,Rural population,1962,0.0,X
+27,Rural population,1967,0.0,X
+28,Rural population,1972,0.0,X
+29,Rural population,1977,0.0,X
+30,Rural population,1982,0.0,X
+31,Rural population,1987,0.0,X
+32,Rural population,1992,0.0,X
+33,Rural population,1997,0.0,X
+34,Rural population,2002,0.0,X
+35,Rural population,2007,0.0,X
+36,Rural population,2012,0.0,X
+37,Rural population,2017,0.0,X
+38,Rural population,2018,0.0,X
+39,Urban population,1962,0.898,X
+40,Urban population,1967,0.766,X
+41,Urban population,1972,0.657,X
+42,Urban population,1977,0.737,X
+43,Urban population,1982,0.729,X
+44,Urban population,1987,0.759,X
+45,Urban population,1992,0.779,X
+46,Urban population,1997,0.782,X
+47,Urban population,2002,0.792,X
+48,Urban population,2007,0.796,X
+49,Urban population,2012,0.804,X
+50,Urban population,2017,0.792,X
+51,Urban population,2018,0.801,X
+52,Interannual variability (WRI),2017,1.4,I
+53,Interannual variability (WRI),2018,1.4,I
+54,Seasonal variability (WRI),2017,2.0,I
+55,Seasonal variability (WRI),2018,2.0,I
+56,Flood occurrence (WRI),2017,2.9,I
+57,Flood occurrence (WRI),2018,2.9,I
+58,Total renewable surface water,1962,0.0,E
+59,Total renewable surface water,1967,0.0,E
+60,Total renewable surface water,1972,0.0,E
+61,Total renewable surface water,1977,0.0,E
+62,Total renewable surface water,1982,0.0,E
+63,Total renewable surface water,1987,0.0,E
+64,Total renewable surface water,1992,0.0,E
+65,Total renewable surface water,1997,0.0,E
+66,Total renewable surface water,2002,0.0,E
+67,Total renewable surface water,2007,0.0,E
+68,Total renewable surface water,2012,0.0,E
+69,Total renewable surface water,2017,0.0,E
+70,Total renewable surface water,2018,0.0,E
+71,Water resources: total external renewable,1962,0.0,E
+72,Water resources: total external renewable,1967,0.0,E
+73,Water resources: total external renewable,1972,0.0,E
+74,Water resources: total external renewable,1977,0.0,E
+75,Water resources: total external renewable,1982,0.0,E
+76,Water resources: total external renewable,1987,0.0,E
+77,Water resources: total external renewable,1992,0.0,E
+78,Water resources: total external renewable,1997,0.0,E
+79,Water resources: total external renewable,2002,0.0,E
+80,Water resources: total external renewable,2007,0.0,E
+81,Water resources: total external renewable,2012,0.0,E
+82,Water resources: total external renewable,2017,0.0,E
+83,Water resources: total external renewable,2018,0.0,E
+84,Total renewable water resources,1962,0.0,E
+85,Total renewable water resources,1967,0.0,E
+86,Total renewable water resources,1972,0.0,E
+87,Total renewable water resources,1977,0.0,E
+88,Total renewable water resources,1982,0.0,E
+89,Total renewable water resources,1987,0.0,E
+90,Total renewable water resources,1992,0.0,E
+91,Total renewable water resources,1997,0.0,E
+92,Total renewable water resources,2002,0.0,E
+93,Total renewable water resources,2007,0.0,E
+94,Total renewable water resources,2012,0.0,E
+95,Total renewable water resources,2017,0.0,E
+96,Total renewable water resources,2018,0.0,E
+97,Total renewable water resources per capita,1962,0.0,E
+98,Total renewable water resources per capita,1967,0.0,E
+99,Total renewable water resources per capita,1972,0.0,E
+100,Total renewable water resources per capita,1977,0.0,E
+101,Total renewable water resources per capita,1982,0.0,E
+102,Total renewable water resources per capita,1987,0.0,E
+103,Total renewable water resources per capita,1992,0.0,E
+104,Total renewable water resources per capita,1997,0.0,E
+105,Total renewable water resources per capita,2002,0.0,E
+106,Total renewable water resources per capita,2007,0.0,E
+107,Total renewable water resources per capita,2012,0.0,E
+108,Total renewable water resources per capita,2017,0.0,E
+109,Total renewable water resources per capita,2018,0.0,E
