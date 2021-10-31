@@ -1,7 +1,8 @@
 access_to_drinking_water
 N/A
 
---------------------------------------------------------------------------------------------------------------------------------------------area_under_awm
+--------------------------------------------------------------------------------------------------------------------------------------------
+area_under_awm
 "[1] [P-Reference Area-N] | Based only on the use of renewable water"
 "[2] [P-Reference Area-N] | Based only on the use of renewable water"
 "[3] [P-Reference Area-N] | Based only on the use of renewable water"

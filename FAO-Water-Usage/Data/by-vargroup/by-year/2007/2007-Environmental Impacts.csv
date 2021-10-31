@@ -1,79 +1,78 @@
-,,,Value,Symbol
-Albania,Area salinized by irrigation,2,4.8,I
-Albania,Area salinized by irrigation,2,4.8,I
-Argentina,Area salinized by irrigation,2,584.0,I
-Armenia,Area salinized by irrigation,2,20.41,I
-Armenia,Area waterlogged by irrigation,8,18.72,I
-Australia,Area salinized by irrigation,2,200.0,I
-Azerbaijan,Area salinized by irrigation,2,542.4181818182,I
-Bahrain,Area salinized by irrigation,2,1.065,I
-Bahrain,Area waterlogged by irrigation,8,1.86,I
-Bangladesh,Area salinized by irrigation,2,100.0,I
-Bangladesh,Area waterlogged by irrigation,8,770.0,I
-Bolivia,Area salinized by irrigation,1,21.91,I
-Brazil,Area salinized by irrigation,1,15.0,I
-Cabo Verde,Area waterlogged by irrigation,2,0.0,I
-Chile,Area salinized by irrigation,2,33.6,I
-China,Area salinized by irrigation,1,6700.0,I
-Colombia,Area salinized by irrigation,1,300.0,I
-Cuba,Area salinized by irrigation,1,400.0,I
-Democratic Republic of the Congo,Area waterlogged by irrigation,2,2.0,I
-Dominican Republic,Area salinized by irrigation,0,50.34,I
-Egypt,Area salinized by irrigation,2,900.0,I
-Eswatini,Area waterlogged by irrigation,2,7.46,I
-Gambia,Area waterlogged by irrigation,2,0.2077,I
-Georgia,Area salinized by irrigation,1,113.6,I
-Ghana,Area salinized by irrigation,2,1.48,I
-Guatemala,Area salinized by irrigation,2,5.0,I
-India,Area salinized by irrigation,2,3300.0,I
-India,Area waterlogged by irrigation,8,2460.0,I
-Indonesia,Area salinized by irrigation,1,400.0,I
-Indonesia,Area waterlogged by irrigation,7,2150.0,I
-Iran,Area salinized by irrigation,2,2100.0,I
-Iran,Area waterlogged by irrigation,8,1000.0,I
-Iraq,Area salinized by irrigation,2,2312.375,I
-Israel,Area salinized by irrigation,2,27.82,I
-Jordan,Area salinized by irrigation,2,2.277,I
-Jordan,Area waterlogged by irrigation,8,1.5,I
-Kazakhstan,Area salinized by irrigation,2,375.6588235294,I
-Kenya,Area salinized by irrigation,1,30.0,I
-Kuwait,Area salinized by irrigation,2,4.08,I
-Kyrgyzstan,Area salinized by irrigation,2,49.5,I
-Kyrgyzstan,Area waterlogged by irrigation,6,35.4,I
-Lebanon,Area salinized by irrigation,1,1.0,I
-Lebanon,Area waterlogged by irrigation,7,3.0,I
-Libya,Area salinized by irrigation,1,190.0,I
-Libya,Area waterlogged by irrigation,6,190.0,I
-Malta,Area salinized by irrigation,2,0.0,I
-Mauritania,Area waterlogged by irrigation,2,19.3,I
-Mauritius,Area salinized by irrigation,1,0.0,I
-Mauritius,Area waterlogged by irrigation,4,0.0,I
-Mexico,Area salinized by irrigation,2,384.2,I
-Morocco,Area salinized by irrigation,1,150.0,I
-Mozambique,Area salinized by irrigation,2,2.0,I
-Namibia,Area salinized by irrigation,2,1.3,I
-Namibia,Area waterlogged by irrigation,8,2.0,I
-Niger,Area salinized by irrigation,1,0.35,I
-Nigeria,Area salinized by irrigation,1,100.0,I
-Pakistan,Area salinized by irrigation,0,7003.0,I
-Pakistan,Area waterlogged by irrigation,6,7072.0,I
-Peru,Area salinized by irrigation,2,300.0,I
-Philippines,Area salinized by irrigation,1,300.0,I
-Romania,Area salinized by irrigation,2,400.0,I
-Romania,Area waterlogged by irrigation,8,900.0,I
-Saudi Arabia,Area waterlogged by irrigation,2,15.0,I
-Seychelles,Area salinized by irrigation,0,0.0,I
-Seychelles,Area waterlogged by irrigation,4,0.0,I
-South Africa,Area salinized by irrigation,2,100.0,I
-Syrian Arab Republic,Area salinized by irrigation,2,60.0,I
-Tajikistan,Area salinized by irrigation,2,35.466,I
-Thailand,Area salinized by irrigation,1,400.0,I
-Tunisia,Area salinized by irrigation,1,126.2352941176,I
-Tunisia,Area waterlogged by irrigation,5,65.5555555556,I
-Turkey,Area salinized by irrigation,0,1519.0,I
-Turkmenistan,Area salinized by irrigation,2,1354.0,I
-Turkmenistan,Area waterlogged by irrigation,7,756.5,I
-United Republic of Tanzania,Area salinized by irrigation,1,50.0,I
-United States of America,Area salinized by irrigation,2,4200.0,I
-Uzbekistan,Area salinized by irrigation,2,2078.6,I
-Viet Nam,Area salinized by irrigation,1,300.0,I
+,,Value,Symbol
+Area salinized by irrigation,Albania,4.8,I
+Area salinized by irrigation,Argentina,584.0,I
+Area salinized by irrigation,Armenia,20.41,I
+Area waterlogged by irrigation,Armenia,18.72,I
+Area salinized by irrigation,Australia,200.0,I
+Area salinized by irrigation,Azerbaijan,542.4181818182,I
+Area salinized by irrigation,Bahrain,1.065,I
+Area waterlogged by irrigation,Bahrain,1.86,I
+Area salinized by irrigation,Bangladesh,100.0,I
+Area waterlogged by irrigation,Bangladesh,770.0,I
+Area salinized by irrigation,Bolivia (Plurinational State of),21.91,I
+Area salinized by irrigation,Brazil,15.0,I
+Area waterlogged by irrigation,Cabo Verde,0.0,I
+Area salinized by irrigation,Chile,33.6,I
+Area salinized by irrigation,China,6700.0,I
+Area salinized by irrigation,Colombia,300.0,I
+Area salinized by irrigation,Cuba,400.0,I
+Area waterlogged by irrigation,Democratic Republic of the Congo,2.0,I
+Area salinized by irrigation,Dominican Republic,50.34,I
+Area salinized by irrigation,Egypt,900.0,I
+Area waterlogged by irrigation,Eswatini,7.46,I
+Area waterlogged by irrigation,Gambia,0.2077,I
+Area salinized by irrigation,Georgia,113.6,I
+Area salinized by irrigation,Ghana,1.48,I
+Area salinized by irrigation,Guatemala,5.0,I
+Area salinized by irrigation,India,3300.0,I
+Area waterlogged by irrigation,India,2460.0,I
+Area salinized by irrigation,Indonesia,400.0,I
+Area waterlogged by irrigation,Indonesia,2150.0,I
+Area salinized by irrigation,Iran (Islamic Republic of),2100.0,I
+Area waterlogged by irrigation,Iran (Islamic Republic of),1000.0,I
+Area salinized by irrigation,Iraq,2312.375,I
+Area salinized by irrigation,Israel,27.82,I
+Area salinized by irrigation,Jordan,2.277,I
+Area waterlogged by irrigation,Jordan,1.5,I
+Area salinized by irrigation,Kazakhstan,375.6588235294,I
+Area salinized by irrigation,Kenya,30.0,I
+Area salinized by irrigation,Kuwait,4.08,I
+Area salinized by irrigation,Kyrgyzstan,49.5,I
+Area waterlogged by irrigation,Kyrgyzstan,35.4,I
+Area salinized by irrigation,Lebanon,1.0,I
+Area waterlogged by irrigation,Lebanon,3.0,I
+Area salinized by irrigation,Libya,190.0,I
+Area waterlogged by irrigation,Libya,190.0,I
+Area salinized by irrigation,Malta,0.0,I
+Area waterlogged by irrigation,Mauritania,19.3,I
+Area salinized by irrigation,Mauritius,0.0,I
+Area waterlogged by irrigation,Mauritius,0.0,I
+Area salinized by irrigation,Mexico,384.2,I
+Area salinized by irrigation,Morocco,150.0,I
+Area salinized by irrigation,Mozambique,2.0,I
+Area salinized by irrigation,Namibia,1.3,I
+Area waterlogged by irrigation,Namibia,2.0,I
+Area salinized by irrigation,Niger,0.35,I
+Area salinized by irrigation,Nigeria,100.0,I
+Area salinized by irrigation,Pakistan,7003.0,I
+Area waterlogged by irrigation,Pakistan,7072.0,I
+Area salinized by irrigation,Peru,300.0,I
+Area salinized by irrigation,Philippines,300.0,I
+Area salinized by irrigation,Romania,400.0,I
+Area waterlogged by irrigation,Romania,900.0,I
+Area waterlogged by irrigation,Saudi Arabia,15.0,I
+Area salinized by irrigation,Seychelles,0.0,I
+Area waterlogged by irrigation,Seychelles,0.0,I
+Area salinized by irrigation,South Africa,100.0,I
+Area salinized by irrigation,Syrian Arab Republic,60.0,I
+Area salinized by irrigation,Tajikistan,35.466,I
+Area salinized by irrigation,Thailand,400.0,I
+Area salinized by irrigation,Tunisia,126.2352941176,I
+Area waterlogged by irrigation,Tunisia,65.5555555556,I
+Area salinized by irrigation,Turkey,1519.0,I
+Area salinized by irrigation,Turkmenistan,1354.0,I
+Area waterlogged by irrigation,Turkmenistan,756.5,I
+Area salinized by irrigation,United Republic of Tanzania,50.0,I
+Area salinized by irrigation,United States of America,4200.0,I
+Area salinized by irrigation,Uzbekistan,2078.6,I
+Area salinized by irrigation,Viet Nam,300.0,I

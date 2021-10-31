@@ -1,485 +1,482 @@
-,,,Value,Symbol
-Albania,Desalinated water produced,0,0.0,I
-Albania,Direct use of treated municipal wastewater,1,0.0,I
-Albania,Treated municipal wastewater,3,0.0205,I
-Albania,Desalinated water produced,0,0.0,I
-Albania,Direct use of treated municipal wastewater,1,0.0,I
-Albania,Treated municipal wastewater,3,0.0205,I
-Algeria,Desalinated water produced,5,0.631,I
-Algeria,Direct use of treated municipal wastewater,7,0.05,I
-Algeria,Produced municipal wastewater,13,1.5,I
-Algeria,Collected municipal wastewater,15,0.705,I
-Algeria,Not treated municipal wastewater,17,0.496,I
-Algeria,Treated municipal wastewater,19,0.4,I
-Algeria,Not treated municipal wastewater discharged (secondary water),22,0.219,I
-Angola,Desalinated water produced,5,0.0001,I
-Antigua and Barbuda,Desalinated water produced,4,0.0071,I
-Antigua and Barbuda,Treated municipal wastewater,10,0.0002,I
-Argentina,Desalinated water produced,5,0.0007,I
-Argentina,Direct use of treated municipal wastewater,11,0.091,I
-Argentina,Produced municipal wastewater,14,2.458,I
-Argentina,Collected municipal wastewater,17,1.596,I
-Argentina,Not treated municipal wastewater,20,2.168,I
-Argentina,Treated municipal wastewater,25,0.29,I
-Argentina,Treated municipal wastewater discharged (secondary water),30,0.0135,I
-Armenia,Desalinated water produced,1,0.0,I
-Armenia,Direct use of treated municipal wastewater,6,0.0,I
-Armenia,Produced municipal wastewater,11,0.236,I
-Armenia,Collected municipal wastewater,12,0.1,I
-Armenia,Not treated municipal wastewater,16,0.274,I
-Armenia,Treated municipal wastewater discharged (secondary water),24,0.0889,I
-Australia,Direct use of treated municipal wastewater,6,0.14,I
-Australia,Produced municipal wastewater,12,2.094,I
-Australia,Collected municipal wastewater,16,1.828,I
-Australia,Not treated municipal wastewater,19,0.315,I
-Australia,Treated municipal wastewater,22,2.0,I
-Australia,Treated municipal wastewater discharged (secondary water),25,1.58,I
-Austria,Desalinated water produced,5,0.0022,I
-Austria,Produced municipal wastewater,10,1.054,I
-Austria,Collected municipal wastewater,15,1.919,I
-Austria,Not treated municipal wastewater,20,0.02,I
-Austria,Treated municipal wastewater,24,1.919,I
-Austria,Treated municipal wastewater discharged (secondary water),28,0.806,I
-Austria,Not treated municipal wastewater discharged (secondary water),33,0.0007,I
-Azerbaijan,Produced municipal wastewater,5,0.659,I
-Azerbaijan,Not treated municipal wastewater,11,0.498,I
-Azerbaijan,Treated municipal wastewater,17,0.161,I
-Bahrain,Desalinated water produced,5,0.2419,I
-Bahrain,Direct use of treated municipal wastewater,11,0.0392,I
-Bahrain,Produced municipal wastewater,17,0.151,I
-Bahrain,Collected municipal wastewater,22,0.1482,I
-Bahrain,Not treated municipal wastewater,25,0.072,I
-Bahrain,Treated municipal wastewater,31,0.1482,I
-Bahrain,Treated municipal wastewater discharged (secondary water),36,0.06,I
-Bangladesh,Produced municipal wastewater,4,0.725,I
-Barbados,Desalinated water produced,3,0.011,I
-Barbados,Produced municipal wastewater,9,0.011,I
-Barbados,Treated municipal wastewater,13,0.003,I
-Belarus,Not treated municipal wastewater,8,0.111,I
-Belgium,Direct use of treated municipal wastewater,4,0.003,I
-Belgium,Produced municipal wastewater,8,0.871,I
-Belgium,Collected municipal wastewater,13,0.1501,I
-Belgium,Not treated municipal wastewater,18,0.0439,I
-Belize,Produced municipal wastewater,5,0.002,I
-Bhutan,Produced municipal wastewater,4,0.0039,I
-Bolivia,Produced municipal wastewater,5,0.157,I
-Bolivia,Not treated municipal wastewater,11,0.1022,I
-Bolivia,Treated municipal wastewater,17,0.0336,I
-Bolivia,Direct use of not treated municipal wastewater for irrigation purposes,20,0.0157,I
-Bosnia and Herzegovina,Produced municipal wastewater,2,0.0844,
-Bosnia and Herzegovina,Collected municipal wastewater,4,0.104,I
-Bosnia and Herzegovina,Not treated municipal wastewater,8,0.0609,I
-Bosnia and Herzegovina,Treated municipal wastewater,12,0.0541,
-Bosnia and Herzegovina,Treated municipal wastewater discharged (secondary water),16,0.0029,I
-Bosnia and Herzegovina,Not treated municipal wastewater discharged (secondary water),20,0.0609,I
-Botswana,Produced municipal wastewater,5,0.011,I
-Botswana,Treated municipal wastewater,11,0.008,I
-Brazil,Desalinated water produced,5,0.04,I
-Brazil,Direct use of treated municipal wastewater,8,0.05,I
-Brazil,Not treated municipal wastewater,17,7.2,I
-Brazil,Treated municipal wastewater discharged (secondary water),23,3.091,I
-Burkina Faso,Direct use of treated municipal wastewater,2,0.0013,I
-Burkina Faso,Produced municipal wastewater,5,0.0487,I
-Burkina Faso,Collected municipal wastewater,8,0.0024,I
-Burkina Faso,Treated municipal wastewater,11,0.0014,I
-Cabo Verde,Desalinated water produced,5,0.0017,I
-Cabo Verde,Produced municipal wastewater,8,0.0039,I
-Cambodia,Treated municipal wastewater,5,0.0002,I
-Cameroon,Produced municipal wastewater,2,0.0662,I
-Canada,Desalinated water produced,5,0.0027,I
-Canada,Produced municipal wastewater,8,6.074,I
-Canada,Collected municipal wastewater,11,5.91,I
-Canada,Not treated municipal wastewater,15,0.981,I
-Canada,Treated municipal wastewater,18,5.804,I
-Chile,Desalinated water produced,5,0.065,I
-Chile,Direct use of treated municipal wastewater,8,0.0,I
-Chile,Produced municipal wastewater,13,1.112,I
-Chile,Collected municipal wastewater,16,1.067,I
-Chile,Not treated municipal wastewater,21,0.344,I
-Chile,Treated municipal wastewater,26,0.768,I
-Chile,Treated municipal wastewater discharged (secondary water),29,0.7807,I
-Chile,Not treated municipal wastewater discharged (secondary water),32,0.2089,I
-China,Desalinated water produced,3,0.0109,I
-China,Direct use of treated municipal wastewater,5,3.86,I
-China,Produced municipal wastewater,10,48.51,I
-China,Collected municipal wastewater,13,31.14,I
-China,Not treated municipal wastewater,16,2.49,I
-China,Treated municipal wastewater,21,49.31,I
-China,Treated municipal wastewater discharged (secondary water),23,42.16,I
-Colombia,Produced municipal wastewater,5,2.397,I
-Colombia,Not treated municipal wastewater,11,1.8,I
-Colombia,Treated municipal wastewater,17,0.154,I
-Congo,Treated municipal wastewater,5,0.0,I
-Costa Rica,Desalinated water produced,1,0.0031,I
-Costa Rica,Collected municipal wastewater,5,0.084,I
-Costa Rica,Not treated municipal wastewater,9,0.267,I
-Croatia,Not treated municipal wastewater,5,0.0954,I
-Croatia,Treated municipal wastewater discharged (secondary water),9,0.209,I
-Croatia,Not treated municipal wastewater discharged (secondary water),12,0.133,I
-Cuba,Desalinated water produced,4,0.0004,I
-Cuba,Produced municipal wastewater,10,0.839,I
-Cuba,Collected municipal wastewater,14,0.725,I
-Cuba,Not treated municipal wastewater,20,0.393,I
-Cuba,Treated municipal wastewater,26,0.223,I
-Cyprus,Not treated municipal wastewater,11,0.004,I
-Cyprus,Treated municipal wastewater discharged (secondary water),17,0.0,I
-Czech Republic,Desalinated water produced,5,0.0002,I
-Côte d'Ivoire,Treated municipal wastewater,5,0.0001,I
-Denmark,Desalinated water produced,5,0.015,I
-Djibouti,Desalinated water produced,5,0.0001,I
-Djibouti,Direct use of treated municipal wastewater,10,0.0001,I
-Dominican Republic,Produced municipal wastewater,2,0.427,I
-Dominican Republic,Collected municipal wastewater,5,0.041,I
-Dominican Republic,Not treated municipal wastewater,8,0.419,I
-Dominican Republic,Treated municipal wastewater,11,0.008,I
-Ecuador,Desalinated water produced,5,0.0022,I
-Ecuador,Produced municipal wastewater,8,0.4575,I
-Ecuador,Not treated municipal wastewater,13,0.473,I
-Ecuador,Treated municipal wastewater,18,0.158,I
-Egypt,Desalinated water produced,5,0.2,I
-Egypt,Direct use of treated municipal wastewater,11,1.2,I
-Egypt,Produced municipal wastewater,16,7.078,I
-Egypt,Collected municipal wastewater,19,6.497,I
-Egypt,Not treated municipal wastewater,24,3.065,I
-Egypt,Treated municipal wastewater,28,4.282,I
-Egypt,Treated municipal wastewater discharged (secondary water),33,3.011,I
-Egypt,Not treated municipal wastewater discharged (secondary water),38,1.0,I
-El Salvador,Desalinated water produced,5,0.0001,I
-El Salvador,Produced municipal wastewater,8,0.097,I
-El Salvador,Not treated municipal wastewater,11,0.096,I
-El Salvador,Treated municipal wastewater,14,0.001,I
-Eritrea,Produced municipal wastewater,4,0.018,I
-Estonia,Collected municipal wastewater,5,0.311,I
-Estonia,Not treated municipal wastewater,11,0.072,I
-Eswatini,Produced municipal wastewater,5,0.0132,I
-Eswatini,Not treated municipal wastewater,9,0.003,I
-Eswatini,Treated municipal wastewater,14,0.009,I
-Ethiopia,Direct use of treated municipal wastewater,4,0.0,I
-Ethiopia,Treated municipal wastewater,9,0.0,I
-Ethiopia,Treated municipal wastewater discharged (secondary water),13,0.0,I
-France,Desalinated water produced,5,0.0117,I
-France,Direct use of treated municipal wastewater,9,0.411,I
-France,Produced municipal wastewater,14,4.0,I
-France,Collected municipal wastewater,19,3.77,I
-France,Not treated municipal wastewater,24,0.02,I
-France,Treated municipal wastewater,27,3.77,I
-France,Treated municipal wastewater discharged (secondary water),30,3.359,I
-Germany,Direct use of treated municipal wastewater,4,0.042,I
-Germany,Produced municipal wastewater,8,3.24,I
-Germany,Collected municipal wastewater,13,5.213,I
-Germany,Not treated municipal wastewater,17,0.104,I
-Germany,Treated municipal wastewater,22,5.183,I
-Ghana,Desalinated water produced,1,0.016,I
-Ghana,Produced municipal wastewater,6,0.28,I
-Ghana,Collected municipal wastewater,10,0.028,I
-Ghana,Not treated municipal wastewater,14,0.258,I
-Ghana,Treated municipal wastewater,18,0.022,I
-Greece,Desalinated water produced,5,0.01,I
-Greece,Direct use of treated municipal wastewater,10,0.104,I
-Greece,Collected municipal wastewater,13,0.568,I
-Greece,Not treated municipal wastewater,17,0.002,I
-Greece,Treated municipal wastewater,20,0.566,I
-Greece,Treated municipal wastewater discharged (secondary water),24,0.504,I
-Grenada,Produced municipal wastewater,1,0.011,I
-Grenada,Collected municipal wastewater,3,0.001,I
-Guatemala,Produced municipal wastewater,4,0.668,I
-Guatemala,Treated municipal wastewater,10,0.0065,I
-Honduras,Desalinated water produced,5,0.0002,I
-Honduras,Collected municipal wastewater,9,0.426,I
-Honduras,Treated municipal wastewater,13,0.043,I
-Hungary,Desalinated water produced,5,0.0002,I
-India,Desalinated water produced,5,0.0006,I
-India,Produced municipal wastewater,11,15.45,I
-India,Not treated municipal wastewater,17,11.03,I
-India,Treated municipal wastewater,23,4.416,I
-India,Not treated municipal wastewater discharged (secondary water),29,9.66,I
-India,Direct use of not treated municipal wastewater for irrigation purposes,35,1.23,I
-Indonesia,Desalinated water produced,5,0.019,I
-Indonesia,Produced municipal wastewater,9,14.29,I
-Iran,Desalinated water produced,5,0.2,I
-Iran,Produced municipal wastewater,11,3.548,I
-Iran,Collected municipal wastewater,14,1.162,I
-Iran,Not treated municipal wastewater,20,2.727,I
-Iran,Treated municipal wastewater,26,0.885,I
-Iran,Direct use of not treated municipal wastewater for irrigation purposes,30,0.244,I
-Iraq,Direct use of treated municipal wastewater,6,0.005,I
-Iraq,Collected municipal wastewater,10,0.579,I
-Iraq,Not treated municipal wastewater discharged (secondary water),18,0.182,I
-Iraq,Direct use of not treated municipal wastewater for irrigation purposes,21,1.03,I
-Ireland,Produced municipal wastewater,5,0.783,I
-Ireland,Collected municipal wastewater,9,0.757,I
-Ireland,Not treated municipal wastewater,13,0.06,I
-Ireland,Treated municipal wastewater,16,0.723,I
-Ireland,Treated municipal wastewater discharged (secondary water),19,0.29,I
-Ireland,Not treated municipal wastewater discharged (secondary water),23,0.028,I
-Israel,Produced municipal wastewater,12,0.5,I
-Israel,Not treated municipal wastewater,17,0.05,I
-Israel,Treated municipal wastewater,23,0.45,I
-Israel,Treated municipal wastewater discharged (secondary water),29,0.032,I
-Italy,Desalinated water produced,5,0.0973,I
-Italy,Direct use of treated municipal wastewater,10,0.045,I
-Italy,Produced municipal wastewater,14,3.926,I
-Italy,Not treated municipal wastewater,18,0.024,I
-Italy,Treated municipal wastewater,23,3.902,I
-Jamaica,Desalinated water produced,5,0.0005,I
-Japan,Desalinated water produced,5,0.04,I
-Japan,Direct use of treated municipal wastewater,10,0.195,I
-Japan,Produced municipal wastewater,14,16.93,I
-Japan,Collected municipal wastewater,18,12.02,I
-Japan,Not treated municipal wastewater,22,5.37,I
-Japan,Treated municipal wastewater,26,11.56,I
-Japan,Treated municipal wastewater discharged (secondary water),30,11.37,I
-Jordan,Desalinated water produced,5,0.1363,I
-Jordan,Direct use of treated municipal wastewater,11,0.0042,I
-Jordan,Produced municipal wastewater,16,0.18,I
-Jordan,Collected municipal wastewater,21,0.115,I
-Jordan,Not treated municipal wastewater,25,0.105,I
-Jordan,Treated municipal wastewater,31,0.1467,I
-Jordan,Treated municipal wastewater discharged (secondary water),36,0.0071,I
-Kazakhstan,Produced municipal wastewater,8,0.33,I
-Kenya,Produced municipal wastewater,1,0.0805,I
-Kenya,Treated municipal wastewater,3,0.0424,I
-Kuwait,Desalinated water produced,4,0.4202,I
-Kuwait,Direct use of treated municipal wastewater,10,0.078,I
-Kuwait,Produced municipal wastewater,16,0.292,I
-Kuwait,Collected municipal wastewater,22,0.319,I
-Kuwait,Not treated municipal wastewater,27,0.076,I
-Kuwait,Treated municipal wastewater,33,0.289,I
-Kuwait,Treated municipal wastewater discharged (secondary water),38,0.074,I
-Kyrgyzstan,Direct use of treated municipal wastewater,5,0.0001,I
-Kyrgyzstan,Produced municipal wastewater,9,0.0658,I
-Kyrgyzstan,Treated municipal wastewater,15,0.0002,I
-Kyrgyzstan,Treated municipal wastewater discharged (secondary water),21,0.0001,I
-Lao People's Democratic Republic,Produced municipal wastewater,2,0.0836,I
-Lao People's Democratic Republic,Collected municipal wastewater,7,0.546,I
-Lao People's Democratic Republic,Treated municipal wastewater,13,0.0,I
-Latvia,Not treated municipal wastewater,12,0.098,I
-Latvia,Treated municipal wastewater discharged (secondary water),22,0.116,I
-Lebanon,Desalinated water produced,3,0.0473,I
-Lebanon,Direct use of treated municipal wastewater,9,0.002,I
-Lebanon,Produced municipal wastewater,15,0.31,I
-Lebanon,Collected municipal wastewater,20,0.103,I
-Lebanon,Not treated municipal wastewater,26,0.193,I
-Lebanon,Treated municipal wastewater,32,0.056,I
-Lebanon,Treated municipal wastewater discharged (secondary water),38,0.002,I
-Libya,Desalinated water produced,4,0.07,I
-Libya,Produced municipal wastewater,9,0.504,I
-Libya,Collected municipal wastewater,12,0.167,I
-Libya,Not treated municipal wastewater,17,0.506,I
-Libya,Treated municipal wastewater,22,0.04,I
-Liechtenstein,Treated municipal wastewater,1,0.0105,I
-Lithuania,Treated municipal wastewater discharged (secondary water),15,0.123,I
-Luxembourg,Produced municipal wastewater,5,0.0208,I
-Luxembourg,Collected municipal wastewater,9,0.04,I
-Luxembourg,Treated municipal wastewater,13,0.04,I
-Luxembourg,Treated municipal wastewater discharged (secondary water),17,0.04,I
-Macedonia,Produced municipal wastewater,1,0.0412,I
-Malaysia,Desalinated water produced,5,0.0043,I
-Malaysia,Produced municipal wastewater,8,4.227,I
-Malaysia,Not treated municipal wastewater,11,1.624,I
-Malaysia,Treated municipal wastewater,14,2.603,I
-Maldives,Desalinated water produced,5,0.0153,I
-Maldives,Produced municipal wastewater,10,0.0037,I
-Mali,Produced municipal wastewater,2,0.0967,I
-Malta,Treated municipal wastewater discharged (secondary water),20,0.0,I
-Marshall Islands,Desalinated water produced,5,0.0007,I
-Mauritania,Desalinated water produced,5,0.002,I
-Mauritania,Produced municipal wastewater,8,0.0214,I
-Mauritania,Treated municipal wastewater,13,0.0007,I
-Mauritius,Treated municipal wastewater,5,0.051,I
-Mexico,Not treated municipal wastewater,20,3.92,I
-Mexico,Treated municipal wastewater discharged (secondary water),30,2.277,I
-Mexico,Not treated municipal wastewater discharged (secondary water),36,6.8,I
-Mexico,Direct use of not treated municipal wastewater for irrigation purposes,40,4.33,I
-Monaco,Produced municipal wastewater,2,0.008,I
-Monaco,Not treated municipal wastewater,5,0.002,I
-Monaco,Treated municipal wastewater,8,0.006,I
-Mongolia,Desalinated water produced,3,0.0,I
-Mongolia,Produced municipal wastewater,6,0.146,I
-Mongolia,Not treated municipal wastewater,10,0.08,I
-Mongolia,Treated municipal wastewater,15,0.12,I
-Mongolia,Not treated municipal wastewater discharged (secondary water),19,0.08,I
-Montenegro,Produced municipal wastewater,3,0.031,I
-Montenegro,Not treated municipal wastewater,7,0.0215,I
-Montenegro,Treated municipal wastewater,11,0.0095,I
-Morocco,Desalinated water produced,5,0.007,I
-Morocco,Direct use of treated municipal wastewater,8,0.07,I
-Morocco,Produced municipal wastewater,14,0.7,I
-Morocco,Not treated municipal wastewater,19,0.501,I
-Morocco,Treated municipal wastewater,25,0.166,I
-Morocco,Not treated municipal wastewater discharged (secondary water),30,0.25,I
-Morocco,Direct use of not treated municipal wastewater for irrigation purposes,34,0.012,I
-Mozambique,Treated municipal wastewater,5,0.0,I
-Myanmar,Treated municipal wastewater,5,0.0,I
-Namibia,Desalinated water produced,5,0.0003,I
-Namibia,Direct use of treated municipal wastewater,11,0.0058,I
-Namibia,Produced municipal wastewater,14,0.0195,I
-Namibia,Treated municipal wastewater,20,0.006,I
-Namibia,Treated municipal wastewater discharged (secondary water),26,0.0002,I
-Nepal,Treated municipal wastewater,3,0.006,I
-Netherlands,Not treated municipal wastewater,15,0.059,I
-Netherlands,Treated municipal wastewater discharged (secondary water),25,1.831,I
-Nicaragua,Desalinated water produced,5,0.0002,I
-Nicaragua,Direct use of treated municipal wastewater,10,0.0011,I
-Nicaragua,Produced municipal wastewater,16,0.304,I
-Nicaragua,Collected municipal wastewater,19,0.1793,I
-Nicaragua,Not treated municipal wastewater,25,0.1928,I
-Nicaragua,Treated municipal wastewater,31,0.1112,I
-Nicaragua,Treated municipal wastewater discharged (secondary water),36,0.0056,I
-Niger,Produced municipal wastewater,2,0.0396,I
-Nigeria,Desalinated water produced,5,0.003,I
-Norway,Desalinated water produced,5,0.0001,I
-Norway,Produced municipal wastewater,8,0.93,I
-Norway,Collected municipal wastewater,11,0.883,I
-Oman,Desalinated water produced,4,0.33,I
-Oman,Direct use of treated municipal wastewater,9,0.061,I
-Oman,Produced municipal wastewater,14,0.108,I
-Oman,Collected municipal wastewater,16,0.094,I
-Oman,Not treated municipal wastewater,21,0.0802,I
-Oman,Treated municipal wastewater,25,0.094,I
-Pakistan,Produced municipal wastewater,4,3.06,I
-Pakistan,Not treated municipal wastewater,8,1.022,I
-Pakistan,Treated municipal wastewater,13,0.0306,I
-Pakistan,Not treated municipal wastewater discharged (secondary water),16,1.438,I
-Pakistan,Direct use of not treated municipal wastewater for irrigation purposes,20,1.022,I
-Palestine,Direct use of treated municipal wastewater,5,0.013,I
-Panama,Produced municipal wastewater,4,0.394,I
-Paraguay,Desalinated water produced,2,8e-06,I
-Paraguay,Produced municipal wastewater,6,0.2048,I
-Peru,Desalinated water produced,5,0.0054,I
-Peru,Direct use of treated municipal wastewater,10,0.0303,I
-Peru,Produced municipal wastewater,13,0.995,I
-Peru,Collected municipal wastewater,16,0.655,I
-Peru,Not treated municipal wastewater,19,0.7339,I
-Peru,Treated municipal wastewater,24,0.275,I
-Peru,Treated municipal wastewater discharged (secondary water),28,0.2447,I
-Peru,Not treated municipal wastewater discharged (secondary water),31,0.089,I
-Philippines,Produced municipal wastewater,2,1.259,I
-Poland,Desalinated water produced,5,0.007,I
-Poland,Direct use of treated municipal wastewater,10,0.003,I
-Poland,Produced municipal wastewater,13,2.168,I
-Poland,Collected municipal wastewater,16,2.089,I
-Poland,Not treated municipal wastewater,19,0.915,I
-Portugal,Direct use of treated municipal wastewater,8,0.003,I
-Portugal,Produced municipal wastewater,11,0.577,I
-Portugal,Not treated municipal wastewater,15,0.307,I
-Portugal,Treated municipal wastewater,18,0.27,I
-Qatar,Direct use of treated municipal wastewater,10,0.1334,I
-Qatar,Produced municipal wastewater,16,0.274,I
-Qatar,Treated municipal wastewater discharged (secondary water),25,0.013,I
-Republic of Korea,Desalinated water produced,4,0.0002,I
-Republic of Korea,Direct use of treated municipal wastewater,8,1.118,I
-Republic of Korea,Produced municipal wastewater,13,7.838,I
-Republic of Korea,Not treated municipal wastewater,16,1.255,I
-Republic of Korea,Treated municipal wastewater,22,6.583,I
-Republic of Moldova,Produced municipal wastewater,1,0.0525,I
-Republic of Moldova,Treated municipal wastewater,7,0.296,I
-Republic of Serbia,Produced municipal wastewater,3,0.449,I
-Romania,Not treated municipal wastewater,5,5.253,I
-Russian Federation,Produced municipal wastewater,2,12.32,I
-Saint Kitts and Nevis,Desalinated water produced,3,0.0033,I
-Saint Vincent and the Grenadines,Desalinated water produced,1,0.0006,I
-Saudi Arabia,Desalinated water produced,5,2.18,I
-Saudi Arabia,Direct use of treated municipal wastewater,11,0.254,I
-Saudi Arabia,Produced municipal wastewater,16,1.546,I
-Saudi Arabia,Collected municipal wastewater,19,1.144,I
-Saudi Arabia,Not treated municipal wastewater,24,0.483,I
-Saudi Arabia,Treated municipal wastewater,30,1.6,I
-Saudi Arabia,Treated municipal wastewater discharged (secondary water),34,0.06,I
-Senegal,Desalinated water produced,5,5e-05,I
-Senegal,Produced municipal wastewater,8,0.0696,I
-Senegal,Not treated municipal wastewater,11,0.0588,I
-Senegal,Treated municipal wastewater,17,0.0112,I
-Seychelles,Desalinated water produced,3,0.001,I
-Seychelles,Direct use of treated municipal wastewater,7,6e-06,I
-Seychelles,Produced municipal wastewater,13,0.0088,I
-Singapore,Desalinated water produced,5,0.0072,I
-Singapore,Produced municipal wastewater,11,0.511,I
-Singapore,Collected municipal wastewater,13,0.511,I
-Singapore,Treated municipal wastewater discharged (secondary water),16,0.317,I
-Slovenia,Not treated municipal wastewater,6,0.0464,I
-Somalia,Desalinated water produced,5,0.0001,I
-Somalia,Treated municipal wastewater,9,0.0,I
-South Africa,Desalinated water produced,5,0.018,I
-South Africa,Direct use of treated municipal wastewater,10,1.61,I
-South Africa,Collected municipal wastewater,18,2.769,I
-South Africa,Not treated municipal wastewater,23,1.623,I
-South Africa,Treated municipal wastewater discharged (secondary water),32,0.309,I
-Spain,Desalinated water produced,5,0.364,I
-Spain,Produced municipal wastewater,12,5.206,I
-Spain,Not treated municipal wastewater,16,0.023,I
-Spain,Treated municipal wastewater discharged (secondary water),23,2.767,I
-Sri Lanka,Produced municipal wastewater,4,0.1181,I
-Sudan,Produced municipal wastewater,2,0.4797,I
-Sweden,Desalinated water produced,5,0.0002,I
-Sweden,Produced municipal wastewater,8,1.0,I
-Sweden,Collected municipal wastewater,10,1.0,I
-Sweden,Not treated municipal wastewater,13,0.235,I
-Sweden,Treated municipal wastewater,16,1.0,I
-Switzerland,Produced municipal wastewater,5,1.409,I
-Switzerland,Collected municipal wastewater,8,1.409,I
-Switzerland,Not treated municipal wastewater,11,0.325,I
-Switzerland,Treated municipal wastewater,14,1.084,I
-Syrian Arab Republic,Direct use of treated municipal wastewater,3,0.55,I
-Syrian Arab Republic,Produced municipal wastewater,9,1.37,I
-Syrian Arab Republic,Not treated municipal wastewater,13,0.82,I
-Syrian Arab Republic,Treated municipal wastewater,18,0.55,I
-Syrian Arab Republic,Treated municipal wastewater discharged (secondary water),20,0.0,I
-Syrian Arab Republic,Not treated municipal wastewater discharged (secondary water),23,0.311,I
-Syrian Arab Republic,Direct use of not treated municipal wastewater for irrigation purposes,26,0.416,I
-Tajikistan,Desalinated water produced,3,0.0,I
-Tajikistan,Direct use of treated municipal wastewater,7,0.0,I
-Tajikistan,Not treated municipal wastewater,16,4.548,I
-Tajikistan,Treated municipal wastewater discharged (secondary water),23,0.1522,I
-Thailand,Produced municipal wastewater,3,5.11,I
-Thailand,Collected municipal wastewater,5,1.168,I
-Thailand,Not treated municipal wastewater,8,3.942,I
-Thailand,Treated municipal wastewater,14,1.168,I
-The Bahamas,Desalinated water produced,5,0.0074,I
-Trinidad and Tobago,Desalinated water produced,3,0.047,I
-Tunisia,Not treated municipal wastewater,15,0.063,I
-Tunisia,Treated municipal wastewater discharged (secondary water),23,0.158,I
-Tunisia,Not treated municipal wastewater discharged (secondary water),28,0.1,I
-Tunisia,Direct use of not treated municipal wastewater for irrigation purposes,32,0.0466,I
-Turkey,Not treated municipal wastewater,16,0.814,I
-Turkey,Treated municipal wastewater discharged (secondary water),25,1.591,I
-Turkmenistan,Desalinated water produced,3,0.0,I
-Turkmenistan,Produced municipal wastewater,8,0.268,I
-Turkmenistan,Treated municipal wastewater,12,0.336,I
-Uganda,Produced municipal wastewater,2,0.0419,I
-Ukraine,Not treated municipal wastewater,5,0.8392,I
-United Arab Emirates,Produced municipal wastewater,14,0.5,I
-United Arab Emirates,Not treated municipal wastewater,20,0.307,I
-United Arab Emirates,Treated municipal wastewater discharged (secondary water),29,0.047,I
-United Kingdom,Desalinated water produced,5,0.0333,I
-United Kingdom,Direct use of treated municipal wastewater,8,0.164,I
-United Kingdom,Produced municipal wastewater,12,4.089,I
-United Kingdom,Collected municipal wastewater,16,4.048,I
-United Kingdom,Not treated municipal wastewater,20,0.041,I
-United Kingdom,Treated municipal wastewater,24,4.048,I
-United Kingdom,Treated municipal wastewater discharged (secondary water),28,3.642,I
-United Kingdom,Not treated municipal wastewater discharged (secondary water),32,0.003,I
-United Republic of Tanzania,Collected municipal wastewater,1,0.028,I
-United States of America,Desalinated water produced,5,0.58,I
-United States of America,Direct use of treated municipal wastewater,11,2.774,I
-United States of America,Produced municipal wastewater,14,60.41,I
-United States of America,Collected municipal wastewater,17,47.24,I
-United States of America,Not treated municipal wastewater,20,15.72,I
-United States of America,Treated municipal wastewater,25,45.35,I
-United States of America,Treated municipal wastewater discharged (secondary water),31,41.92,I
-Uruguay,Produced municipal wastewater,2,0.1152,I
-Uzbekistan,Produced municipal wastewater,2,0.3397,I
-Venezuela,Desalinated water produced,4,0.0052,I
-Venezuela,Produced municipal wastewater,10,2.903,I
-Venezuela,Treated municipal wastewater,13,0.93,I
-Viet Nam,Direct use of treated municipal wastewater,3,0.175,I
-Viet Nam,Produced municipal wastewater,6,1.972,I
-Viet Nam,Collected municipal wastewater,8,0.197,I
-Viet Nam,Not treated municipal wastewater,11,1.775,I
-Viet Nam,Treated municipal wastewater,14,0.197,I
-Yemen,Desalinated water produced,5,0.0251,I
-Yemen,Direct use of treated municipal wastewater,10,0.006,I
-Yemen,Produced municipal wastewater,13,0.1315,I
-Yemen,Treated municipal wastewater,19,0.046,I
-Zambia,Produced municipal wastewater,2,0.1184,I
-Zimbabwe,Not treated municipal wastewater,3,0.099,I
+,,Value,Symbol
+Desalinated water produced,Albania,0.0,I
+Direct use of treated municipal wastewater,Albania,0.0,I
+Treated municipal wastewater,Albania,0.0205,I
+Desalinated water produced,Algeria,0.631,I
+Direct use of treated municipal wastewater,Algeria,0.05,I
+Produced municipal wastewater,Algeria,1.5,I
+Collected municipal wastewater,Algeria,0.705,I
+Not treated municipal wastewater,Algeria,0.496,I
+Treated municipal wastewater,Algeria,0.4,I
+Not treated municipal wastewater discharged (secondary water),Algeria,0.219,I
+Desalinated water produced,Angola,0.0001,I
+Desalinated water produced,Antigua and Barbuda,0.0071,I
+Treated municipal wastewater,Antigua and Barbuda,0.0002,I
+Desalinated water produced,Argentina,0.0007,I
+Direct use of treated municipal wastewater,Argentina,0.091,I
+Produced municipal wastewater,Argentina,2.458,I
+Collected municipal wastewater,Argentina,1.596,I
+Not treated municipal wastewater,Argentina,2.168,I
+Treated municipal wastewater,Argentina,0.29,I
+Treated municipal wastewater discharged (secondary water),Argentina,0.0135,I
+Desalinated water produced,Armenia,0.0,I
+Direct use of treated municipal wastewater,Armenia,0.0,I
+Produced municipal wastewater,Armenia,0.236,I
+Collected municipal wastewater,Armenia,0.1,I
+Not treated municipal wastewater,Armenia,0.274,I
+Treated municipal wastewater discharged (secondary water),Armenia,0.0889,I
+Direct use of treated municipal wastewater,Australia,0.14,I
+Produced municipal wastewater,Australia,2.094,I
+Collected municipal wastewater,Australia,1.828,I
+Not treated municipal wastewater,Australia,0.315,I
+Treated municipal wastewater,Australia,2.0,I
+Treated municipal wastewater discharged (secondary water),Australia,1.58,I
+Desalinated water produced,Austria,0.0022,I
+Produced municipal wastewater,Austria,1.054,I
+Collected municipal wastewater,Austria,1.919,I
+Not treated municipal wastewater,Austria,0.02,I
+Treated municipal wastewater,Austria,1.919,I
+Treated municipal wastewater discharged (secondary water),Austria,0.806,I
+Not treated municipal wastewater discharged (secondary water),Austria,0.0007,I
+Produced municipal wastewater,Azerbaijan,0.659,I
+Not treated municipal wastewater,Azerbaijan,0.498,I
+Treated municipal wastewater,Azerbaijan,0.161,I
+Desalinated water produced,Bahamas,0.0074,I
+Desalinated water produced,Bahrain,0.2419,I
+Direct use of treated municipal wastewater,Bahrain,0.0392,I
+Produced municipal wastewater,Bahrain,0.151,I
+Collected municipal wastewater,Bahrain,0.1482,I
+Not treated municipal wastewater,Bahrain,0.072,I
+Treated municipal wastewater,Bahrain,0.1482,I
+Treated municipal wastewater discharged (secondary water),Bahrain,0.06,I
+Produced municipal wastewater,Bangladesh,0.725,I
+Desalinated water produced,Barbados,0.011,I
+Produced municipal wastewater,Barbados,0.011,I
+Treated municipal wastewater,Barbados,0.003,I
+Not treated municipal wastewater,Belarus,0.111,I
+Direct use of treated municipal wastewater,Belgium,0.003,I
+Produced municipal wastewater,Belgium,0.871,I
+Collected municipal wastewater,Belgium,0.1501,I
+Not treated municipal wastewater,Belgium,0.0439,I
+Produced municipal wastewater,Belize,0.002,I
+Produced municipal wastewater,Bhutan,0.0039,I
+Produced municipal wastewater,Bolivia (Plurinational State of),0.157,I
+Not treated municipal wastewater,Bolivia (Plurinational State of),0.1022,I
+Treated municipal wastewater,Bolivia (Plurinational State of),0.0336,I
+Direct use of not treated municipal wastewater for irrigation purposes,Bolivia (Plurinational State of),0.0157,I
+Produced municipal wastewater,Bosnia and Herzegovina,0.0844,OF
+Collected municipal wastewater,Bosnia and Herzegovina,0.104,I
+Not treated municipal wastewater,Bosnia and Herzegovina,0.0609,I
+Treated municipal wastewater,Bosnia and Herzegovina,0.0541,OF
+Treated municipal wastewater discharged (secondary water),Bosnia and Herzegovina,0.0029,I
+Not treated municipal wastewater discharged (secondary water),Bosnia and Herzegovina,0.0609,I
+Produced municipal wastewater,Botswana,0.011,I
+Treated municipal wastewater,Botswana,0.008,I
+Desalinated water produced,Brazil,0.04,I
+Direct use of treated municipal wastewater,Brazil,0.05,I
+Not treated municipal wastewater,Brazil,7.2,I
+Treated municipal wastewater discharged (secondary water),Brazil,3.091,I
+Direct use of treated municipal wastewater,Burkina Faso,0.0013,I
+Produced municipal wastewater,Burkina Faso,0.0487,I
+Collected municipal wastewater,Burkina Faso,0.0024,I
+Treated municipal wastewater,Burkina Faso,0.0014,I
+Desalinated water produced,Cabo Verde,0.0017,I
+Produced municipal wastewater,Cabo Verde,0.0039,I
+Treated municipal wastewater,Cambodia,0.0002,I
+Produced municipal wastewater,Cameroon,0.0662,I
+Desalinated water produced,Canada,0.0027,I
+Produced municipal wastewater,Canada,6.074,I
+Collected municipal wastewater,Canada,5.91,I
+Not treated municipal wastewater,Canada,0.981,I
+Treated municipal wastewater,Canada,5.804,I
+Desalinated water produced,Chile,0.065,I
+Direct use of treated municipal wastewater,Chile,0.0,I
+Produced municipal wastewater,Chile,1.112,I
+Collected municipal wastewater,Chile,1.067,I
+Not treated municipal wastewater,Chile,0.344,I
+Treated municipal wastewater,Chile,0.768,I
+Treated municipal wastewater discharged (secondary water),Chile,0.7807,I
+Not treated municipal wastewater discharged (secondary water),Chile,0.2089,I
+Desalinated water produced,China,0.0109,I
+Direct use of treated municipal wastewater,China,3.86,I
+Produced municipal wastewater,China,48.51,I
+Collected municipal wastewater,China,31.14,I
+Not treated municipal wastewater,China,2.49,I
+Treated municipal wastewater,China,49.31,I
+Treated municipal wastewater discharged (secondary water),China,42.16,I
+Produced municipal wastewater,Colombia,2.397,I
+Not treated municipal wastewater,Colombia,1.8,I
+Treated municipal wastewater,Colombia,0.154,I
+Treated municipal wastewater,Congo,0.0,I
+Desalinated water produced,Costa Rica,0.0031,I
+Collected municipal wastewater,Costa Rica,0.084,I
+Not treated municipal wastewater,Costa Rica,0.267,I
+Not treated municipal wastewater,Croatia,0.0954,I
+Treated municipal wastewater discharged (secondary water),Croatia,0.209,I
+Not treated municipal wastewater discharged (secondary water),Croatia,0.133,I
+Desalinated water produced,Cuba,0.0004,I
+Produced municipal wastewater,Cuba,0.839,I
+Collected municipal wastewater,Cuba,0.725,I
+Not treated municipal wastewater,Cuba,0.393,I
+Treated municipal wastewater,Cuba,0.223,I
+Not treated municipal wastewater,Cyprus,0.004,I
+Treated municipal wastewater discharged (secondary water),Cyprus,0.0,I
+Desalinated water produced,Czechia,0.0002,I
+Treated municipal wastewater,Côte d’Ivoire,0.0001,I
+Desalinated water produced,Denmark,0.015,I
+Desalinated water produced,Djibouti,0.0001,I
+Direct use of treated municipal wastewater,Djibouti,0.0001,I
+Produced municipal wastewater,Dominican Republic,0.427,I
+Collected municipal wastewater,Dominican Republic,0.041,I
+Not treated municipal wastewater,Dominican Republic,0.419,I
+Treated municipal wastewater,Dominican Republic,0.008,I
+Desalinated water produced,Ecuador,0.0022,I
+Produced municipal wastewater,Ecuador,0.4575,I
+Not treated municipal wastewater,Ecuador,0.473,I
+Treated municipal wastewater,Ecuador,0.158,I
+Desalinated water produced,Egypt,0.2,I
+Direct use of treated municipal wastewater,Egypt,1.2,I
+Produced municipal wastewater,Egypt,7.078,I
+Collected municipal wastewater,Egypt,6.497,I
+Not treated municipal wastewater,Egypt,3.065,I
+Treated municipal wastewater,Egypt,4.282,I
+Treated municipal wastewater discharged (secondary water),Egypt,3.011,I
+Not treated municipal wastewater discharged (secondary water),Egypt,1.0,I
+Desalinated water produced,El Salvador,0.0001,I
+Produced municipal wastewater,El Salvador,0.097,I
+Not treated municipal wastewater,El Salvador,0.096,I
+Treated municipal wastewater,El Salvador,0.001,I
+Produced municipal wastewater,Eritrea,0.018,I
+Collected municipal wastewater,Estonia,0.311,I
+Not treated municipal wastewater,Estonia,0.072,I
+Produced municipal wastewater,Eswatini,0.0132,I
+Not treated municipal wastewater,Eswatini,0.003,I
+Treated municipal wastewater,Eswatini,0.009,I
+Direct use of treated municipal wastewater,Ethiopia,0.0,I
+Treated municipal wastewater,Ethiopia,0.0,I
+Treated municipal wastewater discharged (secondary water),Ethiopia,0.0,I
+Desalinated water produced,France,0.0117,I
+Direct use of treated municipal wastewater,France,0.411,I
+Produced municipal wastewater,France,4.0,I
+Collected municipal wastewater,France,3.77,I
+Not treated municipal wastewater,France,0.02,I
+Treated municipal wastewater,France,3.77,I
+Treated municipal wastewater discharged (secondary water),France,3.359,I
+Direct use of treated municipal wastewater,Germany,0.042,I
+Produced municipal wastewater,Germany,3.24,I
+Collected municipal wastewater,Germany,5.213,I
+Not treated municipal wastewater,Germany,0.104,I
+Treated municipal wastewater,Germany,5.183,I
+Desalinated water produced,Ghana,0.016,I
+Produced municipal wastewater,Ghana,0.28,I
+Collected municipal wastewater,Ghana,0.028,I
+Not treated municipal wastewater,Ghana,0.258,I
+Treated municipal wastewater,Ghana,0.022,I
+Desalinated water produced,Greece,0.01,I
+Direct use of treated municipal wastewater,Greece,0.104,I
+Collected municipal wastewater,Greece,0.568,I
+Not treated municipal wastewater,Greece,0.002,I
+Treated municipal wastewater,Greece,0.566,I
+Treated municipal wastewater discharged (secondary water),Greece,0.504,I
+Produced municipal wastewater,Grenada,0.011,I
+Collected municipal wastewater,Grenada,0.001,I
+Produced municipal wastewater,Guatemala,0.668,I
+Treated municipal wastewater,Guatemala,0.0065,I
+Desalinated water produced,Honduras,0.0002,I
+Collected municipal wastewater,Honduras,0.426,I
+Treated municipal wastewater,Honduras,0.043,I
+Desalinated water produced,Hungary,0.0002,I
+Desalinated water produced,India,0.0006,I
+Produced municipal wastewater,India,15.45,I
+Not treated municipal wastewater,India,11.03,I
+Treated municipal wastewater,India,4.416,I
+Not treated municipal wastewater discharged (secondary water),India,9.66,I
+Direct use of not treated municipal wastewater for irrigation purposes,India,1.23,I
+Desalinated water produced,Indonesia,0.019,I
+Produced municipal wastewater,Indonesia,14.29,I
+Desalinated water produced,Iran (Islamic Republic of),0.2,I
+Produced municipal wastewater,Iran (Islamic Republic of),3.548,I
+Collected municipal wastewater,Iran (Islamic Republic of),1.162,I
+Not treated municipal wastewater,Iran (Islamic Republic of),2.727,I
+Treated municipal wastewater,Iran (Islamic Republic of),0.885,I
+Direct use of not treated municipal wastewater for irrigation purposes,Iran (Islamic Republic of),0.244,I
+Direct use of treated municipal wastewater,Iraq,0.005,I
+Collected municipal wastewater,Iraq,0.579,I
+Not treated municipal wastewater discharged (secondary water),Iraq,0.182,I
+Direct use of not treated municipal wastewater for irrigation purposes,Iraq,1.03,I
+Produced municipal wastewater,Ireland,0.783,I
+Collected municipal wastewater,Ireland,0.757,I
+Not treated municipal wastewater,Ireland,0.06,I
+Treated municipal wastewater,Ireland,0.723,I
+Treated municipal wastewater discharged (secondary water),Ireland,0.29,I
+Not treated municipal wastewater discharged (secondary water),Ireland,0.028,I
+Produced municipal wastewater,Israel,0.5,I
+Not treated municipal wastewater,Israel,0.05,I
+Treated municipal wastewater,Israel,0.45,I
+Treated municipal wastewater discharged (secondary water),Israel,0.032,I
+Desalinated water produced,Italy,0.0973,I
+Direct use of treated municipal wastewater,Italy,0.045,I
+Produced municipal wastewater,Italy,3.926,I
+Not treated municipal wastewater,Italy,0.024,I
+Treated municipal wastewater,Italy,3.902,I
+Desalinated water produced,Jamaica,0.0005,I
+Desalinated water produced,Japan,0.04,I
+Direct use of treated municipal wastewater,Japan,0.195,I
+Produced municipal wastewater,Japan,16.93,I
+Collected municipal wastewater,Japan,12.02,I
+Not treated municipal wastewater,Japan,5.37,I
+Treated municipal wastewater,Japan,11.56,I
+Treated municipal wastewater discharged (secondary water),Japan,11.37,I
+Desalinated water produced,Jordan,0.1363,I
+Direct use of treated municipal wastewater,Jordan,0.0042,I
+Produced municipal wastewater,Jordan,0.18,I
+Collected municipal wastewater,Jordan,0.115,I
+Not treated municipal wastewater,Jordan,0.105,I
+Treated municipal wastewater,Jordan,0.1467,I
+Treated municipal wastewater discharged (secondary water),Jordan,0.0071,I
+Produced municipal wastewater,Kazakhstan,0.33,I
+Produced municipal wastewater,Kenya,0.0805,I
+Treated municipal wastewater,Kenya,0.0424,I
+Desalinated water produced,Kuwait,0.4202,I
+Direct use of treated municipal wastewater,Kuwait,0.078,I
+Produced municipal wastewater,Kuwait,0.292,I
+Collected municipal wastewater,Kuwait,0.319,I
+Not treated municipal wastewater,Kuwait,0.076,I
+Treated municipal wastewater,Kuwait,0.289,I
+Treated municipal wastewater discharged (secondary water),Kuwait,0.074,I
+Direct use of treated municipal wastewater,Kyrgyzstan,0.0001,I
+Produced municipal wastewater,Kyrgyzstan,0.0658,I
+Treated municipal wastewater,Kyrgyzstan,0.0002,I
+Treated municipal wastewater discharged (secondary water),Kyrgyzstan,0.0001,I
+Produced municipal wastewater,Lao People's Democratic Republic,0.0836,I
+Collected municipal wastewater,Lao People's Democratic Republic,0.546,I
+Treated municipal wastewater,Lao People's Democratic Republic,0.0,I
+Not treated municipal wastewater,Latvia,0.098,I
+Treated municipal wastewater discharged (secondary water),Latvia,0.116,I
+Desalinated water produced,Lebanon,0.0473,I
+Direct use of treated municipal wastewater,Lebanon,0.002,I
+Produced municipal wastewater,Lebanon,0.31,I
+Collected municipal wastewater,Lebanon,0.103,I
+Not treated municipal wastewater,Lebanon,0.193,I
+Treated municipal wastewater,Lebanon,0.056,I
+Treated municipal wastewater discharged (secondary water),Lebanon,0.002,I
+Desalinated water produced,Libya,0.07,I
+Produced municipal wastewater,Libya,0.504,I
+Collected municipal wastewater,Libya,0.167,I
+Not treated municipal wastewater,Libya,0.506,I
+Treated municipal wastewater,Libya,0.04,I
+Treated municipal wastewater,Liechtenstein,0.0105,I
+Treated municipal wastewater discharged (secondary water),Lithuania,0.123,I
+Produced municipal wastewater,Luxembourg,0.0208,I
+Collected municipal wastewater,Luxembourg,0.04,I
+Treated municipal wastewater,Luxembourg,0.04,I
+Treated municipal wastewater discharged (secondary water),Luxembourg,0.04,I
+Desalinated water produced,Malaysia,0.0043,I
+Produced municipal wastewater,Malaysia,4.227,I
+Not treated municipal wastewater,Malaysia,1.624,I
+Treated municipal wastewater,Malaysia,2.603,I
+Desalinated water produced,Maldives,0.0153,I
+Produced municipal wastewater,Maldives,0.0037,I
+Produced municipal wastewater,Mali,0.0967,I
+Treated municipal wastewater discharged (secondary water),Malta,0.0,I
+Desalinated water produced,Marshall Islands,0.0007,I
+Desalinated water produced,Mauritania,0.002,I
+Produced municipal wastewater,Mauritania,0.0214,I
+Treated municipal wastewater,Mauritania,0.0007,I
+Treated municipal wastewater,Mauritius,0.051,I
+Not treated municipal wastewater,Mexico,3.92,I
+Treated municipal wastewater discharged (secondary water),Mexico,2.277,I
+Not treated municipal wastewater discharged (secondary water),Mexico,6.8,I
+Direct use of not treated municipal wastewater for irrigation purposes,Mexico,4.33,I
+Produced municipal wastewater,Monaco,0.008,I
+Not treated municipal wastewater,Monaco,0.002,I
+Treated municipal wastewater,Monaco,0.006,I
+Desalinated water produced,Mongolia,0.0,I
+Produced municipal wastewater,Mongolia,0.146,I
+Not treated municipal wastewater,Mongolia,0.08,I
+Treated municipal wastewater,Mongolia,0.12,I
+Not treated municipal wastewater discharged (secondary water),Mongolia,0.08,I
+Produced municipal wastewater,Montenegro,0.031,I
+Not treated municipal wastewater,Montenegro,0.0215,I
+Treated municipal wastewater,Montenegro,0.0095,I
+Desalinated water produced,Morocco,0.007,I
+Direct use of treated municipal wastewater,Morocco,0.07,I
+Produced municipal wastewater,Morocco,0.7,I
+Not treated municipal wastewater,Morocco,0.501,I
+Treated municipal wastewater,Morocco,0.166,I
+Not treated municipal wastewater discharged (secondary water),Morocco,0.25,I
+Direct use of not treated municipal wastewater for irrigation purposes,Morocco,0.012,I
+Treated municipal wastewater,Mozambique,0.0,I
+Treated municipal wastewater,Myanmar,0.0,I
+Desalinated water produced,Namibia,0.0003,I
+Direct use of treated municipal wastewater,Namibia,0.0058,I
+Produced municipal wastewater,Namibia,0.0195,I
+Treated municipal wastewater,Namibia,0.006,I
+Treated municipal wastewater discharged (secondary water),Namibia,0.0002,I
+Treated municipal wastewater,Nepal,0.006,I
+Not treated municipal wastewater,Netherlands,0.059,I
+Treated municipal wastewater discharged (secondary water),Netherlands,1.831,I
+Desalinated water produced,Nicaragua,0.0002,I
+Direct use of treated municipal wastewater,Nicaragua,0.0011,I
+Produced municipal wastewater,Nicaragua,0.304,I
+Collected municipal wastewater,Nicaragua,0.1793,I
+Not treated municipal wastewater,Nicaragua,0.1928,I
+Treated municipal wastewater,Nicaragua,0.1112,I
+Treated municipal wastewater discharged (secondary water),Nicaragua,0.0056,I
+Produced municipal wastewater,Niger,0.0396,I
+Desalinated water produced,Nigeria,0.003,I
+Produced municipal wastewater,North Macedonia,0.0412,I
+Desalinated water produced,Norway,0.0001,I
+Produced municipal wastewater,Norway,0.93,I
+Collected municipal wastewater,Norway,0.883,I
+Desalinated water produced,Oman,0.33,I
+Direct use of treated municipal wastewater,Oman,0.061,I
+Produced municipal wastewater,Oman,0.108,I
+Collected municipal wastewater,Oman,0.094,I
+Not treated municipal wastewater,Oman,0.0802,I
+Treated municipal wastewater,Oman,0.094,I
+Produced municipal wastewater,Pakistan,3.06,I
+Not treated municipal wastewater,Pakistan,1.022,I
+Treated municipal wastewater,Pakistan,0.0306,I
+Not treated municipal wastewater discharged (secondary water),Pakistan,1.438,I
+Direct use of not treated municipal wastewater for irrigation purposes,Pakistan,1.022,I
+Produced municipal wastewater,Panama,0.394,I
+Desalinated water produced,Paraguay,8e-06,I
+Produced municipal wastewater,Paraguay,0.2048,I
+Desalinated water produced,Peru,0.0054,I
+Direct use of treated municipal wastewater,Peru,0.0303,I
+Produced municipal wastewater,Peru,0.995,I
+Collected municipal wastewater,Peru,0.655,I
+Not treated municipal wastewater,Peru,0.7339,I
+Treated municipal wastewater,Peru,0.275,I
+Treated municipal wastewater discharged (secondary water),Peru,0.2447,I
+Not treated municipal wastewater discharged (secondary water),Peru,0.089,I
+Produced municipal wastewater,Philippines,1.259,I
+Desalinated water produced,Poland,0.007,I
+Direct use of treated municipal wastewater,Poland,0.003,I
+Produced municipal wastewater,Poland,2.168,I
+Collected municipal wastewater,Poland,2.089,I
+Not treated municipal wastewater,Poland,0.915,I
+Direct use of treated municipal wastewater,Portugal,0.003,I
+Produced municipal wastewater,Portugal,0.577,I
+Not treated municipal wastewater,Portugal,0.307,I
+Treated municipal wastewater,Portugal,0.27,I
+Direct use of treated municipal wastewater,Qatar,0.1334,I
+Produced municipal wastewater,Qatar,0.274,I
+Treated municipal wastewater discharged (secondary water),Qatar,0.013,I
+Desalinated water produced,Republic of Korea,0.0002,I
+Direct use of treated municipal wastewater,Republic of Korea,1.118,I
+Produced municipal wastewater,Republic of Korea,7.838,I
+Not treated municipal wastewater,Republic of Korea,1.255,I
+Treated municipal wastewater,Republic of Korea,6.583,I
+Produced municipal wastewater,Republic of Moldova,0.0525,I
+Treated municipal wastewater,Republic of Moldova,0.296,I
+Produced municipal wastewater,Republic of Serbia,0.449,I
+Not treated municipal wastewater,Romania,5.253,I
+Produced municipal wastewater,Russian Federation,12.32,I
+Desalinated water produced,Saint Kitts and Nevis,0.0033,I
+Desalinated water produced,Saint Vincent and the Grenadines,0.0006,I
+Desalinated water produced,Saudi Arabia,2.18,I
+Direct use of treated municipal wastewater,Saudi Arabia,0.254,I
+Produced municipal wastewater,Saudi Arabia,1.546,I
+Collected municipal wastewater,Saudi Arabia,1.144,I
+Not treated municipal wastewater,Saudi Arabia,0.483,I
+Treated municipal wastewater,Saudi Arabia,1.6,I
+Treated municipal wastewater discharged (secondary water),Saudi Arabia,0.06,I
+Desalinated water produced,Senegal,5e-05,I
+Produced municipal wastewater,Senegal,0.0696,I
+Not treated municipal wastewater,Senegal,0.0588,I
+Treated municipal wastewater,Senegal,0.0112,I
+Desalinated water produced,Seychelles,0.001,I
+Direct use of treated municipal wastewater,Seychelles,6e-06,I
+Produced municipal wastewater,Seychelles,0.0088,I
+Desalinated water produced,Singapore,0.0072,I
+Produced municipal wastewater,Singapore,0.511,I
+Collected municipal wastewater,Singapore,0.511,I
+Treated municipal wastewater discharged (secondary water),Singapore,0.317,I
+Not treated municipal wastewater,Slovenia,0.0464,I
+Desalinated water produced,Somalia,0.0001,I
+Treated municipal wastewater,Somalia,0.0,I
+Desalinated water produced,South Africa,0.018,I
+Direct use of treated municipal wastewater,South Africa,1.61,I
+Collected municipal wastewater,South Africa,2.769,I
+Not treated municipal wastewater,South Africa,1.623,I
+Treated municipal wastewater discharged (secondary water),South Africa,0.309,I
+Desalinated water produced,Spain,0.364,I
+Produced municipal wastewater,Spain,5.206,I
+Not treated municipal wastewater,Spain,0.023,I
+Treated municipal wastewater discharged (secondary water),Spain,2.767,I
+Produced municipal wastewater,Sri Lanka,0.1181,I
+Direct use of treated municipal wastewater,State of Palestine,0.013,I
+Produced municipal wastewater,Sudan,0.4797,I
+Desalinated water produced,Sweden,0.0002,I
+Produced municipal wastewater,Sweden,1.0,I
+Collected municipal wastewater,Sweden,1.0,I
+Not treated municipal wastewater,Sweden,0.235,I
+Treated municipal wastewater,Sweden,1.0,I
+Produced municipal wastewater,Switzerland,1.409,I
+Collected municipal wastewater,Switzerland,1.409,I
+Not treated municipal wastewater,Switzerland,0.325,I
+Treated municipal wastewater,Switzerland,1.084,I
+Direct use of treated municipal wastewater,Syrian Arab Republic,0.55,I
+Produced municipal wastewater,Syrian Arab Republic,1.37,I
+Not treated municipal wastewater,Syrian Arab Republic,0.82,I
+Treated municipal wastewater,Syrian Arab Republic,0.55,I
+Treated municipal wastewater discharged (secondary water),Syrian Arab Republic,0.0,I
+Not treated municipal wastewater discharged (secondary water),Syrian Arab Republic,0.311,I
+Direct use of not treated municipal wastewater for irrigation purposes,Syrian Arab Republic,0.416,I
+Desalinated water produced,Tajikistan,0.0,I
+Direct use of treated municipal wastewater,Tajikistan,0.0,I
+Not treated municipal wastewater,Tajikistan,4.548,I
+Treated municipal wastewater discharged (secondary water),Tajikistan,0.1522,I
+Produced municipal wastewater,Thailand,5.11,I
+Collected municipal wastewater,Thailand,1.168,I
+Not treated municipal wastewater,Thailand,3.942,I
+Treated municipal wastewater,Thailand,1.168,I
+Desalinated water produced,Trinidad and Tobago,0.047,I
+Not treated municipal wastewater,Tunisia,0.063,I
+Treated municipal wastewater discharged (secondary water),Tunisia,0.158,I
+Not treated municipal wastewater discharged (secondary water),Tunisia,0.1,I
+Direct use of not treated municipal wastewater for irrigation purposes,Tunisia,0.0466,I
+Not treated municipal wastewater,Turkey,0.814,I
+Treated municipal wastewater discharged (secondary water),Turkey,1.591,I
+Desalinated water produced,Turkmenistan,0.0,I
+Produced municipal wastewater,Turkmenistan,0.268,I
+Treated municipal wastewater,Turkmenistan,0.336,I
+Produced municipal wastewater,Uganda,0.0419,I
+Not treated municipal wastewater,Ukraine,0.8392,I
+Produced municipal wastewater,United Arab Emirates,0.5,I
+Not treated municipal wastewater,United Arab Emirates,0.307,I
+Treated municipal wastewater discharged (secondary water),United Arab Emirates,0.047,I
+Desalinated water produced,United Kingdom of Great Britain and Northern Ireland,0.0333,I
+Direct use of treated municipal wastewater,United Kingdom of Great Britain and Northern Ireland,0.164,I
+Produced municipal wastewater,United Kingdom of Great Britain and Northern Ireland,4.089,I
+Collected municipal wastewater,United Kingdom of Great Britain and Northern Ireland,4.048,I
+Not treated municipal wastewater,United Kingdom of Great Britain and Northern Ireland,0.041,I
+Treated municipal wastewater,United Kingdom of Great Britain and Northern Ireland,4.048,I
+Treated municipal wastewater discharged (secondary water),United Kingdom of Great Britain and Northern Ireland,3.642,I
+Not treated municipal wastewater discharged (secondary water),United Kingdom of Great Britain and Northern Ireland,0.003,I
+Collected municipal wastewater,United Republic of Tanzania,0.028,I
+Desalinated water produced,United States of America,0.58,I
+Direct use of treated municipal wastewater,United States of America,2.774,I
+Produced municipal wastewater,United States of America,60.41,I
+Collected municipal wastewater,United States of America,47.24,I
+Not treated municipal wastewater,United States of America,15.72,I
+Treated municipal wastewater,United States of America,45.35,I
+Treated municipal wastewater discharged (secondary water),United States of America,41.92,I
+Produced municipal wastewater,Uruguay,0.1152,I
+Produced municipal wastewater,Uzbekistan,0.3397,I
+Desalinated water produced,Venezuela (Bolivarian Republic of),0.0052,I
+Produced municipal wastewater,Venezuela (Bolivarian Republic of),2.903,I
+Treated municipal wastewater,Venezuela (Bolivarian Republic of),0.93,I
+Direct use of treated municipal wastewater,Viet Nam,0.175,I
+Produced municipal wastewater,Viet Nam,1.972,I
+Collected municipal wastewater,Viet Nam,0.197,I
+Not treated municipal wastewater,Viet Nam,1.775,I
+Treated municipal wastewater,Viet Nam,0.197,I
+Desalinated water produced,Yemen,0.0251,I
+Direct use of treated municipal wastewater,Yemen,0.006,I
+Produced municipal wastewater,Yemen,0.1315,I
+Treated municipal wastewater,Yemen,0.046,I
+Produced municipal wastewater,Zambia,0.1184,I
+Not treated municipal wastewater,Zimbabwe,0.099,I

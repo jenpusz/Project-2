@@ -1,103 +1,103 @@
-,Variable Name,Variable Id,Year,Value,Symbol
-0,Total area of the country (excl. coastal water),4100,1962,6.0,X
-1,Total area of the country (excl. coastal water),4100,1967,6.0,X
-2,Total area of the country (excl. coastal water),4100,1972,6.0,X
-3,Total area of the country (excl. coastal water),4100,1977,6.0,X
-4,Total area of the country (excl. coastal water),4100,1982,6.0,X
-5,Total area of the country (excl. coastal water),4100,1987,6.0,X
-6,Total area of the country (excl. coastal water),4100,1992,6.0,X
-7,Total area of the country (excl. coastal water),4100,1997,6.0,X
-8,Total area of the country (excl. coastal water),4100,2002,6.0,X
-9,Total area of the country (excl. coastal water),4100,2007,6.0,X
-10,Total area of the country (excl. coastal water),4100,2012,6.0,X
-11,Total area of the country (excl. coastal water),4100,2017,6.0,E
-12,Total area of the country (excl. coastal water),4100,2018,6.0,E
-13,Cultivated area (arable land + permanent crops),4103,1962,1.0,X
-14,Cultivated area (arable land + permanent crops),4103,1967,1.0,X
-15,Cultivated area (arable land + permanent crops),4103,1972,1.0,X
-16,Cultivated area (arable land + permanent crops),4103,1977,1.0,X
-17,Cultivated area (arable land + permanent crops),4103,1982,1.0,X
-18,Cultivated area (arable land + permanent crops),4103,1987,1.0,X
-19,Cultivated area (arable land + permanent crops),4103,1992,1.0,X
-20,Cultivated area (arable land + permanent crops),4103,1997,1.0,X
-21,Cultivated area (arable land + permanent crops),4103,2002,1.0,X
-22,Cultivated area (arable land + permanent crops),4103,2007,1.0,X
-23,Cultivated area (arable land + permanent crops),4103,2012,1.0,X
-24,Cultivated area (arable land + permanent crops),4103,2017,2.3,X
-25,Cultivated area (arable land + permanent crops),4103,2018,2.3,X
-26,Total population,4104,1962,16.255,X
-27,Total population,4104,1967,18.307,X
-28,Total population,4104,1972,19.494,X
-29,Total population,4104,1977,20.397,X
-30,Total population,4104,1982,22.037,X
-31,Total population,4104,1987,23.295,X
-32,Total population,4104,1992,24.822,X
-33,Total population,4104,1997,26.562,X
-34,Total population,4104,2002,28.175,X
-35,Total population,4104,2007,30.063,X
-36,Total population,4104,2012,32.105,X
-37,Total population,4104,2017,33.671,X
-38,Total population,4104,2018,33.785,X
-39,Rural population,4105,1962,7.921,X
-40,Rural population,4105,1967,7.915,X
-41,Rural population,4105,1972,6.847,X
-42,Rural population,4105,1977,4.949,X
-43,Rural population,4105,1982,3.427,X
-44,Rural population,4105,1987,2.228,X
-45,Rural population,4105,1992,2.376,X
-46,Rural population,4105,1997,2.009,X
-47,Rural population,4105,2002,1.708,X
-48,Rural population,4105,2007,1.497,X
-49,Rural population,4105,2012,1.222,X
-50,Rural population,4105,2017,0.978,X
-51,Rural population,4105,2018,0.931,X
-52,Urban population,4106,1962,8.278,X
-53,Urban population,4106,1967,10.314,X
-54,Urban population,4106,1972,12.551,X
-55,Urban population,4106,1977,15.347,X
-56,Urban population,4106,1982,18.516,X
-57,Urban population,4106,1987,20.982,X
-58,Urban population,4106,1992,22.373,X
-59,Urban population,4106,1997,24.499,X
-60,Urban population,4106,2002,26.413,X
-61,Urban population,4106,2007,28.48,X
-62,Urban population,4106,2012,30.692,X
-63,Urban population,4106,2017,32.422,X
-64,Urban population,4106,2018,32.626,X
-65,Gross Domestic Product (GDP),4112,1972,102740596.0,X
-66,Gross Domestic Product (GDP),4112,1977,182192467.0,X
-67,Gross Domestic Product (GDP),4112,1982,302205606.0,X
-68,Gross Domestic Product (GDP),4112,1987,569913826.0,X
-69,Gross Domestic Product (GDP),4112,1992,929257389.0,X
-70,Gross Domestic Product (GDP),4112,1997,1107743878.0,X
-71,Gross Domestic Product (GDP),4112,2002,1297098320.0,X
-72,Gross Domestic Product (GDP),4112,2007,2487553677.0,X
-73,Gross Domestic Product (GDP),4112,2012,1800605835.0,X
-74,Gross Domestic Product (GDP),4112,2017,1528621195.0,X
-75,GDP per capita,4458,1972,5296.45303,X
-76,GDP per capita,4458,1977,8976.767204,X
-77,GDP per capita,4458,1982,13772.301241,X
-78,GDP per capita,4458,1987,24554.667191,X
-79,GDP per capita,4458,1992,37547.270149,X
-80,GDP per capita,4458,1997,41789.0402,X
-81,GDP per capita,4458,2002,46125.611473,X
-82,GDP per capita,4458,2007,82982.075506,X
-83,GDP per capita,4458,2012,56420.562604,X
-84,GDP per capita,4458,2017,45767.101651,X
-85,GDP per capita,4458,2018,48802.05605,X
-86,"Agriculture, value added (% GDP)",4113,1972,0.08794,X
-87,"Agriculture, value added (% GDP)",4113,1977,0.087941,X
-88,"Agriculture, value added (% GDP)",4113,1982,0.087942,X
-89,"Agriculture, value added (% GDP)",4113,1987,0.087942,X
-90,"Agriculture, value added (% GDP)",4113,1992,0.087868,X
-91,"Agriculture, value added (% GDP)",4113,1997,0.087967,X
-92,"Agriculture, value added (% GDP)",4113,2002,0.078145,X
-93,"Agriculture, value added (% GDP)",4113,2007,0.056671,X
-94,"Agriculture, value added (% GDP)",4113,2012,0.054231,X
-95,"Agriculture, value added (% GDP)",4113,2017,0.020479,X
-96,Interannual variability (WRI),4541,2017,1.4,I
-97,Interannual variability (WRI),4541,2018,1.4,I
-98,Seasonal variability (WRI),4542,2017,1.7,I
-99,Seasonal variability (WRI),4542,2018,1.7,I
-100,Flood occurrence (WRI),4543,2017,2.3,I
-101,Flood occurrence (WRI),4543,2018,2.3,I
+San Marino,Variable Name,Year,Value,Symbol
+0,Total area of the country (excl. coastal water),1962,6.0,X
+1,Total area of the country (excl. coastal water),1967,6.0,X
+2,Total area of the country (excl. coastal water),1972,6.0,X
+3,Total area of the country (excl. coastal water),1977,6.0,X
+4,Total area of the country (excl. coastal water),1982,6.0,X
+5,Total area of the country (excl. coastal water),1987,6.0,X
+6,Total area of the country (excl. coastal water),1992,6.0,X
+7,Total area of the country (excl. coastal water),1997,6.0,X
+8,Total area of the country (excl. coastal water),2002,6.0,X
+9,Total area of the country (excl. coastal water),2007,6.0,X
+10,Total area of the country (excl. coastal water),2012,6.0,X
+11,Total area of the country (excl. coastal water),2017,6.0,E
+12,Total area of the country (excl. coastal water),2018,6.0,E
+13,Cultivated area (arable land + permanent crops),1962,1.0,X
+14,Cultivated area (arable land + permanent crops),1967,1.0,X
+15,Cultivated area (arable land + permanent crops),1972,1.0,X
+16,Cultivated area (arable land + permanent crops),1977,1.0,X
+17,Cultivated area (arable land + permanent crops),1982,1.0,X
+18,Cultivated area (arable land + permanent crops),1987,1.0,X
+19,Cultivated area (arable land + permanent crops),1992,1.0,X
+20,Cultivated area (arable land + permanent crops),1997,1.0,X
+21,Cultivated area (arable land + permanent crops),2002,1.0,X
+22,Cultivated area (arable land + permanent crops),2007,1.0,X
+23,Cultivated area (arable land + permanent crops),2012,1.0,X
+24,Cultivated area (arable land + permanent crops),2017,2.3,X
+25,Cultivated area (arable land + permanent crops),2018,2.3,X
+26,Total population,1962,16.255,X
+27,Total population,1967,18.307,X
+28,Total population,1972,19.494,X
+29,Total population,1977,20.397,X
+30,Total population,1982,22.037,X
+31,Total population,1987,23.295,X
+32,Total population,1992,24.822,X
+33,Total population,1997,26.562,X
+34,Total population,2002,28.175,X
+35,Total population,2007,30.063,X
+36,Total population,2012,32.105,X
+37,Total population,2017,33.671,X
+38,Total population,2018,33.785,X
+39,Rural population,1962,7.921,X
+40,Rural population,1967,7.915,X
+41,Rural population,1972,6.847,X
+42,Rural population,1977,4.949,X
+43,Rural population,1982,3.427,X
+44,Rural population,1987,2.228,X
+45,Rural population,1992,2.376,X
+46,Rural population,1997,2.009,X
+47,Rural population,2002,1.708,X
+48,Rural population,2007,1.497,X
+49,Rural population,2012,1.222,X
+50,Rural population,2017,0.978,X
+51,Rural population,2018,0.931,X
+52,Urban population,1962,8.278,X
+53,Urban population,1967,10.314,X
+54,Urban population,1972,12.551,X
+55,Urban population,1977,15.347,X
+56,Urban population,1982,18.516,X
+57,Urban population,1987,20.982,X
+58,Urban population,1992,22.373,X
+59,Urban population,1997,24.499,X
+60,Urban population,2002,26.413,X
+61,Urban population,2007,28.48,X
+62,Urban population,2012,30.692,X
+63,Urban population,2017,32.422,X
+64,Urban population,2018,32.626,X
+65,Gross Domestic Product (GDP),1972,102740596.0,X
+66,Gross Domestic Product (GDP),1977,182192467.0,X
+67,Gross Domestic Product (GDP),1982,302205606.0,X
+68,Gross Domestic Product (GDP),1987,569913826.0,X
+69,Gross Domestic Product (GDP),1992,929257389.0,X
+70,Gross Domestic Product (GDP),1997,1107743878.0,X
+71,Gross Domestic Product (GDP),2002,1297098320.0,X
+72,Gross Domestic Product (GDP),2007,2487553677.0,X
+73,Gross Domestic Product (GDP),2012,1800605835.0,X
+74,Gross Domestic Product (GDP),2017,1528621195.0,X
+75,GDP per capita,1972,5296.45303,X
+76,GDP per capita,1977,8976.767204,X
+77,GDP per capita,1982,13772.301241,X
+78,GDP per capita,1987,24554.667191,X
+79,GDP per capita,1992,37547.270149,X
+80,GDP per capita,1997,41789.0402,X
+81,GDP per capita,2002,46125.611473,X
+82,GDP per capita,2007,82982.075506,X
+83,GDP per capita,2012,56420.562604,X
+84,GDP per capita,2017,45767.101651,X
+85,GDP per capita,2018,48802.05605,X
+86,"Agriculture, value added (% GDP)",1972,0.08794,X
+87,"Agriculture, value added (% GDP)",1977,0.087941,X
+88,"Agriculture, value added (% GDP)",1982,0.087942,X
+89,"Agriculture, value added (% GDP)",1987,0.087942,X
+90,"Agriculture, value added (% GDP)",1992,0.087868,X
+91,"Agriculture, value added (% GDP)",1997,0.087967,X
+92,"Agriculture, value added (% GDP)",2002,0.078145,X
+93,"Agriculture, value added (% GDP)",2007,0.056671,X
+94,"Agriculture, value added (% GDP)",2012,0.054231,X
+95,"Agriculture, value added (% GDP)",2017,0.020479,X
+96,Interannual variability (WRI),2017,1.4,I
+97,Interannual variability (WRI),2018,1.4,I
+98,Seasonal variability (WRI),2017,1.7,I
+99,Seasonal variability (WRI),2018,1.7,I
+100,Flood occurrence (WRI),2017,2.3,I
+101,Flood occurrence (WRI),2018,2.3,I
