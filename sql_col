@@ -28,7 +28,7 @@ CREATE TABLE food_production (
 "Eutrophying emissions per 100g protein" dec
 );
 CREATE TABLE regions (
-"ID" int,
+
 "Country" VARCHAR ,
 "Lat" dec,
 "Long" dec,
