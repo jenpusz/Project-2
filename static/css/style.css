@@ -1,0 +1,201 @@
+.wrapper {
+    position: relative;
+    min-height: 100%;  
+    }
+  
+  .footer {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    min-height: 90px;
+    background: #1a1a1a;
+  }
+  
+  /* Footer text */
+  .footer > .bottom {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background: #1a1a1a;
+  }
+  
+  .row {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .cover {
+    object-fit: cover;
+  }
+  
+  #navbar-narrow {
+    padding: 0.5rem 1rem;
+  }
+
+
+  
+  /* The styles for the parallax */
+  .hero {
+    position: relative;
+    height: 650px;
+    padding: 20px;
+    margin: 0;
+    background: black;
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+    }
+    
+  .heroLanding {
+  background-image: url("../assets/home_page_main_800x500.jpg");
+  }
+  
+  .heroimpact_on {
+  background-image: url("home_page_main_800x500.jpg");
+  }
+  
+  .heroRepository {
+  background-image: url("../assets/team.jpg");
+  }
+  
+  .hero h1 {
+  margin-top: 200px;
+  font-size: 6.0rem;
+  }
+  
+  .hero p {
+  font-size: 2rem;
+  opacity: 0;
+  }
+  
+  .headshot {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+  
+  /* Eutrophication Map */
+  .info { 
+    padding: 4px 4px; 
+    font: 12px/14px Arial, Helvetica, sans-serif; 
+    background: white; 
+    background: rgba(255,255,255,0.8); 
+    box-shadow: 0 0 15px rgba(0,0,0,0.2); 
+    border-radius: 5px; 
+  } 
+  .info h5 { 
+    /* margin: 0 0 5px;  */
+    color: #777; 
+  }
+  .legend { 
+    text-align: left; 
+    line-height: 18px; 
+    color: #555; 
+  } 
+  .legend i { 
+    width: 18px; 
+    height: 18px; 
+    float: left; 
+    margin-right: 8px; 
+    opacity: 0.7; 
+  }
+  
+    /* D3 Styles */
+  .aText {
+    font-family: sans-serif;
+    font-size: 12px;
+    text-anchor: middle;
+  }
+  
+  .titleText {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-anchor:  middle;
+  }
+  
+  .active {
+    font-weight: bold;
+    fill: #000;
+    transition: fill 0.3s ease-out;
+    text-anchor: middle;
+  }
+  
+  .inactive {
+    font-weight: lighter;
+    fill: #c9c9c9;
+    transition: fill 0.3s ease-out;
+    text-anchor: middle;
+  }
+  
+  .inactive:hover {
+    fill: #000;
+    cursor: pointer;
+  }
+  
+  .goldCircles {
+    fill: rgba(255,221,50,0.4);
+    stroke: rgba(255,221,50,1);
+  }
+  
+  .silverCircles {
+    fill: rgba(74,74,74,0.4);
+    stroke: rgba(74,74,74,1);
+  }
+  
+  .bronzeCircles {
+    fill: rgba(128,74,0,0.4);
+    stroke: rgba(128,74,0,1);
+  }
+  
+  .tooltip {
+    position: absolute;
+    width: 135px;
+    height: 60px;
+    padding: 2px;
+    padding-top: 8px;
+    font: 12px sans-serif;
+    color: white;
+    text-align: center;
+    background: #f7f7f9;
+    border: 0;
+    border-radius: 10px;
+  }
+    
+  .chart {
+    display: block;
+    margin: 0;
+  }
+  
+  .d3-tip {
+    padding: 6px;
+    font-size: 12px;
+    line-height: 1;
+    line-height: 1.5em;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 4px;
+  }
+  
+  /* Mobile Rules */
+  @media screen and (max-width: 530px) {
+    .stateText {
+      display: none;
+    }
+  
+    .aText {
+      font-size: 14px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .aText {
+      font-size: 13px;
+    }
+  }

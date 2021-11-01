@@ -20,3 +20,58 @@ CREATE TABLE year_temp (
 "Year" int,
 "Change in Temp (C)" dec
 );
+
+CREATE TABLE food_production (
+"Food product" VARCHAR ,
+"Eutrophying emissions per 1000kcal" dec,
+"Eutrophying emissions per kilogram" dec,
+"Eutrophying emissions per 100g protein" dec
+);
+CREATE TABLE regions (
+"ID" int,
+"Country" VARCHAR ,
+"Lat" dec,
+"Long" dec,
+"Classification" VARCHAR 
+);
+CREATE TABLE emission_by_sector (
+"Area" VARCHAR,
+"Item" int,
+"Element" int,
+"Year" int,
+"Unit" VARCHAR,
+"Value" dec
+);
+CREATE TABLE world_agriculture_emissions(
+"Area" VARCHAR,
+"Item" VARCHAR,
+"Element" VARCHAR,
+"Year" int,
+"Unit" VARCHAR,
+"Value" dec
+);
+CREATE TABLE GHG (
+"Food product" VARCHAR ,
+"Land use change" Float,
+"Animal Feed" Float,
+"Farm" Float,
+"Processing" Float,
+"Transport" Float,
+"Packging" Float,
+"Retail" Float,
+"Total_emissions" Float,
+"Eutrophying emissions per 1000kcal (gPO₄eq per 1000kcal)" Float,
+"Eutrophying emissions per kilogram (gPO₄eq per kilogram)" Float,
+"Eutrophying emissions per 100g protein (gPO₄eq per 100 grams protein)" Float,
+"Freshwater withdrawals per 1000kcal (liters per 1000kcal)" Float,
+"Freshwater withdrawals per 100g protein (liters per 100g protein)" Float,
+"Freshwater withdrawals per kilogram (liters per kilogram)" Float,
+"Greenhouse gas emissions per 1000kcal (kgCO₂eq per 1000kcal)" Float,
+"Greenhouse gas emissions per 100g protein (kgCO₂eq per 100g protein)" Float,
+"Land use per 1000kcal (m² per 1000kcal)" Float,
+"Land use per kilogram (m² per kilogram)" Float,
+"Land use per 100g protein (m² per 100g protein)" Float,
+"Scarcity-weighted water use per kilogram (liters per kilogram)" Float,
+"Scarcity-weighted water use per 100g protein (liters per 100g protein)" Float,
+"Scarcity-weighted water use per 1000kcal (liters per 1000 kilocalories)" Float
+);
