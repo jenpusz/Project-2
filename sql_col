@@ -22,16 +22,17 @@ CREATE TABLE year_temp (
 );
 
 CREATE TABLE food_production (
-"Food Product" VARCHAR (30),
+"Food product" VARCHAR ,
 "Eutrophying emissions per 1000kcal" dec,
 "Eutrophying emissions per kilogram" dec,
 "Eutrophying emissions per 100g protein" dec
 );
 CREATE TABLE regions (
-"Country" VARCHAR (30),
+"ID" int,
+"Country" VARCHAR ,
 "Lat" dec,
 "Long" dec,
-"Classification" VARCHAR (30)
+"Classification" VARCHAR 
 );
 CREATE TABLE emission_by_sector (
 "Area" VARCHAR,
@@ -41,10 +42,10 @@ CREATE TABLE emission_by_sector (
 "Unit" VARCHAR,
 "Value" dec
 );
-CREATE TABLE Emission_from_Agriculture (
+CREATE TABLE world_agriculture_emissions(
 "Area" VARCHAR,
-"Item" int,
-"Element" int,
+"Item" VARCHAR,
+"Element" VARCHAR,
 "Year" int,
 "Unit" VARCHAR,
 "Value" dec
