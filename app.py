@@ -26,7 +26,7 @@ app = Flask(__name__)
 def connect ():
     db_server_info = {"host": "localhost", 
                   "port": 5432, 
-                  "dbname": "ghg_emissions", 
+                  "dbname": "climate_temp", 
                   "user": "postgres", 
                   "password": "postgres"} 
     conn_str = "{}://{}:{}@{}:{}/{}".format(
@@ -46,21 +46,21 @@ def home():
     return render_template ("index.html")
 
 
-
+#Create a route for each table and return a dictionary 
 @app.route("/ghg")
 def ghg():
    
         #Return the data
         conn = connect()
-        data = pandas.read_sql('SELECT * FROM "GHG"', conn)
+        data = pandas.read_sql('SELECT * FROM ghg', conn)
         return jsonify(data.to_dict (orient='records'))
 
-@app.route("/Emission_from_Agriculture")
-def ghg():
+@app.route("/world_agriculture_emissions")
+def emissions():
    
         #Return the data
         conn = connect()
-        data = pandas.read_sql('SELECT * FROM Emission_from_Agriculture', conn)
+        data = pandas.read_sql('SELECT * FROM world_agriculture_emissions', conn)
         return jsonify(data.to_dict (orient='records'))
 
 

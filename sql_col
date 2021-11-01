@@ -44,8 +44,8 @@ CREATE TABLE emission_by_sector (
 );
 CREATE TABLE world_agriculture_emissions(
 "Area" VARCHAR,
-"Item" int,
-"Element" int,
+"Item" VARCHAR,
+"Element" VARCHAR,
 "Year" int,
 "Unit" VARCHAR,
 "Value" dec
