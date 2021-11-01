@@ -6,7 +6,7 @@ CREATE TABLE temp_simple (
 "Change in Temp (C)" dec
 );
 
-CREATE TABLE temp_full
+CREATE TABLE temp_full (
 
 "Country" VARCHAR,
 "Month" VARCHAR,
