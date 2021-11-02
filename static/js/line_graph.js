@@ -27,7 +27,7 @@ var chartGroup = svg.append("g")
 // Configure a parseTime function which will return a new Date object from a string
 // var parseTime = d3.timeParse("%B");
 
-// Load data from world_agriculture_emissions.csv
+// Load data from world_agriculture_emissions app route from flask
 d3.json("/world_agriculture_emissions").then(function(co2Data) {
 
   // Print the co2Data
@@ -35,9 +35,8 @@ d3.json("/world_agriculture_emissions").then(function(co2Data) {
 
   // Format the date and cast the miles value to a number LOOK AT HOMEWORK!
   co2Data.forEach(function(data) {
-      data.Year = d3.timeParse("%B")
-    // data.Year = parseTime(data.Year);
-   
+    var parseTime = d3.timeParse("%Y")
+    data.Year = parseTime(data.Year);
   });
 
   // Configure a time scale with a range between 0 and the chartWidth

@@ -1,6 +1,6 @@
 //EUTROPHIC MAP USING LEAFLET
 // Create the tile layer that will be the background of our map
-function createMap(classifcationStatus) {
+function createMap(classificationStatus) {
 
     // Create the tile layer that will be the background of our map
     var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -17,14 +17,14 @@ function createMap(classifcationStatus) {
   
     // Create an overlayMaps object to hold the classification layer
     var overlayMaps = {
-      "Classification": classificationStat
+      "Classification": classificationStatus
     };
   
     // Create the map object with options
     var map = L.map("map-id", {
       center: [40.73, -74.0059],
       zoom: 12,
-      layers: [lightmap, classificationStat]
+      layers: [lightmap, classificationStatus]
     });
   
     // Create a layer control, pass in the baseMaps and overlayMaps. Add the layer control to the map
